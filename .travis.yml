@@ -1,0 +1,16 @@
+language: python
+python:
+- '2.7'
+install: pip install -q -r requirements.txt
+script: mkdocs build
+env:
+  global: 
+    - secure: "ZytQdik8fnaR3qd2EAbT32au6eIxwogrolS1Um2aC55xlkCg/kiM6JHlb4afdFo9gg7B9MazCI8D1TIxJe3eMJ1SsvbFd2n2Ty5zbnvPCDfNUHhWJW7rg4lhHKAqz/IvHo2ClSLmy2IacKHcDwLk3BwBDj9kdSMGF4KueBPxkTLObI4SuiL9z9iQT+3IDsVhfwXXVyg1pdn9TFpWm9tKT21N1Y9GmJxquJmRr7u9yE6RGd3rXdS4S/qG01fgPdEhNTnBQplMj03QWl522WsPIdyHdfatWCgkWbgtQHBGwEqgVQ3ZvNtW0eA+k3C1VJAVNlSheZNDAJJ4EWSFYrQyBn5zir6hhfjqQX30TLFzYr6bKaPBPQpRtJzDmHMEcqltp8+V/gUs6uF6ptQtgGq/H+JB5P38GJBL9W2TtEV2u/baRX15iWxyN4Bmxzrsvj/HVL8Qx1R9Faqih5EdbD2ObIUw3aJOkF4rCs7yQ98zoA6VISwItGEMFXtLfMpt1PSbqQuDQVHumOiGkNVMsBaLuk8Ln3cfJPM1m0CTHuPpE+SqEhRdJNo9xX33EV/NH0MAnRXpoyRtnEOfwj5+s/JcwRiVy5nl67aKvlKe3a/R/QOjXzBcxob64TNBfaEOk5pqX/TYHY1l6oxE0uhhPYSS4Ts2O8uGivint5C/0PvjZ9U="
+after_success: 
+- git config user.name "Brian J King"
+- git config user.email "brianjosephking@gmail.com"
+- git remote add gh-token "https://${GH_TOKEN}@github.com/brianjking/1upkeyboard-docs.git";
+- git fetch gh-token && git fetch gh-token gh-pages:gh-pages;
+- pip install mkdocs -U;
+- mkdocs gh-deploy -v --remote-name gh-token;
+

@@ -18,16 +18,7 @@ pages:
 #    - Color Scheme: style-guide/color-scheme.md
 #    - Typefaces: style-guide/typefaces.md
 theme: material
-#theme: null
-#theme_dir: material
-#theme_dir: mkdocs-material/material
-#markdown_extensions:
-#    - toc:
-#        permalink: '#'
-#    - admonition
-#    - pymdownx.tilde
-#    - markdown.extensions.smarty
-#    - pymdownx.smartsymbols
+
 # Options
 extra:
   feature:
