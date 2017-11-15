@@ -1,1 +1,71 @@
-site_name: My Docs
+site_name: 1upkeyboards.com Docs 
+copyright: 2017-2018 &copy; Brian J King unless otherwise noted.
+site_description: 1upkeyboards.com website documentation 
+site_author: Brian J King
+repo_url: https://github.com/brianjking/1upkeyboard-docs
+#site_url: http://help.hudsonvalleydockdogs.com
+pages:
+- Home: index.md
+#- WordPress Basics:
+#    - Getting Started: wordpress-basics/basics.md
+#    - Working with Posts: wordpress-basics/posts.md
+#    - Working with Pages: wordpress-basics/pages.md
+#    - Working with Forms: wordpress-basics/forms.md
+#- Advanced:
+#    - Working with Divi: advanced/divi.md
+#    - Working with Events: advanced/events.md
+#- Style Guide:
+#    - Color Scheme: style-guide/color-scheme.md
+#    - Typefaces: style-guide/typefaces.md
+theme: material
+#theme: null
+#theme_dir: material
+#theme_dir: mkdocs-material/material
+#markdown_extensions:
+#    - toc:
+#        permalink: '#'
+#    - admonition
+#    - pymdownx.tilde
+#    - markdown.extensions.smarty
+#    - pymdownx.smartsymbols
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite(guess_lang=false)
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc(permalink=true)
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+
+
+# Options
+extra:
+  version: '1.1'
+  #logo: 'img/logo.png'
+  palette:
+    primary: 'light blue'
+    accent: 'pink'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
+  social:
+    - type: github-alt
+      link: https://github.com/brianjking
+    - type: twitter
+      link: https://twitter.com/brianjking
+    - type: linkedin
+      link: https://www.linkedin.com/in/brianjking
