@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/wordpress-basics/menu/", 
-            "text": "Managing the WordPress Menus\n\n\nThere are 2 menus used for the 1upkeyboards.com website. One if the \nPRIMARY MENU\n and then there is a \nFOOTER MENU\n which has links used in the footer of every page. \n\n\nManaging the Primary Menu\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \n \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT", 
+            "text": "Managing the WordPress Menus\n\n\nThere are 2 menus used for the 1upkeyboards.com website. One if the \nPRIMARY MENU\n and then there is a \nFOOTER MENU\n which has links used in the footer of every page. \n\n\nManaging the Primary Menu\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \n \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT\n\n\n\n\n\n\nManaging the Footer Menu", 
             "title": "Updating The Menu"
         }, 
         {
@@ -39,6 +39,11 @@
             "location": "/wordpress-basics/menu/#managing-the-primary-menu", 
             "text": "Login to the WordPress Admin area with an administrator username and password.  From the menu on the left hand side of the WordPress Admin area navigate to  APPEARANCE     MENUS    Select  PRIMARY (PRIMARY MENU)  from the dropdown and click  SELECT", 
             "title": "Managing the Primary Menu"
+        }, 
+        {
+            "location": "/wordpress-basics/menu/#managing-the-footer-menu", 
+            "text": "", 
+            "title": "Managing the Footer Menu"
         }, 
         {
             "location": "/wordpress-basics/media/", 
@@ -72,12 +77,12 @@
         }, 
         {
             "location": "/wordpress-basics/update-plugins/", 
-            "text": "Keeping WordPress Core \n Plugins Up-to-Date\n\n\n\n\nWarning\n\n\nKeeping the WordPress Core \n all plugins up-to-date is essential to the security of the website.", 
+            "text": "Keeping WordPress Core \n Plugins Up-to-Date\n\n\n\n\nWarning\n\n\nKeeping the WordPress Core, all plugins, \n the Divi Parent theme up-to-date is essential to the security of the website.", 
             "title": "Keeping WordPress Core & Plugins Updated"
         }, 
         {
             "location": "/wordpress-basics/update-plugins/#keeping-wordpress-core-plugins-up-to-date", 
-            "text": "Warning  Keeping the WordPress Core   all plugins up-to-date is essential to the security of the website.", 
+            "text": "Warning  Keeping the WordPress Core, all plugins,   the Divi Parent theme up-to-date is essential to the security of the website.", 
             "title": "Keeping WordPress Core &amp; Plugins Up-to-Date"
         }, 
         {
