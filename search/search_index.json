@@ -17,28 +17,48 @@
         }, 
         {
             "location": "/wordpress-basics/adding-news-posts/", 
-            "text": "", 
+            "text": "Adding News Posts to WordPress", 
             "title": "Adding News Posts"
         }, 
         {
+            "location": "/wordpress-basics/adding-news-posts/#adding-news-posts-to-wordpress", 
+            "text": "", 
+            "title": "Adding News Posts to WordPress"
+        }, 
+        {
             "location": "/wordpress-basics/menu/", 
-            "text": "Managing the WordPress Menu", 
+            "text": "Managing the WordPress Menus\n\n\nThere are 2 menus used for the 1upkeyboards.com website. One if the \nPRIMARY MENU\n and then there is a \nFOOTER MENU\n which has links used in the footer of every page. \n\n\nManaging the Primary Menu\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \n \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT", 
             "title": "Updating The Menu"
         }, 
         {
-            "location": "/wordpress-basics/menu/#managing-the-wordpress-menu", 
-            "text": "", 
-            "title": "Managing the WordPress Menu"
+            "location": "/wordpress-basics/menu/#managing-the-wordpress-menus", 
+            "text": "There are 2 menus used for the 1upkeyboards.com website. One if the  PRIMARY MENU  and then there is a  FOOTER MENU  which has links used in the footer of every page.", 
+            "title": "Managing the WordPress Menus"
+        }, 
+        {
+            "location": "/wordpress-basics/menu/#managing-the-primary-menu", 
+            "text": "Login to the WordPress Admin area with an administrator username and password.  From the menu on the left hand side of the WordPress Admin area navigate to  APPEARANCE     MENUS    Select  PRIMARY (PRIMARY MENU)  from the dropdown and click  SELECT", 
+            "title": "Managing the Primary Menu"
         }, 
         {
             "location": "/wordpress-basics/media/", 
-            "text": "Adding Media to WordPress", 
+            "text": "Managing Media in WordPress\n\n\nAdding Media to WordPress\n\n\nEditing Media in WordPress", 
             "title": "Adding Media"
+        }, 
+        {
+            "location": "/wordpress-basics/media/#managing-media-in-wordpress", 
+            "text": "", 
+            "title": "Managing Media in WordPress"
         }, 
         {
             "location": "/wordpress-basics/media/#adding-media-to-wordpress", 
             "text": "", 
             "title": "Adding Media to WordPress"
+        }, 
+        {
+            "location": "/wordpress-basics/media/#editing-media-in-wordpress", 
+            "text": "", 
+            "title": "Editing Media in WordPress"
         }, 
         {
             "location": "/wordpress-basics/flush-cache/", 
@@ -52,8 +72,13 @@
         }, 
         {
             "location": "/wordpress-basics/update-plugins/", 
-            "text": "", 
+            "text": "Keeping WordPress Core \n Plugins Up-to-Date\n\n\n\n\nWarning\n\n\nKeeping the WordPress Core \n all plugins up-to-date is essential to the security of the website.", 
             "title": "Keeping WordPress Core & Plugins Updated"
+        }, 
+        {
+            "location": "/wordpress-basics/update-plugins/#keeping-wordpress-core-plugins-up-to-date", 
+            "text": "Warning  Keeping the WordPress Core   all plugins up-to-date is essential to the security of the website.", 
+            "title": "Keeping WordPress Core &amp; Plugins Up-to-Date"
         }, 
         {
             "location": "/wordpress-basics/managing-homepage-slider/", 
@@ -97,13 +122,23 @@
         }, 
         {
             "location": "/advanced/ab-testing-with-divi/", 
-            "text": "A/B Testing with Divi", 
+            "text": "A/B Testing with Divi\n\n\nDivi has a unique and valuable A/B Testing feature included in the theme framework. This is a great way to test out new changes to the site and analyze which copy, images, or video perform better. \n\n\nSetting up an A/B Test\n\n\nFurther Reading/Resources\n\n\n\n\nUsing A/B Testing in Bloom Mailchimp Subscription Forms\n\n\nUsing Divi Leads", 
             "title": "A/B Testing with Divi"
         }, 
         {
             "location": "/advanced/ab-testing-with-divi/#ab-testing-with-divi", 
-            "text": "", 
+            "text": "Divi has a unique and valuable A/B Testing feature included in the theme framework. This is a great way to test out new changes to the site and analyze which copy, images, or video perform better.", 
             "title": "A/B Testing with Divi"
+        }, 
+        {
+            "location": "/advanced/ab-testing-with-divi/#setting-up-an-ab-test", 
+            "text": "", 
+            "title": "Setting up an A/B Test"
+        }, 
+        {
+            "location": "/advanced/ab-testing-with-divi/#further-readingresources", 
+            "text": "Using A/B Testing in Bloom Mailchimp Subscription Forms  Using Divi Leads", 
+            "title": "Further Reading/Resources"
         }
     ]
 }
