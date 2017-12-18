@@ -1,6 +1,6 @@
-site_name: 1upkeyboards.com Docs 
+site_name: 1upkeyboards.com Docs
 copyright: 2017-2018 &copy; Brian J King unless otherwise noted.
-site_description: 1upkeyboards.com website documentation 
+site_description: 1upkeyboards.com website documentation
 site_author: Brian J King
 repo_url: https://github.com/brianjking/1upkeyboard-docs
 #site_url: http://help.hudsonvalleydockdogs.com
@@ -12,6 +12,7 @@ pages:
     - Adding Media: wordpress-basics/media.md
     - Manually Flush Siteground Caching: wordpress-basics/flush-cache.md
     - Keeping WordPress Core & Plugins Updated: wordpress-basics/update-plugins.md
+    - Managing Homepage Slider: wordpress-basics/managing-homepage-slider.md
 - WooCommerce:
     - Adding Products: woocommerce/add-products.md
     - Editing Products: woocommerce/edit-products.md
