@@ -22,13 +22,23 @@
         }, 
         {
             "location": "/wordpress-basics/menu/", 
-            "text": "", 
+            "text": "Managing the WordPress Menu", 
             "title": "Updating The Menu"
         }, 
         {
-            "location": "/wordpress-basics/media/", 
+            "location": "/wordpress-basics/menu/#managing-the-wordpress-menu", 
             "text": "", 
+            "title": "Managing the WordPress Menu"
+        }, 
+        {
+            "location": "/wordpress-basics/media/", 
+            "text": "Adding Media to WordPress", 
             "title": "Adding Media"
+        }, 
+        {
+            "location": "/wordpress-basics/media/#adding-media-to-wordpress", 
+            "text": "", 
+            "title": "Adding Media to WordPress"
         }, 
         {
             "location": "/wordpress-basics/flush-cache/", 
@@ -46,19 +56,44 @@
             "title": "Keeping WordPress Core & Plugins Updated"
         }, 
         {
-            "location": "/woocommerce/add-products/", 
+            "location": "/wordpress-basics/managing-homepage-slider/", 
+            "text": "Managing Homepage Slider Items", 
+            "title": "Managing Homepage Slider"
+        }, 
+        {
+            "location": "/wordpress-basics/managing-homepage-slider/#managing-homepage-slider-items", 
             "text": "", 
+            "title": "Managing Homepage Slider Items"
+        }, 
+        {
+            "location": "/woocommerce/add-products/", 
+            "text": "Adding New Products to WooCommerce", 
             "title": "Adding Products"
         }, 
         {
-            "location": "/woocommerce/edit-products/", 
+            "location": "/woocommerce/add-products/#adding-new-products-to-woocommerce", 
             "text": "", 
+            "title": "Adding New Products to WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/edit-products/", 
+            "text": "Editing Existing Products in WooCommerce", 
             "title": "Editing Products"
         }, 
         {
-            "location": "/advanced/hide-elements-with-divi/", 
+            "location": "/woocommerce/edit-products/#editing-existing-products-in-woocommerce", 
             "text": "", 
+            "title": "Editing Existing Products in WooCommerce"
+        }, 
+        {
+            "location": "/advanced/hide-elements-with-divi/", 
+            "text": "Hide Elements on certain device types in Divi", 
             "title": "Hiding Elements on Certain Device Types with Divi"
+        }, 
+        {
+            "location": "/advanced/hide-elements-with-divi/#hide-elements-on-certain-device-types-in-divi", 
+            "text": "", 
+            "title": "Hide Elements on certain device types in Divi"
         }
     ]
 }
