@@ -2,23 +2,63 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the 1upkeyboards.com docs\n\n\nThis is for the 1upkeyboards.com website.\n\n\nNavigating\n\n\n\n\nNavigate using the menu to the left.", 
+            "text": "Welcome to the 1upkeyboards.com docs\n\n\nThis is a guide for managing the \n1upkeyboards website\n.\n\n\nNavigating the guide\n\n\n\n\nYou can navigate through the sections using the menu on the left.", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-the-1upkeyboardscom-docs", 
-            "text": "This is for the 1upkeyboards.com website.", 
+            "text": "This is a guide for managing the  1upkeyboards website .", 
             "title": "Welcome to the 1upkeyboards.com docs"
         }, 
         {
-            "location": "/#navigating", 
-            "text": "Navigate using the menu to the left.", 
-            "title": "Navigating"
+            "location": "/#navigating-the-guide", 
+            "text": "You can navigate through the sections using the menu on the left.", 
+            "title": "Navigating the guide"
         }, 
         {
             "location": "/wordpress-basics/adding-news-posts/", 
             "text": "", 
-            "title": "Getting Started"
+            "title": "Adding News Posts"
+        }, 
+        {
+            "location": "/wordpress-basics/menu/", 
+            "text": "", 
+            "title": "Updating The Menu"
+        }, 
+        {
+            "location": "/wordpress-basics/media/", 
+            "text": "", 
+            "title": "Adding Media"
+        }, 
+        {
+            "location": "/wordpress-basics/flush-cache/", 
+            "text": "Flush SiteGround Caching", 
+            "title": "Manually Flush Siteground Caching"
+        }, 
+        {
+            "location": "/wordpress-basics/flush-cache/#flush-siteground-caching", 
+            "text": "", 
+            "title": "Flush SiteGround Caching"
+        }, 
+        {
+            "location": "/wordpress-basics/update-plugins/", 
+            "text": "", 
+            "title": "Keeping WordPress Core & Plugins Updated"
+        }, 
+        {
+            "location": "/woocommerce/add-products/", 
+            "text": "", 
+            "title": "Adding Products"
+        }, 
+        {
+            "location": "/woocommerce/edit-products/", 
+            "text": "", 
+            "title": "Editing Products"
+        }, 
+        {
+            "location": "/advanced/hide-elements-with-divi/", 
+            "text": "", 
+            "title": "Hiding Elements on Certain Device Types with Divi"
         }
     ]
 }
