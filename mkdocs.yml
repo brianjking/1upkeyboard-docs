@@ -6,8 +6,8 @@ repo_url: https://github.com/brianjking/1upkeyboard-docs
 #site_url: http://help.hudsonvalleydockdogs.com
 pages:
 - Home: index.md
-#- WordPress Basics:
-#    - Getting Started: wordpress-basics/basics.md
+- WordPress Basics:
+    - Getting Started: wordpress-basics/adding-news-posts.md
 #    - Working with Posts: wordpress-basics/posts.md
 #    - Working with Pages: wordpress-basics/pages.md
 #    - Working with Forms: wordpress-basics/forms.md
