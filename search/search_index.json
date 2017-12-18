@@ -94,6 +94,16 @@
             "location": "/advanced/hide-elements-with-divi/#hide-elements-on-certain-device-types-in-divi", 
             "text": "", 
             "title": "Hide Elements on certain device types in Divi"
+        }, 
+        {
+            "location": "/advanced/ab-testing-with-divi/", 
+            "text": "A/B Testing with Divi", 
+            "title": "A/B Testing with Divi"
+        }, 
+        {
+            "location": "/advanced/ab-testing-with-divi/#ab-testing-with-divi", 
+            "text": "", 
+            "title": "A/B Testing with Divi"
         }
     ]
 }
