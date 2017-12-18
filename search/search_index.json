@@ -2,18 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the 1upkeyboards.com docs\n\n\nNavigating\n\n\n\n\nNavigate using the menu to the left.", 
+            "text": "Welcome to the 1upkeyboards.com docs\n\n\nThis is for the 1upkeyboards.com website.\n\n\nNavigating\n\n\n\n\nNavigate using the menu to the left.", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-the-1upkeyboardscom-docs", 
-            "text": "", 
+            "text": "This is for the 1upkeyboards.com website.", 
             "title": "Welcome to the 1upkeyboards.com docs"
         }, 
         {
             "location": "/#navigating", 
             "text": "Navigate using the menu to the left.", 
             "title": "Navigating"
+        }, 
+        {
+            "location": "/wordpress-basics/adding-news-posts/", 
+            "text": "", 
+            "title": "Getting Started"
         }
     ]
 }
