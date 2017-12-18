@@ -1,7 +1,7 @@
 # Welcome to the 1upkeyboards.com docs 
 
-This is for the 1upkeyboards.com website.
+This is a guide for managing the [1upkeyboards website](https://www.1upkeyboards.com).
 
-## Navigating
+## Navigating the guide 
 
-* Navigate using the menu to the left.
+* You can navigate through the sections using the menu on the left. 

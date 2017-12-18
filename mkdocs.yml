@@ -7,15 +7,16 @@ repo_url: https://github.com/brianjking/1upkeyboard-docs
 pages:
 - Home: index.md
 - WordPress Basics:
-    - Getting Started: wordpress-basics/adding-news-posts.md
-#    - Working with Posts: wordpress-basics/posts.md
-#    - Working with Pages: wordpress-basics/pages.md
-#    - Working with Forms: wordpress-basics/forms.md
-#- Advanced:
-#    - Working with Divi: advanced/divi.md
-#    - Working with Events: advanced/events.md
-#- Style Guide:
-#    - Color Scheme: style-guide/color-scheme.md
+    - Adding News Posts: wordpress-basics/adding-news-posts.md
+    - Updating The Menu: wordpress-basics/menu.md
+    - Adding Media: wordpress-basics/media.md
+    - Manually Flush Siteground Caching: wordpress-basics/flush-cache.md
+    - Keeping WordPress Core & Plugins Updated: wordpress-basics/update-plugins.md
+- WooCommerce:
+    - Adding Products: woocommerce/add-products.md
+    - Editing Products: woocommerce/edit-products.md
+- Advanced:
+    - Hiding Elements on Certain Device Types with Divi: advanced/hide-elements-with-divi.md
 #    - Typefaces: style-guide/typefaces.md
 theme: material
 
@@ -29,8 +30,6 @@ extra:
   social:
     - type: globe
       link: https://brianjking.io
-    - type: reddit
-      link: https://reddit.com/r/mechanicalkeyboards
     - type: github-alt
       link: https://github.com/brianjking
     - type: twitter
