@@ -16,6 +16,7 @@ pages:
 - WooCommerce:
     - Adding Products: woocommerce/add-products.md
     - Editing Products: woocommerce/edit-products.md
+    - Misc WooCommerce: woocommerce/misc-woocommerce.md
 - Advanced:
     - Hiding Elements on Certain Device Types with Divi: advanced/hide-elements-with-divi.md
     - A/B Testing with Divi: advanced/ab-testing-with-divi.md
