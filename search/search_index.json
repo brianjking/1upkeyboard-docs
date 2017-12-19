@@ -47,13 +47,18 @@
         }, 
         {
             "location": "/wordpress-basics/media/", 
-            "text": "Managing Media in WordPress\n\n\nAdding Media to WordPress\n\n\nEditing Media in WordPress", 
+            "text": "Managing Media in WordPress\n\n\nMedia Sizes\n\n\n\n\nCatalog Images - 400x400px (no hard crop)\n\n\nProduct Images - 510x999px (no hard crop)\n\n\nProduct Thumbnails - 157x157px (hard crop)\n\n\n\n\nAdding Media to WordPress\n\n\nEditing Media in WordPress", 
             "title": "Adding Media"
         }, 
         {
             "location": "/wordpress-basics/media/#managing-media-in-wordpress", 
             "text": "", 
             "title": "Managing Media in WordPress"
+        }, 
+        {
+            "location": "/wordpress-basics/media/#media-sizes", 
+            "text": "Catalog Images - 400x400px (no hard crop)  Product Images - 510x999px (no hard crop)  Product Thumbnails - 157x157px (hard crop)", 
+            "title": "Media Sizes"
         }, 
         {
             "location": "/wordpress-basics/media/#adding-media-to-wordpress", 
@@ -114,6 +119,21 @@
             "location": "/woocommerce/edit-products/#editing-existing-products-in-woocommerce", 
             "text": "", 
             "title": "Editing Existing Products in WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/misc-woocommerce/", 
+            "text": "Misc WooCommerce Details\n\n\nProducts Displayed Per Page\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.", 
+            "title": "Misc WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/misc-woocommerce/#misc-woocommerce-details", 
+            "text": "", 
+            "title": "Misc WooCommerce Details"
+        }, 
+        {
+            "location": "/woocommerce/misc-woocommerce/#products-displayed-per-page", 
+            "text": "Up to  40  products can be displayed on a product category page prior to pagination.  This is set in the Divi settings.", 
+            "title": "Products Displayed Per Page"
         }, 
         {
             "location": "/advanced/hide-elements-with-divi/", 
