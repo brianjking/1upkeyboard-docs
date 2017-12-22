@@ -122,7 +122,7 @@
         }, 
         {
             "location": "/woocommerce/misc-woocommerce/", 
-            "text": "Misc WooCommerce Details\n\n\nProducts Displayed Per Page\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.", 
+            "text": "Misc WooCommerce Details\n\n\nProducts Displayed Per Page\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.\n\n\n\n\n\n\n\n\nHiding Products from Search or Shop Catalog\n\n\nHiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nPRODUCTS\n \n \nALL PRODUCTS\n \n\n\nLocate the product you wish to edit\n\n\nClick \nEDIT PRODUCT\n\n\nIn the right hand column locate the \nPUBLISH\n box which has an option of \nCATALOG VISIBILITY\n and select \nEDIT\n.\n\n\nAvailable options for \nPRODUCT VISIBILITY\n  \n\n\nShop and search results\n\n\nShop only\n\n\nSearch results only\n\n\nHidden", 
             "title": "Misc WooCommerce"
         }, 
         {
@@ -134,6 +134,11 @@
             "location": "/woocommerce/misc-woocommerce/#products-displayed-per-page", 
             "text": "Up to  40  products can be displayed on a product category page prior to pagination.  This is set in the Divi settings.", 
             "title": "Products Displayed Per Page"
+        }, 
+        {
+            "location": "/woocommerce/misc-woocommerce/#hiding-products-from-search-or-shop-catalog", 
+            "text": "Hiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.   Login to WordPress Admin  Click on  PRODUCTS     ALL PRODUCTS    Locate the product you wish to edit  Click  EDIT PRODUCT  In the right hand column locate the  PUBLISH  box which has an option of  CATALOG VISIBILITY  and select  EDIT .  Available options for  PRODUCT VISIBILITY     Shop and search results  Shop only  Search results only  Hidden", 
+            "title": "Hiding Products from Search or Shop Catalog"
         }, 
         {
             "location": "/advanced/hide-elements-with-divi/", 
