@@ -72,13 +72,18 @@
         }, 
         {
             "location": "/wordpress-basics/flush-cache/", 
-            "text": "Flush SiteGround Caching", 
+            "text": "Flush SiteGround Caching\n\n\nIt is important to flush the \nSiteground SuperCacher\n cache when updating any content on the site. \n\n\nHow to Flush the SiteGround Cache\n\n\n\n\nLogin to the WordPress Admin as an \nADMINISTRATOR\n \n\n\nFrom the WordPress Admin horizontal toolbar click on \nFLUSH SG CACHE\n to flush the SiteGround SuperCacher.", 
             "title": "Manually Flush Siteground Caching"
         }, 
         {
             "location": "/wordpress-basics/flush-cache/#flush-siteground-caching", 
-            "text": "", 
+            "text": "It is important to flush the  Siteground SuperCacher  cache when updating any content on the site.", 
             "title": "Flush SiteGround Caching"
+        }, 
+        {
+            "location": "/wordpress-basics/flush-cache/#how-to-flush-the-siteground-cache", 
+            "text": "Login to the WordPress Admin as an  ADMINISTRATOR    From the WordPress Admin horizontal toolbar click on  FLUSH SG CACHE  to flush the SiteGround SuperCacher.", 
+            "title": "How to Flush the SiteGround Cache"
         }, 
         {
             "location": "/wordpress-basics/update-plugins/", 
