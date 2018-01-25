@@ -1,6 +1,6 @@
 # Welcome to the 1upkeyboards.com docs 
 
-![1upkeyboards logo 400px square](https://github.com/brianjking/1upkeyboard-docs/blob/gh-pages/images/1up400.jpeg)
+![1upkeyboards logo 400px square](https://raw.githubusercontent.com/brianjking/1upkeyboard-docs/gh-pages/images/1up400.jpeg)
 
 
 
