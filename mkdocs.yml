@@ -26,11 +26,11 @@ theme:
   logo: 'images/1uplogo.svg'
   language: 'en'
   palette:
-    primary: 'indigo'
-    accent: 'indigo'
+    primary: 'blue-grey'
+    accent: 'light-blue'
   font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
 
 
 # Options
