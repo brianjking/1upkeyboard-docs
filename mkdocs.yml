@@ -21,15 +21,24 @@ pages:
 - Advanced:
     - Hiding Elements on Certain Device Types with Divi: advanced/hide-elements-with-divi.md
     - A/B Testing with Divi: advanced/ab-testing-with-divi.md
-theme: material
+# Configuration
+theme:
+  name: 'material'
+  logo: 'images/1uplogo.svg'
+  language: 'en'
+  palette:
+    primary: 'blue-grey'
+    accent: 'light-blue'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+
 
 # Options
 extra:
+  logo: 'images/download.svg'
   feature:
     tabs: false
-  palette:
-    primary: light blue
-    accent: pink
   social:
     - type: globe
       link: https://brianjking.io

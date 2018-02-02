@@ -6,8 +6,9 @@ It is important to flush the [Siteground SuperCacher](https://www.siteground.com
 
 * Login to the WordPress Admin as an **ADMINISTRATOR** 
 * From the WordPress Admin horizontal toolbar click on **FLUSH SG CACHE** to flush the SiteGround SuperCacher. 
+* Wait for the page to reload (this might take a few seconds).
 
-![Flush SiteGround Supercacher](/images/flush-supercache.png)
+![Flush SiteGround Supercacher](../images/flush-supercacher.png)
 
 
 
