@@ -1,178 +1,203 @@
 {
     "docs": [
         {
-            "location": "/", 
-            "text": "Welcome to the 1upkeyboards.com docs\n\n\n\n\nThis is a guide for managing the \n1upkeyboards website\n.\n\n\nNavigating the guide\n\n\n\n\nYou can navigate through the sections using the menu on the left.", 
+            "location": "/",
+            "text": "Welcome to the 1upkeyboards.com docs\n\u00b6\n\n\n\n\nThis is a guide for managing the \n1upkeyboards website\n.\n\n\nNavigating the guide\n\u00b6\n\n\n\n\nYou can navigate through the sections using the menu on the left.",
             "title": "Home"
-        }, 
+        },
         {
-            "location": "/#welcome-to-the-1upkeyboardscom-docs", 
-            "text": "This is a guide for managing the  1upkeyboards website .", 
+            "location": "/#welcome-to-the-1upkeyboardscom-docs",
+            "text": "This is a guide for managing the  1upkeyboards website .",
             "title": "Welcome to the 1upkeyboards.com docs"
-        }, 
+        },
         {
-            "location": "/#navigating-the-guide", 
-            "text": "You can navigate through the sections using the menu on the left.", 
+            "location": "/#navigating-the-guide",
+            "text": "You can navigate through the sections using the menu on the left.",
             "title": "Navigating the guide"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/adding-news-posts/", 
-            "text": "Adding News Posts to WordPress", 
+            "location": "/wordpress-basics/adding-news-posts/",
+            "text": "Adding News Posts to WordPress\n\u00b6",
             "title": "Adding News Posts"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/adding-news-posts/#adding-news-posts-to-wordpress", 
-            "text": "", 
+            "location": "/wordpress-basics/adding-news-posts/#adding-news-posts-to-wordpress",
+            "text": "",
             "title": "Adding News Posts to WordPress"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/menu/", 
-            "text": "Managing the WordPress Menus\n\n\nThere are 2 menus used for the 1upkeyboards.com website. One if the \nPRIMARY MENU\n and then there is a \nFOOTER MENU\n which has links used in the footer of every page. \n\n\nManaging the Primary Menu\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \n \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT\n\n\n\n\n\n\nManaging the Footer Menu", 
+            "location": "/wordpress-basics/menu/",
+            "text": "Managing the WordPress Menus\n\u00b6\n\n\nThere are 2 menus used for the 1upkeyboards.com website. One if the \nPRIMARY MENU\n and then there is a \nFOOTER MENU\n which has links used in the footer of every page. \n\n\nManaging the Primary Menu\n\u00b6\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \u2192 \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT\n\n\n\n\n\n\nManaging the Footer Menu\n\u00b6",
             "title": "Updating The Menu"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/menu/#managing-the-wordpress-menus", 
-            "text": "There are 2 menus used for the 1upkeyboards.com website. One if the  PRIMARY MENU  and then there is a  FOOTER MENU  which has links used in the footer of every page.", 
+            "location": "/wordpress-basics/menu/#managing-the-wordpress-menus",
+            "text": "There are 2 menus used for the 1upkeyboards.com website. One if the  PRIMARY MENU  and then there is a  FOOTER MENU  which has links used in the footer of every page.",
             "title": "Managing the WordPress Menus"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/menu/#managing-the-primary-menu", 
-            "text": "Login to the WordPress Admin area with an administrator username and password.  From the menu on the left hand side of the WordPress Admin area navigate to  APPEARANCE     MENUS    Select  PRIMARY (PRIMARY MENU)  from the dropdown and click  SELECT", 
+            "location": "/wordpress-basics/menu/#managing-the-primary-menu",
+            "text": "Login to the WordPress Admin area with an administrator username and password.  From the menu on the left hand side of the WordPress Admin area navigate to  APPEARANCE  \u2192  MENUS    Select  PRIMARY (PRIMARY MENU)  from the dropdown and click  SELECT",
             "title": "Managing the Primary Menu"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/menu/#managing-the-footer-menu", 
-            "text": "", 
+            "location": "/wordpress-basics/menu/#managing-the-footer-menu",
+            "text": "",
             "title": "Managing the Footer Menu"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/media/", 
-            "text": "Managing Media in WordPress\n\n\nMedia Sizes\n\n\n\n\nCatalog Images - 400x400px (no hard crop)\n\n\nProduct Images - 510x999px (no hard crop)\n\n\nProduct Thumbnails - 157x157px (hard crop)\n\n\n\n\nAdding Media to WordPress\n\n\nEditing Media in WordPress", 
+            "location": "/wordpress-basics/media/",
+            "text": "Managing Media in WordPress\n\u00b6\n\n\nMedia Sizes\n\u00b6\n\n\n\n\nCatalog Images - 400x400px (no hard crop)\n\n\nProduct Images - 510x999px (no hard crop)\n\n\nProduct Thumbnails - 157x157px (hard crop)\n\n\n\n\nAdding Media to WordPress\n\u00b6\n\n\nEditing Media in WordPress\n\u00b6",
             "title": "Adding Media"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/media/#managing-media-in-wordpress", 
-            "text": "", 
+            "location": "/wordpress-basics/media/#managing-media-in-wordpress",
+            "text": "",
             "title": "Managing Media in WordPress"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/media/#media-sizes", 
-            "text": "Catalog Images - 400x400px (no hard crop)  Product Images - 510x999px (no hard crop)  Product Thumbnails - 157x157px (hard crop)", 
+            "location": "/wordpress-basics/media/#media-sizes",
+            "text": "Catalog Images - 400x400px (no hard crop)  Product Images - 510x999px (no hard crop)  Product Thumbnails - 157x157px (hard crop)",
             "title": "Media Sizes"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/media/#adding-media-to-wordpress", 
-            "text": "", 
+            "location": "/wordpress-basics/media/#adding-media-to-wordpress",
+            "text": "",
             "title": "Adding Media to WordPress"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/media/#editing-media-in-wordpress", 
-            "text": "", 
+            "location": "/wordpress-basics/media/#editing-media-in-wordpress",
+            "text": "",
             "title": "Editing Media in WordPress"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/flush-cache/", 
-            "text": "Flush SiteGround Caching\n\n\nIt is important to flush the \nSiteground SuperCacher\n cache when updating any content on the site. \n\n\nHow to Flush the SiteGround Cache\n\n\n\n\nLogin to the WordPress Admin as an \nADMINISTRATOR\n \n\n\nFrom the WordPress Admin horizontal toolbar click on \nFLUSH SG CACHE\n to flush the SiteGround SuperCacher. \n\n\nWait for the page to reload (this might take a few seconds).", 
+            "location": "/wordpress-basics/flush-cache/",
+            "text": "Flush SiteGround Caching\n\u00b6\n\n\nIt is important to flush the \nSiteground SuperCacher\n cache when updating any content on the site. \n\n\nHow to Flush the SiteGround Cache\n\u00b6\n\n\n\n\nLogin to the WordPress Admin as an \nADMINISTRATOR\n \n\n\nFrom the WordPress Admin horizontal toolbar click on \nFLUSH SG CACHE\n to flush the SiteGround SuperCacher. \n\n\nWait for the page to reload (this might take a few seconds).",
             "title": "Manually Flush Siteground Caching"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/flush-cache/#flush-siteground-caching", 
-            "text": "It is important to flush the  Siteground SuperCacher  cache when updating any content on the site.", 
+            "location": "/wordpress-basics/flush-cache/#flush-siteground-caching",
+            "text": "It is important to flush the  Siteground SuperCacher  cache when updating any content on the site.",
             "title": "Flush SiteGround Caching"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/flush-cache/#how-to-flush-the-siteground-cache", 
-            "text": "Login to the WordPress Admin as an  ADMINISTRATOR    From the WordPress Admin horizontal toolbar click on  FLUSH SG CACHE  to flush the SiteGround SuperCacher.   Wait for the page to reload (this might take a few seconds).", 
+            "location": "/wordpress-basics/flush-cache/#how-to-flush-the-siteground-cache",
+            "text": "Login to the WordPress Admin as an  ADMINISTRATOR    From the WordPress Admin horizontal toolbar click on  FLUSH SG CACHE  to flush the SiteGround SuperCacher.   Wait for the page to reload (this might take a few seconds).",
             "title": "How to Flush the SiteGround Cache"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/update-plugins/", 
-            "text": "Keeping WordPress Core \n Plugins Up-to-Date\n\n\n\n\nWarning\n\n\nKeeping the WordPress Core, all plugins, \n the Divi Parent theme up-to-date is essential to the security of the website.", 
+            "location": "/wordpress-basics/update-plugins/",
+            "text": "Keeping WordPress Core & Plugins Up-to-Date\n\u00b6\n\n\n\n\nWarning\n\n\nKeeping the WordPress Core, all plugins, & the Divi Parent theme up-to-date is essential to the security of the website.",
             "title": "Keeping WordPress Core & Plugins Updated"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/update-plugins/#keeping-wordpress-core-plugins-up-to-date", 
-            "text": "Warning  Keeping the WordPress Core, all plugins,   the Divi Parent theme up-to-date is essential to the security of the website.", 
+            "location": "/wordpress-basics/update-plugins/#keeping-wordpress-core-plugins-up-to-date",
+            "text": "Warning  Keeping the WordPress Core, all plugins, & the Divi Parent theme up-to-date is essential to the security of the website.",
             "title": "Keeping WordPress Core &amp; Plugins Up-to-Date"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/managing-homepage-slider/", 
-            "text": "Managing Homepage Slider Items", 
+            "location": "/wordpress-basics/managing-homepage-slider/",
+            "text": "Managing Homepage Slider Items\n\u00b6",
             "title": "Managing Homepage Slider"
-        }, 
+        },
         {
-            "location": "/wordpress-basics/managing-homepage-slider/#managing-homepage-slider-items", 
-            "text": "", 
+            "location": "/wordpress-basics/managing-homepage-slider/#managing-homepage-slider-items",
+            "text": "",
             "title": "Managing Homepage Slider Items"
-        }, 
+        },
         {
-            "location": "/woocommerce/add-products/", 
-            "text": "Adding New Products to WooCommerce", 
+            "location": "/wordpress-basics/other-resources/",
+            "text": "Other WordPress Resources\n\u00b6\n\n\nWordPress Docs\n\u00b6\n\n\nSecurity Related Resources\n\u00b6\n\n\n\n\nWordPress Vulnerability Alerts\n\n\nI suggest signing up for the \nemail newsletter\n to ensure you're promptly upgrading plugins, themes, or WordPress core.\n\n\n\n\n\n\n\n\nWooCommerce Docs\n\u00b6\n\n\n\n\nWooCommerce Docs",
+            "title": "Other Resources"
+        },
+        {
+            "location": "/wordpress-basics/other-resources/#other-wordpress-resources",
+            "text": "",
+            "title": "Other WordPress Resources"
+        },
+        {
+            "location": "/wordpress-basics/other-resources/#wordpress-docs",
+            "text": "",
+            "title": "WordPress Docs"
+        },
+        {
+            "location": "/wordpress-basics/other-resources/#security-related-resources",
+            "text": "WordPress Vulnerability Alerts  I suggest signing up for the  email newsletter  to ensure you're promptly upgrading plugins, themes, or WordPress core.",
+            "title": "Security Related Resources"
+        },
+        {
+            "location": "/wordpress-basics/other-resources/#woocommerce-docs",
+            "text": "WooCommerce Docs",
+            "title": "WooCommerce Docs"
+        },
+        {
+            "location": "/woocommerce/add-products/",
+            "text": "Adding New Products to WooCommerce\n\u00b6",
             "title": "Adding Products"
-        }, 
+        },
         {
-            "location": "/woocommerce/add-products/#adding-new-products-to-woocommerce", 
-            "text": "", 
+            "location": "/woocommerce/add-products/#adding-new-products-to-woocommerce",
+            "text": "",
             "title": "Adding New Products to WooCommerce"
-        }, 
+        },
         {
-            "location": "/woocommerce/edit-products/", 
-            "text": "Editing Existing Products in WooCommerce", 
+            "location": "/woocommerce/edit-products/",
+            "text": "Editing Existing Products in WooCommerce\n\u00b6",
             "title": "Editing Products"
-        }, 
+        },
         {
-            "location": "/woocommerce/edit-products/#editing-existing-products-in-woocommerce", 
-            "text": "", 
+            "location": "/woocommerce/edit-products/#editing-existing-products-in-woocommerce",
+            "text": "",
             "title": "Editing Existing Products in WooCommerce"
-        }, 
+        },
         {
-            "location": "/woocommerce/misc-woocommerce/", 
-            "text": "Misc WooCommerce Details\n\n\nProducts Displayed Per Page\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.\n\n\n\n\n\n\n\n\nHiding Products from Search or Shop Catalog\n\n\nHiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nPRODUCTS\n \n \nALL PRODUCTS\n \n\n\nLocate the product you wish to edit\n\n\nClick \nEDIT PRODUCT\n\n\nIn the right hand column locate the \nPUBLISH\n box which has an option of \nCATALOG VISIBILITY\n and select \nEDIT\n.\n\n\nAvailable options for \nPRODUCT VISIBILITY\n  \n\n\nShop and search results\n\n\nShop only\n\n\nSearch results only\n\n\nHidden", 
+            "location": "/woocommerce/misc-woocommerce/",
+            "text": "Misc WooCommerce Details\n\u00b6\n\n\nProducts Displayed Per Page\n\u00b6\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.\n\n\n\n\n\n\n\n\nHiding Products from Search or Shop Catalog\n\u00b6\n\n\nHiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nPRODUCTS\n \u2192 \nALL PRODUCTS\n \n\n\nLocate the product you wish to edit\n\n\nClick \nEDIT PRODUCT\n\n\nIn the right hand column locate the \nPUBLISH\n box which has an option of \nCATALOG VISIBILITY\n and select \nEDIT\n.\n\n\nAvailable options for \nPRODUCT VISIBILITY\n  \n\n\nShop and search results\n\n\nShop only\n\n\nSearch results only\n\n\nHidden",
             "title": "Misc WooCommerce"
-        }, 
+        },
         {
-            "location": "/woocommerce/misc-woocommerce/#misc-woocommerce-details", 
-            "text": "", 
+            "location": "/woocommerce/misc-woocommerce/#misc-woocommerce-details",
+            "text": "",
             "title": "Misc WooCommerce Details"
-        }, 
+        },
         {
-            "location": "/woocommerce/misc-woocommerce/#products-displayed-per-page", 
-            "text": "Up to  40  products can be displayed on a product category page prior to pagination.  This is set in the Divi settings.", 
+            "location": "/woocommerce/misc-woocommerce/#products-displayed-per-page",
+            "text": "Up to  40  products can be displayed on a product category page prior to pagination.  This is set in the Divi settings.",
             "title": "Products Displayed Per Page"
-        }, 
+        },
         {
-            "location": "/woocommerce/misc-woocommerce/#hiding-products-from-search-or-shop-catalog", 
-            "text": "Hiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.   Login to WordPress Admin  Click on  PRODUCTS     ALL PRODUCTS    Locate the product you wish to edit  Click  EDIT PRODUCT  In the right hand column locate the  PUBLISH  box which has an option of  CATALOG VISIBILITY  and select  EDIT .  Available options for  PRODUCT VISIBILITY     Shop and search results  Shop only  Search results only  Hidden", 
+            "location": "/woocommerce/misc-woocommerce/#hiding-products-from-search-or-shop-catalog",
+            "text": "Hiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.   Login to WordPress Admin  Click on  PRODUCTS  \u2192  ALL PRODUCTS    Locate the product you wish to edit  Click  EDIT PRODUCT  In the right hand column locate the  PUBLISH  box which has an option of  CATALOG VISIBILITY  and select  EDIT .  Available options for  PRODUCT VISIBILITY     Shop and search results  Shop only  Search results only  Hidden",
             "title": "Hiding Products from Search or Shop Catalog"
-        }, 
+        },
         {
-            "location": "/advanced/hide-elements-with-divi/", 
-            "text": "Hide Elements on certain device types in Divi", 
+            "location": "/advanced/hide-elements-with-divi/",
+            "text": "Hide Elements on certain device types in Divi\n\u00b6",
             "title": "Hiding Elements on Certain Device Types with Divi"
-        }, 
+        },
         {
-            "location": "/advanced/hide-elements-with-divi/#hide-elements-on-certain-device-types-in-divi", 
-            "text": "", 
+            "location": "/advanced/hide-elements-with-divi/#hide-elements-on-certain-device-types-in-divi",
+            "text": "",
             "title": "Hide Elements on certain device types in Divi"
-        }, 
+        },
         {
-            "location": "/advanced/ab-testing-with-divi/", 
-            "text": "A/B Testing with Divi\n\n\nDivi has a unique and valuable A/B Testing feature included in the theme framework. This is a great way to test out new changes to the site and analyze which copy, images, or video perform better. \n\n\nSetting up an A/B Test\n\n\nFurther Reading/Resources\n\n\n\n\nUsing A/B Testing in Bloom Mailchimp Subscription Forms\n\n\nUsing Divi Leads", 
+            "location": "/advanced/ab-testing-with-divi/",
+            "text": "A/B Testing with Divi\n\u00b6\n\n\nDivi has a unique and valuable A/B Testing feature included in the theme framework. This is a great way to test out new changes to the site and analyze which copy, images, or video perform better. \n\n\nSetting up an A/B Test\n\u00b6\n\n\nFurther Reading/Resources\n\u00b6\n\n\n\n\nUsing A/B Testing in Bloom Mailchimp Subscription Forms\n\n\nUsing Divi Leads",
             "title": "A/B Testing with Divi"
-        }, 
+        },
         {
-            "location": "/advanced/ab-testing-with-divi/#ab-testing-with-divi", 
-            "text": "Divi has a unique and valuable A/B Testing feature included in the theme framework. This is a great way to test out new changes to the site and analyze which copy, images, or video perform better.", 
+            "location": "/advanced/ab-testing-with-divi/#ab-testing-with-divi",
+            "text": "Divi has a unique and valuable A/B Testing feature included in the theme framework. This is a great way to test out new changes to the site and analyze which copy, images, or video perform better.",
             "title": "A/B Testing with Divi"
-        }, 
+        },
         {
-            "location": "/advanced/ab-testing-with-divi/#setting-up-an-ab-test", 
-            "text": "", 
+            "location": "/advanced/ab-testing-with-divi/#setting-up-an-ab-test",
+            "text": "",
             "title": "Setting up an A/B Test"
-        }, 
+        },
         {
-            "location": "/advanced/ab-testing-with-divi/#further-readingresources", 
-            "text": "Using A/B Testing in Bloom Mailchimp Subscription Forms  Using Divi Leads", 
+            "location": "/advanced/ab-testing-with-divi/#further-readingresources",
+            "text": "Using A/B Testing in Bloom Mailchimp Subscription Forms  Using Divi Leads",
             "title": "Further Reading/Resources"
         }
     ]
