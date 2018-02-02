@@ -13,6 +13,7 @@ pages:
     - Manually Flush Siteground Caching: wordpress-basics/flush-cache.md
     - Keeping WordPress Core & Plugins Updated: wordpress-basics/update-plugins.md
     - Managing Homepage Slider: wordpress-basics/managing-homepage-slider.md
+    - Other Resources: wordpress-basics/other-resources.md
 - WooCommerce:
     - Adding Products: woocommerce/add-products.md
     - Editing Products: woocommerce/edit-products.md
