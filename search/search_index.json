@@ -132,13 +132,28 @@
         },
         {
             "location": "/woocommerce/add-products/",
-            "text": "Adding New Products to WooCommerce\n\u00b6",
+            "text": "Adding New Products to WooCommerce\n\u00b6\n\n\nTypes of Products\n\u00b6\n\n\n\n\nSimple Product\n\n\nGrouped Product\n\n\nExternal/Affiliate Product\n\n\nVariable Product\n\n\nComposite Product\n\n\nProduct Bundles\n\n\n\n\nAdding a Product\n\u00b6\n\n\nAdding a Composite Product\n\u00b6",
             "title": "Adding Products"
         },
         {
             "location": "/woocommerce/add-products/#adding-new-products-to-woocommerce",
             "text": "",
             "title": "Adding New Products to WooCommerce"
+        },
+        {
+            "location": "/woocommerce/add-products/#types-of-products",
+            "text": "Simple Product  Grouped Product  External/Affiliate Product  Variable Product  Composite Product  Product Bundles",
+            "title": "Types of Products"
+        },
+        {
+            "location": "/woocommerce/add-products/#adding-a-product",
+            "text": "",
+            "title": "Adding a Product"
+        },
+        {
+            "location": "/woocommerce/add-products/#adding-a-composite-product",
+            "text": "",
+            "title": "Adding a Composite Product"
         },
         {
             "location": "/woocommerce/edit-products/",
@@ -152,7 +167,7 @@
         },
         {
             "location": "/woocommerce/misc-woocommerce/",
-            "text": "Misc WooCommerce Details\n\u00b6\n\n\nProducts Displayed Per Page\n\u00b6\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.\n\n\n\n\n\n\n\n\nHiding Products from Search or Shop Catalog\n\u00b6\n\n\nHiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nPRODUCTS\n \u2192 \nALL PRODUCTS\n \n\n\nLocate the product you wish to edit\n\n\nClick \nEDIT PRODUCT\n\n\nIn the right hand column locate the \nPUBLISH\n box which has an option of \nCATALOG VISIBILITY\n and select \nEDIT\n.\n\n\nAvailable options for \nPRODUCT VISIBILITY\n  \n\n\nShop and search results\n\n\nShop only\n\n\nSearch results only\n\n\nHidden",
+            "text": "Misc WooCommerce Details\n\u00b6\n\n\nProducts Displayed Per Page\n\u00b6\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.\n\n\n\n\n\n\n\n\nHiding Products from Search or Shop Catalog\n\u00b6\n\n\nHiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nPRODUCTS\n \u2192 \nALL PRODUCTS\n \n\n\nLocate the product you wish to edit\n\n\nClick \nEDIT PRODUCT\n\n\nIn the right hand column locate the \nPUBLISH\n box which has an option of \nCATALOG VISIBILITY\n and select \nEDIT\n.\n\n\nAvailable options for \nPRODUCT VISIBILITY\n  \n\n\nShop and search results\n\n\nShop only\n\n\nSearch results only\n\n\nHidden \n\n\n\n\n\n\n\n\n\n\n\n\nStore Notice Message\n\u00b6\n\n\n\n\nWooCommerce can display a notice that appears on the bottom of all pages until hidden. This is a useful feature for displaying important messaging to visitors regardless of the page they're viewing.\n\n\n\n\nLogin to WordPress Admin\n\n\nFrom the WordPress Admin menu navigate to \nAPPEARANCE\n \u2192 \nCUSTOMIZE",
             "title": "Misc WooCommerce"
         },
         {
@@ -169,6 +184,11 @@
             "location": "/woocommerce/misc-woocommerce/#hiding-products-from-search-or-shop-catalog",
             "text": "Hiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.   Login to WordPress Admin  Click on  PRODUCTS  \u2192  ALL PRODUCTS    Locate the product you wish to edit  Click  EDIT PRODUCT  In the right hand column locate the  PUBLISH  box which has an option of  CATALOG VISIBILITY  and select  EDIT .  Available options for  PRODUCT VISIBILITY     Shop and search results  Shop only  Search results only  Hidden",
             "title": "Hiding Products from Search or Shop Catalog"
+        },
+        {
+            "location": "/woocommerce/misc-woocommerce/#store-notice-message",
+            "text": "WooCommerce can display a notice that appears on the bottom of all pages until hidden. This is a useful feature for displaying important messaging to visitors regardless of the page they're viewing.   Login to WordPress Admin  From the WordPress Admin menu navigate to  APPEARANCE  \u2192  CUSTOMIZE",
+            "title": "Store Notice Message"
         },
         {
             "location": "/advanced/hide-elements-with-divi/",
