@@ -19,3 +19,16 @@ Hiding products from appearing in the shop search and/or catalog can be achieved
 		* Shop only
 		* Search results only
 		* Hidden 
+
+### Store Notice Message
+
+![WooCommerce Store Notice](../images/woo-store-notice.png)
+
+WooCommerce can display a notice that appears on the bottom of all pages until hidden. This is a useful feature for displaying important messaging to visitors regardless of the page they're viewing.
+
+* Login to WordPress Admin
+* From the WordPress Admin menu navigate to **APPEARANCE** --> **CUSTOMIZE**
+* 
+
+
+![WooCommerce Store Notice](../images/woo-store-notice-customizer.png)
