@@ -34,5 +34,4 @@ WooCommerce can display a notice that appears on the bottom of all pages until h
 * Click **PUBLISH** 
 * After updating the store notice it's best to [Flush the Siteground Cache](https://brianjking.github.io/1upkeyboard-docs/wordpress-basics/flush-cache/)
 
-
 ![WooCommerce Store Notice](../images/woo-store-notice-customizer.png)
