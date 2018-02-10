@@ -167,13 +167,18 @@
         },
         {
             "location": "/woocommerce/packing-shipping/",
-            "text": "Packing, Invoices, & Shipping Labels\n\u00b6",
+            "text": "Packing Lists, Invoices, & Shipping Labels\n\u00b6\n\n\nPacking Lists\n\u00b6\n\n\n\n\nLogin to WordPress Admin\n\n\nNavigate to \nWooCommerce\n \u2192 \nOrders",
             "title": "Packing & Shipping"
         },
         {
-            "location": "/woocommerce/packing-shipping/#packing-invoices-shipping-labels",
+            "location": "/woocommerce/packing-shipping/#packing-lists-invoices-shipping-labels",
             "text": "",
-            "title": "Packing, Invoices, &amp; Shipping Labels"
+            "title": "Packing Lists, Invoices, &amp; Shipping Labels"
+        },
+        {
+            "location": "/woocommerce/packing-shipping/#packing-lists",
+            "text": "Login to WordPress Admin  Navigate to  WooCommerce  \u2192  Orders",
+            "title": "Packing Lists"
         },
         {
             "location": "/woocommerce/misc-woocommerce/",
