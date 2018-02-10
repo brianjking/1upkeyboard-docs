@@ -167,7 +167,7 @@
         },
         {
             "location": "/woocommerce/packing-shipping/",
-            "text": "Packing Lists, Invoices, & Shipping Labels\n\u00b6\n\n\nPacking Lists\n\u00b6\n\n\n\n\nLogin to WordPress Admin\n\n\nNavigate to \nWooCommerce\n \u2192 \nOrders",
+            "text": "Packing Lists, Invoices, & Shipping Labels\n\u00b6\n\n\nPacking Lists\n\u00b6\n\n\n\n\nLogin to WordPress Admin\n\n\nNavigate to \nWooCommerce\n \u2192 \nOrders\n\n\nLocate the \nOrder\n you wish to obtain a packing list for from the \nORDER LIST\n or use the \nSEARCH BOX\n to locate a specific order.\n\n\nSelect the \nPACKING LIST\n icon \n(FAR RIGHT ICON)\n to generate & print the PDF.",
             "title": "Packing & Shipping"
         },
         {
@@ -177,7 +177,7 @@
         },
         {
             "location": "/woocommerce/packing-shipping/#packing-lists",
-            "text": "Login to WordPress Admin  Navigate to  WooCommerce  \u2192  Orders",
+            "text": "Login to WordPress Admin  Navigate to  WooCommerce  \u2192  Orders  Locate the  Order  you wish to obtain a packing list for from the  ORDER LIST  or use the  SEARCH BOX  to locate a specific order.  Select the  PACKING LIST  icon  (FAR RIGHT ICON)  to generate & print the PDF.",
             "title": "Packing Lists"
         },
         {
