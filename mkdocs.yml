@@ -18,6 +18,7 @@ pages:
     - Adding Products: woocommerce/add-products.md
     - Editing Products: woocommerce/edit-products.md
     - Packing & Shipping: woocommerce/packing-shipping.md
+    - WooCommerce Reporting: woocommerce/woo-reporting.md
     - Misc WooCommerce: woocommerce/misc-woocommerce.md
 - Advanced:
     - Hiding Elements on Certain Device Types with Divi: advanced/hide-elements-with-divi.md
