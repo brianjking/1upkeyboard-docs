@@ -167,7 +167,7 @@
         },
         {
             "location": "/woocommerce/packing-shipping/",
-            "text": "Packing Lists, Invoices, & Shipping Labels\n\u00b6\n\n\nPacking Lists\n\u00b6\n\n\n\n\nLogin to WordPress Admin\n\n\nNavigate to \nWooCommerce\n \u2192 \nOrders\n\n\nLocate the \nOrder\n you wish to obtain a packing list for from the \nORDER LIST\n or use the \nSEARCH BOX\n to locate a specific order.\n\n\nSelect the \nPACKING LIST\n icon \n(FAR RIGHT ICON)\n to generate & print the PDF.",
+            "text": "Packing Lists, Invoices, & Shipping Labels\n\u00b6\n\n\nPacking Lists\n\u00b6\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \u2192 \nOrders\n\n\nLocate the \nOrder\n you wish to obtain a packing list for from the \nORDER LIST\n or use the \nSEARCH BOX\n to locate a specific order.\n\n\nSelect the \nPACKING LIST\n icon \n(FAR RIGHT ICON)\n to generate & print the PDF.",
             "title": "Packing & Shipping"
         },
         {
@@ -177,18 +177,28 @@
         },
         {
             "location": "/woocommerce/packing-shipping/#packing-lists",
-            "text": "Login to WordPress Admin  Navigate to  WooCommerce  \u2192  Orders  Locate the  Order  you wish to obtain a packing list for from the  ORDER LIST  or use the  SEARCH BOX  to locate a specific order.  Select the  PACKING LIST  icon  (FAR RIGHT ICON)  to generate & print the PDF.",
+            "text": "Login to  WordPress Admin  Navigate to  WooCommerce  \u2192  Orders  Locate the  Order  you wish to obtain a packing list for from the  ORDER LIST  or use the  SEARCH BOX  to locate a specific order.  Select the  PACKING LIST  icon  (FAR RIGHT ICON)  to generate & print the PDF.",
             "title": "Packing Lists"
         },
         {
             "location": "/woocommerce/woo-reporting/",
-            "text": "WooCommerce Reporting\n\u00b6",
+            "text": "WooCommerce Reporting\n\u00b6\n\n\nTypes of Reports\n\u00b6\n\n\n\n\nOrders\n\n\nSales by date\n\n\nSales by Product\n\n\nSales by category\n\n\nCoupons by date\n\n\n\n\n\n\nProfit\n\n\nProfit by date\n\n\nProfit by product\n\n\nProfit by category\n\n\n\n\n\n\nCustomers\n\n\nCustomers vs. Guests\n\n\nCustomer list\n\n\n\n\n\n\nStock\n\n\nLow in stock items\n\n\nOut of stock items\n\n\nMost stocked items\n\n\nInsufficient Stock \n\n\nProduct Valuation\n\n\nTotal Valuation \n\n\n\n\n\n\nTaxes\n\n\nTaxes by code\n\n\nTaxes by date\n\n\n\n\n\n\n\n\nAccessing WooCommerce Reporting\n\u00b6\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \u2192 \nReports",
             "title": "WooCommerce Reporting"
         },
         {
             "location": "/woocommerce/woo-reporting/#woocommerce-reporting",
             "text": "",
             "title": "WooCommerce Reporting"
+        },
+        {
+            "location": "/woocommerce/woo-reporting/#types-of-reports",
+            "text": "Orders  Sales by date  Sales by Product  Sales by category  Coupons by date    Profit  Profit by date  Profit by product  Profit by category    Customers  Customers vs. Guests  Customer list    Stock  Low in stock items  Out of stock items  Most stocked items  Insufficient Stock   Product Valuation  Total Valuation     Taxes  Taxes by code  Taxes by date",
+            "title": "Types of Reports"
+        },
+        {
+            "location": "/woocommerce/woo-reporting/#accessing-woocommerce-reporting",
+            "text": "Login to  WordPress Admin  Navigate to  WooCommerce  \u2192  Reports",
+            "title": "Accessing WooCommerce Reporting"
         },
         {
             "location": "/woocommerce/misc-woocommerce/",
