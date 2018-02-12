@@ -87,12 +87,12 @@
         },
         {
             "location": "/wordpress-basics/update-plugins/",
-            "text": "Keeping WordPress Core & Plugins Up-to-Date\n\u00b6\n\n\n\n\nDanger\n\n\nKeeping the WordPress Core, all plugins, & the Divi Parent theme up-to-date is essential to the security of the website.\n\n\n\n\n\n\nInfo\n\n\nWordPress Vulnerability Alerts\n\nI suggest signing up for the \nemail newsletter\n to ensure you're promptly upgrading plugins, themes, or WordPress core.",
+            "text": "Keeping WordPress Core & Plugins Up-to-Date\n\u00b6\n\n\n\n\nDanger\n\n\nKeeping the WordPress Core, all plugins, & the Divi Parent theme up-to-date is essential to the security of the website.\n\n\n\n\n\n\nNote\n\n\nI suggest signing up for the \nWordPress Vulnerability Database Email Newsletter\n to ensure you're promptly upgrading plugins, themes, or the WordPress core. \nHowever, ensuring you're updated whenever you login to the WordPress Admin regardless is a good best practice to follow.",
             "title": "Keeping WordPress Core & Plugins Updated"
         },
         {
             "location": "/wordpress-basics/update-plugins/#keeping-wordpress-core-plugins-up-to-date",
-            "text": "Danger  Keeping the WordPress Core, all plugins, & the Divi Parent theme up-to-date is essential to the security of the website.    Info  WordPress Vulnerability Alerts \nI suggest signing up for the  email newsletter  to ensure you're promptly upgrading plugins, themes, or WordPress core.",
+            "text": "Danger  Keeping the WordPress Core, all plugins, & the Divi Parent theme up-to-date is essential to the security of the website.    Note  I suggest signing up for the  WordPress Vulnerability Database Email Newsletter  to ensure you're promptly upgrading plugins, themes, or the WordPress core.  However, ensuring you're updated whenever you login to the WordPress Admin regardless is a good best practice to follow.",
             "title": "Keeping WordPress Core &amp; Plugins Up-to-Date"
         },
         {
