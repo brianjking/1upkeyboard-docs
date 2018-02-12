@@ -201,6 +201,16 @@
             "title": "Accessing WooCommerce Reporting"
         },
         {
+            "location": "/woocommerce/woo-coupons/",
+            "text": "Using Coupons in WooCommerce\n\u00b6",
+            "title": "Coupons"
+        },
+        {
+            "location": "/woocommerce/woo-coupons/#using-coupons-in-woocommerce",
+            "text": "",
+            "title": "Using Coupons in WooCommerce"
+        },
+        {
             "location": "/woocommerce/misc-woocommerce/",
             "text": "Misc WooCommerce Details\n\u00b6\n\n\nProducts Displayed Per Page\n\u00b6\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.\n\n\n\n\n\n\n\n\nHiding Products from Search or Shop Catalog\n\u00b6\n\n\nHiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nPRODUCTS\n \u2192 \nALL PRODUCTS\n \n\n\nLocate the product you wish to edit\n\n\nClick \nEDIT PRODUCT\n\n\nIn the right hand column locate the \nPUBLISH\n box which has an option of \nCATALOG VISIBILITY\n and select \nEDIT\n.\n\n\nAvailable options for \nPRODUCT VISIBILITY\n  \n\n\nShop and search results\n\n\nShop only\n\n\nSearch results only\n\n\nHidden \n\n\n\n\n\n\n\n\n\n\n\n\nStore Notice Message\n\u00b6\n\n\n\n\nWooCommerce can display a notice that appears on the bottom of all pages until hidden. This is a useful feature for displaying important messaging to visitors regardless of the page they're viewing.\n\n\n\n\nLogin to WordPress Admin\n\n\nFrom the WordPress Admin menu navigate to \nAPPEARANCE\n \u2192 \nCUSTOMIZE\n\n\nSelect \nWooCommerce\n \u2192 \nStore Notice\n\n\nAdd the text you'd like displayed in the store notice.\n\n\nIf you'd like to disable the store notice remove the checkmark from the \nENABLE STORE NOTICE\n box. \n(see screenshot below)\n\n\n\n\n\n\nClick \nPUBLISH\n \n\n\nAfter updating the store notice it's best to \nFlush the Siteground Cache",
             "title": "Misc WooCommerce"

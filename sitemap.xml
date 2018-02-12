@@ -82,6 +82,12 @@
     </url>
         
     <url>
+     <loc>/woocommerce/woo-coupons/</loc>
+     <lastmod>2018-02-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/woocommerce/misc-woocommerce/</loc>
      <lastmod>2018-02-12</lastmod>
      <changefreq>daily</changefreq>
