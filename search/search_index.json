@@ -1,308 +1,308 @@
 {
     "docs": [
         {
-            "location": "/",
-            "text": "Welcome to the 1upkeyboards.com docs\n\u00b6\n\n\n\n\nThis is a guide for managing the \n1upkeyboards website\n.\n\n\nNavigating the guide\n\u00b6\n\n\n\n\nYou can navigate through the sections using the menu on the left.",
+            "location": "/", 
+            "text": "Welcome to the 1upkeyboards.com docs\n\n\n\n\nThis is a guide for managing the \n1upkeyboards website\n.\n\n\nNavigating the guide\n\n\n\n\nYou can navigate through the sections using the menu on the left.", 
             "title": "Home"
-        },
+        }, 
         {
-            "location": "/#welcome-to-the-1upkeyboardscom-docs",
-            "text": "This is a guide for managing the  1upkeyboards website .",
+            "location": "/#welcome-to-the-1upkeyboardscom-docs", 
+            "text": "This is a guide for managing the  1upkeyboards website .", 
             "title": "Welcome to the 1upkeyboards.com docs"
-        },
+        }, 
         {
-            "location": "/#navigating-the-guide",
-            "text": "You can navigate through the sections using the menu on the left.",
+            "location": "/#navigating-the-guide", 
+            "text": "You can navigate through the sections using the menu on the left.", 
             "title": "Navigating the guide"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/adding-news-posts/",
-            "text": "Adding News Posts to WordPress\n\u00b6\n\n\n\n\nLogin to the \nWordPress Admin\n as an administrator\n\n\nClick on \nPOSTS\n \u2192 \nADD NEW\n\n\nAdd a \nPost Title\n\n\nAdd the \nPost Content\n\n\nPublish the post",
+            "location": "/wordpress-basics/adding-news-posts/", 
+            "text": "Adding News Posts to WordPress\n\n\n\n\nLogin to the \nWordPress Admin\n as an administrator\n\n\nClick on \nPOSTS\n \n \nADD NEW\n\n\nAdd a \nPost Title\n\n\nAdd the \nPost Content\n\n\nPublish the post", 
             "title": "Adding News Posts"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/adding-news-posts/#adding-news-posts-to-wordpress",
-            "text": "Login to the  WordPress Admin  as an administrator  Click on  POSTS  \u2192  ADD NEW  Add a  Post Title  Add the  Post Content  Publish the post",
+            "location": "/wordpress-basics/adding-news-posts/#adding-news-posts-to-wordpress", 
+            "text": "Login to the  WordPress Admin  as an administrator  Click on  POSTS     ADD NEW  Add a  Post Title  Add the  Post Content  Publish the post", 
             "title": "Adding News Posts to WordPress"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/menu/",
-            "text": "Managing the WordPress Menus\n\u00b6\n\n\nThere are 2 menus used for the 1upkeyboards.com website. One if the \nPRIMARY MENU\n and then there is a \nFOOTER MENU\n which has links used in the footer of every page. \n\n\nManaging the Primary Menu\n\u00b6\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \u2192 \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT\n\n\n\n\n\n\nManaging the Footer Menu\n\u00b6",
+            "location": "/wordpress-basics/menu/", 
+            "text": "Managing the WordPress Menus\n\n\nThere are 2 menus used for the 1upkeyboards.com website. One if the \nPRIMARY MENU\n and then there is a \nFOOTER MENU\n which has links used in the footer of every page. \n\n\nManaging the Primary Menu\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \n \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT\n\n\n\n\n\n\nManaging the Footer Menu", 
             "title": "Updating The Menu"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/menu/#managing-the-wordpress-menus",
-            "text": "There are 2 menus used for the 1upkeyboards.com website. One if the  PRIMARY MENU  and then there is a  FOOTER MENU  which has links used in the footer of every page.",
+            "location": "/wordpress-basics/menu/#managing-the-wordpress-menus", 
+            "text": "There are 2 menus used for the 1upkeyboards.com website. One if the  PRIMARY MENU  and then there is a  FOOTER MENU  which has links used in the footer of every page.", 
             "title": "Managing the WordPress Menus"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/menu/#managing-the-primary-menu",
-            "text": "Login to the WordPress Admin area with an administrator username and password.  From the menu on the left hand side of the WordPress Admin area navigate to  APPEARANCE  \u2192  MENUS    Select  PRIMARY (PRIMARY MENU)  from the dropdown and click  SELECT",
+            "location": "/wordpress-basics/menu/#managing-the-primary-menu", 
+            "text": "Login to the WordPress Admin area with an administrator username and password.  From the menu on the left hand side of the WordPress Admin area navigate to  APPEARANCE     MENUS    Select  PRIMARY (PRIMARY MENU)  from the dropdown and click  SELECT", 
             "title": "Managing the Primary Menu"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/menu/#managing-the-footer-menu",
-            "text": "",
+            "location": "/wordpress-basics/menu/#managing-the-footer-menu", 
+            "text": "", 
             "title": "Managing the Footer Menu"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/media/",
-            "text": "Managing Media in WordPress\n\u00b6\n\n\nMedia Sizes\n\u00b6\n\n\n\n\nCatalog Images - 400x400px (no hard crop)\n\n\nProduct Images - 510x999px (no hard crop)\n\n\nProduct Thumbnails - 157x157px (hard crop)\n\n\n\n\nAdding Media to the WordPress Library\n\u00b6\n\n\nEditing Media in the WordPress Library\n\u00b6",
+            "location": "/wordpress-basics/media/", 
+            "text": "Managing Media in WordPress\n\n\nMedia Sizes\n\n\n\n\nCatalog Images - 400x400px (no hard crop)\n\n\nProduct Images - 510x999px (no hard crop)\n\n\nProduct Thumbnails - 157x157px (hard crop)\n\n\n\n\nAdding Media to the WordPress Library\n\n\nEditing Media in the WordPress Library", 
             "title": "Adding Media"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/media/#managing-media-in-wordpress",
-            "text": "",
+            "location": "/wordpress-basics/media/#managing-media-in-wordpress", 
+            "text": "", 
             "title": "Managing Media in WordPress"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/media/#media-sizes",
-            "text": "Catalog Images - 400x400px (no hard crop)  Product Images - 510x999px (no hard crop)  Product Thumbnails - 157x157px (hard crop)",
+            "location": "/wordpress-basics/media/#media-sizes", 
+            "text": "Catalog Images - 400x400px (no hard crop)  Product Images - 510x999px (no hard crop)  Product Thumbnails - 157x157px (hard crop)", 
             "title": "Media Sizes"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/media/#adding-media-to-the-wordpress-library",
-            "text": "",
+            "location": "/wordpress-basics/media/#adding-media-to-the-wordpress-library", 
+            "text": "", 
             "title": "Adding Media to the WordPress Library"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/media/#editing-media-in-the-wordpress-library",
-            "text": "",
+            "location": "/wordpress-basics/media/#editing-media-in-the-wordpress-library", 
+            "text": "", 
             "title": "Editing Media in the WordPress Library"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/flush-cache/",
-            "text": "Flush SiteGround Caching\n\u00b6\n\n\nIt is important to flush the \nSiteground SuperCacher\n cache when updating any content on the site. \n\n\nHow to Flush the SiteGround Cache\n\u00b6\n\n\n\n\nLogin to the WordPress Admin as an \nADMINISTRATOR\n \n\n\nFrom the WordPress Admin horizontal toolbar click on \nFLUSH SG CACHE\n to flush the SiteGround SuperCacher. \n\n\nWait for the page to reload (this might take a few seconds).",
+            "location": "/wordpress-basics/flush-cache/", 
+            "text": "Flush SiteGround Caching\n\n\nIt is important to flush the \nSiteground SuperCacher\n cache when updating any content on the site. \n\n\nHow to Flush the SiteGround Cache\n\n\n\n\nLogin to the WordPress Admin as an \nADMINISTRATOR\n \n\n\nFrom the WordPress Admin horizontal toolbar click on \nFLUSH SG CACHE\n to flush the SiteGround SuperCacher. \n\n\nWait for the page to reload (this might take a few seconds).", 
             "title": "Manually Flush Siteground Caching"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/flush-cache/#flush-siteground-caching",
-            "text": "It is important to flush the  Siteground SuperCacher  cache when updating any content on the site.",
+            "location": "/wordpress-basics/flush-cache/#flush-siteground-caching", 
+            "text": "It is important to flush the  Siteground SuperCacher  cache when updating any content on the site.", 
             "title": "Flush SiteGround Caching"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/flush-cache/#how-to-flush-the-siteground-cache",
-            "text": "Login to the WordPress Admin as an  ADMINISTRATOR    From the WordPress Admin horizontal toolbar click on  FLUSH SG CACHE  to flush the SiteGround SuperCacher.   Wait for the page to reload (this might take a few seconds).",
+            "location": "/wordpress-basics/flush-cache/#how-to-flush-the-siteground-cache", 
+            "text": "Login to the WordPress Admin as an  ADMINISTRATOR    From the WordPress Admin horizontal toolbar click on  FLUSH SG CACHE  to flush the SiteGround SuperCacher.   Wait for the page to reload (this might take a few seconds).", 
             "title": "How to Flush the SiteGround Cache"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/update-plugins/",
-            "text": "Keeping WordPress Core & Plugins Up-to-Date\n\u00b6\n\n\n\n\nDanger\n\n\nKeeping the WordPress Core, all plugins, & the Divi Parent theme up-to-date is essential to the security of the website.\n\n\n\n\n\n\nNote\n\n\nI suggest signing up for the \nWordPress Vulnerability Database Email Newsletter\n to ensure you're promptly upgrading plugins, themes, or the WordPress core. \nHowever, ensuring you're updated whenever you login to the WordPress Admin regardless is a good best practice to follow.",
+            "location": "/wordpress-basics/update-plugins/", 
+            "text": "Keeping WordPress Core \n Plugins Up-to-Date\n\n\n\n\nDanger\n\n\nKeeping the WordPress Core, all plugins, \n the Divi Parent theme up-to-date is essential to the security of the website.\n\n\n\n\n\n\nNote\n\n\nI suggest signing up for the \nWordPress Vulnerability Database Email Newsletter\n to ensure you're promptly upgrading plugins, themes, or the WordPress core. \nHowever, ensuring you're updated whenever you login to the WordPress Admin regardless is a good best practice to follow.", 
             "title": "Keeping WordPress Core & Plugins Updated"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/update-plugins/#keeping-wordpress-core-plugins-up-to-date",
-            "text": "Danger  Keeping the WordPress Core, all plugins, & the Divi Parent theme up-to-date is essential to the security of the website.    Note  I suggest signing up for the  WordPress Vulnerability Database Email Newsletter  to ensure you're promptly upgrading plugins, themes, or the WordPress core.  However, ensuring you're updated whenever you login to the WordPress Admin regardless is a good best practice to follow.",
+            "location": "/wordpress-basics/update-plugins/#keeping-wordpress-core-plugins-up-to-date", 
+            "text": "Danger  Keeping the WordPress Core, all plugins,   the Divi Parent theme up-to-date is essential to the security of the website.    Note  I suggest signing up for the  WordPress Vulnerability Database Email Newsletter  to ensure you're promptly upgrading plugins, themes, or the WordPress core.  However, ensuring you're updated whenever you login to the WordPress Admin regardless is a good best practice to follow.", 
             "title": "Keeping WordPress Core &amp; Plugins Up-to-Date"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/managing-homepage-slider/",
-            "text": "Managing Homepage Slider Items\n\u00b6",
+            "location": "/wordpress-basics/managing-homepage-slider/", 
+            "text": "Managing Homepage Slider Items", 
             "title": "Managing Homepage Slider"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/managing-homepage-slider/#managing-homepage-slider-items",
-            "text": "",
+            "location": "/wordpress-basics/managing-homepage-slider/#managing-homepage-slider-items", 
+            "text": "", 
             "title": "Managing Homepage Slider Items"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/other-resources/",
-            "text": "Other WordPress Resources\n\u00b6\n\n\nWordPress Docs\n\u00b6\n\n\nSecurity Related Resources\n\u00b6\n\n\n\n\nWordPress Vulnerability Alerts\n\n\nI suggest signing up for the \nemail newsletter\n to ensure you're promptly upgrading plugins, themes, or WordPress core.\n\n\n\n\n\n\n\n\nWooCommerce Docs\n\u00b6\n\n\n\n\nWooCommerce Docs",
+            "location": "/wordpress-basics/other-resources/", 
+            "text": "Other WordPress Resources\n\n\nWordPress Docs\n\n\nSecurity Related Resources\n\n\n\n\nWordPress Vulnerability Alerts\n\n\nI suggest signing up for the \nemail newsletter\n to ensure you're promptly upgrading plugins, themes, or WordPress core.\n\n\n\n\n\n\n\n\nWooCommerce Docs\n\n\n\n\nWooCommerce Docs", 
             "title": "Other Resources"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/other-resources/#other-wordpress-resources",
-            "text": "",
+            "location": "/wordpress-basics/other-resources/#other-wordpress-resources", 
+            "text": "", 
             "title": "Other WordPress Resources"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/other-resources/#wordpress-docs",
-            "text": "",
+            "location": "/wordpress-basics/other-resources/#wordpress-docs", 
+            "text": "", 
             "title": "WordPress Docs"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/other-resources/#security-related-resources",
-            "text": "WordPress Vulnerability Alerts  I suggest signing up for the  email newsletter  to ensure you're promptly upgrading plugins, themes, or WordPress core.",
+            "location": "/wordpress-basics/other-resources/#security-related-resources", 
+            "text": "WordPress Vulnerability Alerts  I suggest signing up for the  email newsletter  to ensure you're promptly upgrading plugins, themes, or WordPress core.", 
             "title": "Security Related Resources"
-        },
+        }, 
         {
-            "location": "/wordpress-basics/other-resources/#woocommerce-docs",
-            "text": "WooCommerce Docs",
+            "location": "/wordpress-basics/other-resources/#woocommerce-docs", 
+            "text": "WooCommerce Docs", 
             "title": "WooCommerce Docs"
-        },
+        }, 
         {
-            "location": "/woocommerce/add-products/",
-            "text": "Adding New Products to WooCommerce\n\u00b6\n\n\nTypes of Products\n\u00b6\n\n\n\n\nSimple Product\n\n\nGrouped Product\n\n\nExternal/Affiliate Product\n\n\nVariable Product\n\n\nComposite Product\n\n\nProduct Bundles\n\n\n\n\nAdding a Product\n\u00b6\n\n\nAdding a Composite Product\n\u00b6",
+            "location": "/woocommerce/add-products/", 
+            "text": "Adding New Products to WooCommerce\n\n\nTypes of Products\n\n\n\n\nSimple Product\n\n\nGrouped Product\n\n\nExternal/Affiliate Product\n\n\nVariable Product\n\n\nComposite Product\n\n\nProduct Bundles\n\n\n\n\nAdding a Product\n\n\nAdding a Composite Product", 
             "title": "Adding Products"
-        },
+        }, 
         {
-            "location": "/woocommerce/add-products/#adding-new-products-to-woocommerce",
-            "text": "",
+            "location": "/woocommerce/add-products/#adding-new-products-to-woocommerce", 
+            "text": "", 
             "title": "Adding New Products to WooCommerce"
-        },
+        }, 
         {
-            "location": "/woocommerce/add-products/#types-of-products",
-            "text": "Simple Product  Grouped Product  External/Affiliate Product  Variable Product  Composite Product  Product Bundles",
+            "location": "/woocommerce/add-products/#types-of-products", 
+            "text": "Simple Product  Grouped Product  External/Affiliate Product  Variable Product  Composite Product  Product Bundles", 
             "title": "Types of Products"
-        },
+        }, 
         {
-            "location": "/woocommerce/add-products/#adding-a-product",
-            "text": "",
+            "location": "/woocommerce/add-products/#adding-a-product", 
+            "text": "", 
             "title": "Adding a Product"
-        },
+        }, 
         {
-            "location": "/woocommerce/add-products/#adding-a-composite-product",
-            "text": "",
+            "location": "/woocommerce/add-products/#adding-a-composite-product", 
+            "text": "", 
             "title": "Adding a Composite Product"
-        },
+        }, 
         {
-            "location": "/woocommerce/edit-products/",
-            "text": "Editing Existing Products in WooCommerce\n\u00b6",
+            "location": "/woocommerce/edit-products/", 
+            "text": "Editing Existing Products in WooCommerce", 
             "title": "Editing Products"
-        },
+        }, 
         {
-            "location": "/woocommerce/edit-products/#editing-existing-products-in-woocommerce",
-            "text": "",
+            "location": "/woocommerce/edit-products/#editing-existing-products-in-woocommerce", 
+            "text": "", 
             "title": "Editing Existing Products in WooCommerce"
-        },
+        }, 
         {
-            "location": "/woocommerce/packing-shipping/",
-            "text": "Packing Lists, Invoices, & Shipping Labels\n\u00b6\n\n\nPacking Lists\n\u00b6\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \u2192 \nOrders\n\n\nLocate the \nOrder\n you wish to obtain a packing list for from the \nORDER LIST\n or use the \nSEARCH BOX\n to locate a specific order.\n\n\nSelect the \nPACKING LIST\n icon \n(FAR RIGHT ICON)\n to generate & print the PDF.",
+            "location": "/woocommerce/packing-shipping/", 
+            "text": "Packing Lists, Invoices, \n Shipping Labels\n\n\nPacking Lists\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \n \nOrders\n\n\nLocate the \nOrder\n you wish to obtain a packing list for from the \nORDER LIST\n or use the \nSEARCH BOX\n to locate a specific order.\n\n\nSelect the \nPACKING LIST\n icon \n(FAR RIGHT ICON)\n to generate \n print the PDF.", 
             "title": "Packing & Shipping"
-        },
+        }, 
         {
-            "location": "/woocommerce/packing-shipping/#packing-lists-invoices-shipping-labels",
-            "text": "",
+            "location": "/woocommerce/packing-shipping/#packing-lists-invoices-shipping-labels", 
+            "text": "", 
             "title": "Packing Lists, Invoices, &amp; Shipping Labels"
-        },
+        }, 
         {
-            "location": "/woocommerce/packing-shipping/#packing-lists",
-            "text": "Login to  WordPress Admin  Navigate to  WooCommerce  \u2192  Orders  Locate the  Order  you wish to obtain a packing list for from the  ORDER LIST  or use the  SEARCH BOX  to locate a specific order.  Select the  PACKING LIST  icon  (FAR RIGHT ICON)  to generate & print the PDF.",
+            "location": "/woocommerce/packing-shipping/#packing-lists", 
+            "text": "Login to  WordPress Admin  Navigate to  WooCommerce     Orders  Locate the  Order  you wish to obtain a packing list for from the  ORDER LIST  or use the  SEARCH BOX  to locate a specific order.  Select the  PACKING LIST  icon  (FAR RIGHT ICON)  to generate   print the PDF.", 
             "title": "Packing Lists"
-        },
+        }, 
         {
-            "location": "/woocommerce/woo-reporting/",
-            "text": "WooCommerce Reporting\n\u00b6\n\n\nTypes of Reports\n\u00b6\n\n\n\n\nOrders\n\n\nSales by date\n\n\nSales by Product\n\n\nSales by category\n\n\nCoupons by date\n\n\n\n\n\n\nProfit\n\n\nProfit by date\n\n\nProfit by product\n\n\nProfit by category\n\n\n\n\n\n\nCustomers\n\n\nCustomers vs. Guests\n\n\nCustomer list\n\n\n\n\n\n\nStock\n\n\nLow in stock items\n\n\nOut of stock items\n\n\nMost stocked items\n\n\nInsufficient Stock \n\n\nProduct Valuation\n\n\nTotal Valuation \n\n\n\n\n\n\nTaxes\n\n\nTaxes by code\n\n\nTaxes by date\n\n\n\n\n\n\n\n\nAccessing WooCommerce Reporting\n\u00b6\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \u2192 \nReports",
+            "location": "/woocommerce/woo-reporting/", 
+            "text": "WooCommerce Reporting\n\n\nTypes of Reports\n\n\n\n\nOrders\n\n\nSales by date\n\n\nSales by Product\n\n\nSales by category\n\n\nCoupons by date\n\n\n\n\n\n\nProfit\n\n\nProfit by date\n\n\nProfit by product\n\n\nProfit by category\n\n\n\n\n\n\nCustomers\n\n\nCustomers vs. Guests\n\n\nCustomer list\n\n\n\n\n\n\nStock\n\n\nLow in stock items\n\n\nOut of stock items\n\n\nMost stocked items\n\n\nInsufficient Stock \n\n\nProduct Valuation\n\n\nTotal Valuation \n\n\n\n\n\n\nTaxes\n\n\nTaxes by code\n\n\nTaxes by date\n\n\n\n\n\n\n\n\nAccessing WooCommerce Reporting\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \n \nReports", 
             "title": "WooCommerce Reporting"
-        },
+        }, 
         {
-            "location": "/woocommerce/woo-reporting/#woocommerce-reporting",
-            "text": "",
+            "location": "/woocommerce/woo-reporting/#woocommerce-reporting", 
+            "text": "", 
             "title": "WooCommerce Reporting"
-        },
+        }, 
         {
-            "location": "/woocommerce/woo-reporting/#types-of-reports",
-            "text": "Orders  Sales by date  Sales by Product  Sales by category  Coupons by date    Profit  Profit by date  Profit by product  Profit by category    Customers  Customers vs. Guests  Customer list    Stock  Low in stock items  Out of stock items  Most stocked items  Insufficient Stock   Product Valuation  Total Valuation     Taxes  Taxes by code  Taxes by date",
+            "location": "/woocommerce/woo-reporting/#types-of-reports", 
+            "text": "Orders  Sales by date  Sales by Product  Sales by category  Coupons by date    Profit  Profit by date  Profit by product  Profit by category    Customers  Customers vs. Guests  Customer list    Stock  Low in stock items  Out of stock items  Most stocked items  Insufficient Stock   Product Valuation  Total Valuation     Taxes  Taxes by code  Taxes by date", 
             "title": "Types of Reports"
-        },
+        }, 
         {
-            "location": "/woocommerce/woo-reporting/#accessing-woocommerce-reporting",
-            "text": "Login to  WordPress Admin  Navigate to  WooCommerce  \u2192  Reports",
+            "location": "/woocommerce/woo-reporting/#accessing-woocommerce-reporting", 
+            "text": "Login to  WordPress Admin  Navigate to  WooCommerce     Reports", 
             "title": "Accessing WooCommerce Reporting"
-        },
+        }, 
         {
-            "location": "/woocommerce/upsells-cross-sells/",
-            "text": "Upsells & Cross-sells in WooCommerce\n\u00b6\n\n\nWooCommerce includes the configuration of Upsells & Cross-sells inside of each product regardless of product type. Products can be related to each other in three ways: \nUp-Sells, Cross-Sells or by having the same tags or categories\n.\n\n\n\n\nAdding an Upsell or Cross-Sell to a Product\n\u00b6\n\n\n\n\nGo to \nWooCommerce\n > \nProducts\n and select the product on which you\u2019d like to show an up-sell or cross-sell.\n\n\nScroll down to the Product Data panel. \n(see screenshot above)\n\n\nSelect the Linked Products tab in the left menu.\n\n\nAdd the product you wish to link to by searching for it.\n\n\nClick Update to save the product.\n\n\n\n\nUpsells\n\u00b6\n\n\n\n\nUpsells are displayed on the \nPRODUCT PAGE\n for the currently displayed product. \n\n\n\n\nCross-sells\n\u00b6\n\n\nCross-sells are products that you promote in the cart, based on the current product.\n\n\n\n\nCross-sells are displayed on the \nCART\n page prior to a customer checking out.\n\n\n\n\nOther Resources\n\u00b6\n\n\n\n\nWooCommerce Upsells & Cross-sells documentation",
+            "location": "/woocommerce/upsells-cross-sells/", 
+            "text": "Upsells \n Cross-sells in WooCommerce\n\n\nWooCommerce includes the configuration of Upsells \n Cross-sells inside of each product regardless of product type. Products can be related to each other in three ways: \nUp-Sells, Cross-Sells or by having the same tags or categories\n.\n\n\n\n\nAdding an Upsell or Cross-Sell to a Product\n\n\n\n\nGo to \nWooCommerce\n \n \nProducts\n and select the product on which you\u2019d like to show an up-sell or cross-sell.\n\n\nScroll down to the Product Data panel. \n(see screenshot above)\n\n\nSelect the Linked Products tab in the left menu.\n\n\nAdd the product you wish to link to by searching for it.\n\n\nClick Update to save the product.\n\n\n\n\nUpsells\n\n\n\n\nUpsells are displayed on the \nPRODUCT PAGE\n for the currently displayed product. \n\n\n\n\nCross-sells\n\n\nCross-sells are products that you promote in the cart, based on the current product.\n\n\n\n\nCross-sells are displayed on the \nCART\n page prior to a customer checking out.\n\n\n\n\nOther Resources\n\n\n\n\nWooCommerce Upsells \n Cross-sells documentation", 
             "title": "Upsells & Cross-sells"
-        },
+        }, 
         {
-            "location": "/woocommerce/upsells-cross-sells/#upsells-cross-sells-in-woocommerce",
-            "text": "WooCommerce includes the configuration of Upsells & Cross-sells inside of each product regardless of product type. Products can be related to each other in three ways:  Up-Sells, Cross-Sells or by having the same tags or categories .",
+            "location": "/woocommerce/upsells-cross-sells/#upsells-cross-sells-in-woocommerce", 
+            "text": "WooCommerce includes the configuration of Upsells   Cross-sells inside of each product regardless of product type. Products can be related to each other in three ways:  Up-Sells, Cross-Sells or by having the same tags or categories .", 
             "title": "Upsells &amp; Cross-sells in WooCommerce"
-        },
+        }, 
         {
-            "location": "/woocommerce/upsells-cross-sells/#adding-an-upsell-or-cross-sell-to-a-product",
-            "text": "Go to  WooCommerce  >  Products  and select the product on which you\u2019d like to show an up-sell or cross-sell.  Scroll down to the Product Data panel.  (see screenshot above)  Select the Linked Products tab in the left menu.  Add the product you wish to link to by searching for it.  Click Update to save the product.",
+            "location": "/woocommerce/upsells-cross-sells/#adding-an-upsell-or-cross-sell-to-a-product", 
+            "text": "Go to  WooCommerce     Products  and select the product on which you\u2019d like to show an up-sell or cross-sell.  Scroll down to the Product Data panel.  (see screenshot above)  Select the Linked Products tab in the left menu.  Add the product you wish to link to by searching for it.  Click Update to save the product.", 
             "title": "Adding an Upsell or Cross-Sell to a Product"
-        },
+        }, 
         {
-            "location": "/woocommerce/upsells-cross-sells/#upsells",
-            "text": "Upsells are displayed on the  PRODUCT PAGE  for the currently displayed product.",
+            "location": "/woocommerce/upsells-cross-sells/#upsells", 
+            "text": "Upsells are displayed on the  PRODUCT PAGE  for the currently displayed product.", 
             "title": "Upsells"
-        },
+        }, 
         {
-            "location": "/woocommerce/upsells-cross-sells/#cross-sells",
-            "text": "Cross-sells are products that you promote in the cart, based on the current product.   Cross-sells are displayed on the  CART  page prior to a customer checking out.",
+            "location": "/woocommerce/upsells-cross-sells/#cross-sells", 
+            "text": "Cross-sells are products that you promote in the cart, based on the current product.   Cross-sells are displayed on the  CART  page prior to a customer checking out.", 
             "title": "Cross-sells"
-        },
+        }, 
         {
-            "location": "/woocommerce/upsells-cross-sells/#other-resources",
-            "text": "WooCommerce Upsells & Cross-sells documentation",
+            "location": "/woocommerce/upsells-cross-sells/#other-resources", 
+            "text": "WooCommerce Upsells   Cross-sells documentation", 
             "title": "Other Resources"
-        },
+        }, 
         {
-            "location": "/woocommerce/woo-coupons/",
-            "text": "Using Coupons in WooCommerce\n\u00b6",
+            "location": "/woocommerce/woo-coupons/", 
+            "text": "Using Coupons in WooCommerce", 
             "title": "Coupons"
-        },
+        }, 
         {
-            "location": "/woocommerce/woo-coupons/#using-coupons-in-woocommerce",
-            "text": "",
+            "location": "/woocommerce/woo-coupons/#using-coupons-in-woocommerce", 
+            "text": "", 
             "title": "Using Coupons in WooCommerce"
-        },
+        }, 
         {
-            "location": "/woocommerce/misc-woocommerce/",
-            "text": "Misc WooCommerce Details\n\u00b6\n\n\nProducts Displayed Per Page\n\u00b6\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.\n\n\n\n\n\n\n\n\nHiding Products from Search or Shop Catalog\n\u00b6\n\n\nHiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nPRODUCTS\n \u2192 \nALL PRODUCTS\n \n\n\nLocate the product you wish to edit\n\n\nClick \nEDIT PRODUCT\n\n\nIn the right hand column locate the \nPUBLISH\n box which has an option of \nCATALOG VISIBILITY\n and select \nEDIT\n.\n\n\nAvailable options for \nPRODUCT VISIBILITY\n  \n\n\nShop and search results\n\n\nShop only\n\n\nSearch results only\n\n\nHidden \n\n\n\n\n\n\n\n\n\n\n\n\nStore Notice Message\n\u00b6\n\n\n\n\nWooCommerce can display a notice that appears on the bottom of all pages until hidden. This is a useful feature for displaying important messaging to visitors regardless of the page they're viewing.\n\n\n\n\nLogin to WordPress Admin\n\n\nFrom the WordPress Admin menu navigate to \nAPPEARANCE\n \u2192 \nCUSTOMIZE\n\n\nSelect \nWooCommerce\n \u2192 \nStore Notice\n\n\nAdd the text you'd like displayed in the store notice.\n\n\nIf you'd like to disable the store notice remove the checkmark from the \nENABLE STORE NOTICE\n box. \n(see screenshot below)\n\n\n\n\n\n\nClick \nPUBLISH\n \n\n\nAfter updating the store notice it's best to \nFlush the Siteground Cache",
+            "location": "/woocommerce/misc-woocommerce/", 
+            "text": "Misc WooCommerce Details\n\n\nProducts Displayed Per Page\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.\n\n\n\n\n\n\n\n\nHiding Products from Search or Shop Catalog\n\n\nHiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nPRODUCTS\n \n \nALL PRODUCTS\n \n\n\nLocate the product you wish to edit\n\n\nClick \nEDIT PRODUCT\n\n\nIn the right hand column locate the \nPUBLISH\n box which has an option of \nCATALOG VISIBILITY\n and select \nEDIT\n.\n\n\nAvailable options for \nPRODUCT VISIBILITY\n  \n\n\nShop and search results\n\n\nShop only\n\n\nSearch results only\n\n\nHidden \n\n\n\n\n\n\n\n\n\n\n\n\nStore Notice Message\n\n\n\n\nWooCommerce can display a notice that appears on the bottom of all pages until hidden. This is a useful feature for displaying important messaging to visitors regardless of the page they're viewing.\n\n\n\n\nLogin to WordPress Admin\n\n\nFrom the WordPress Admin menu navigate to \nAPPEARANCE\n \n \nCUSTOMIZE\n\n\nSelect \nWooCommerce\n \n \nStore Notice\n\n\nAdd the text you'd like displayed in the store notice.\n\n\nIf you'd like to disable the store notice remove the checkmark from the \nENABLE STORE NOTICE\n box. \n(see screenshot below)\n\n\n\n\n\n\nClick \nPUBLISH\n \n\n\nAfter updating the store notice it's best to \nFlush the Siteground Cache", 
             "title": "Misc WooCommerce"
-        },
+        }, 
         {
-            "location": "/woocommerce/misc-woocommerce/#misc-woocommerce-details",
-            "text": "",
+            "location": "/woocommerce/misc-woocommerce/#misc-woocommerce-details", 
+            "text": "", 
             "title": "Misc WooCommerce Details"
-        },
+        }, 
         {
-            "location": "/woocommerce/misc-woocommerce/#products-displayed-per-page",
-            "text": "Up to  40  products can be displayed on a product category page prior to pagination.  This is set in the Divi settings.",
+            "location": "/woocommerce/misc-woocommerce/#products-displayed-per-page", 
+            "text": "Up to  40  products can be displayed on a product category page prior to pagination.  This is set in the Divi settings.", 
             "title": "Products Displayed Per Page"
-        },
+        }, 
         {
-            "location": "/woocommerce/misc-woocommerce/#hiding-products-from-search-or-shop-catalog",
-            "text": "Hiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.   Login to WordPress Admin  Click on  PRODUCTS  \u2192  ALL PRODUCTS    Locate the product you wish to edit  Click  EDIT PRODUCT  In the right hand column locate the  PUBLISH  box which has an option of  CATALOG VISIBILITY  and select  EDIT .  Available options for  PRODUCT VISIBILITY     Shop and search results  Shop only  Search results only  Hidden",
+            "location": "/woocommerce/misc-woocommerce/#hiding-products-from-search-or-shop-catalog", 
+            "text": "Hiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.   Login to WordPress Admin  Click on  PRODUCTS     ALL PRODUCTS    Locate the product you wish to edit  Click  EDIT PRODUCT  In the right hand column locate the  PUBLISH  box which has an option of  CATALOG VISIBILITY  and select  EDIT .  Available options for  PRODUCT VISIBILITY     Shop and search results  Shop only  Search results only  Hidden", 
             "title": "Hiding Products from Search or Shop Catalog"
-        },
+        }, 
         {
-            "location": "/woocommerce/misc-woocommerce/#store-notice-message",
-            "text": "WooCommerce can display a notice that appears on the bottom of all pages until hidden. This is a useful feature for displaying important messaging to visitors regardless of the page they're viewing.   Login to WordPress Admin  From the WordPress Admin menu navigate to  APPEARANCE  \u2192  CUSTOMIZE  Select  WooCommerce  \u2192  Store Notice  Add the text you'd like displayed in the store notice.  If you'd like to disable the store notice remove the checkmark from the  ENABLE STORE NOTICE  box.  (see screenshot below)    Click  PUBLISH    After updating the store notice it's best to  Flush the Siteground Cache",
+            "location": "/woocommerce/misc-woocommerce/#store-notice-message", 
+            "text": "WooCommerce can display a notice that appears on the bottom of all pages until hidden. This is a useful feature for displaying important messaging to visitors regardless of the page they're viewing.   Login to WordPress Admin  From the WordPress Admin menu navigate to  APPEARANCE     CUSTOMIZE  Select  WooCommerce     Store Notice  Add the text you'd like displayed in the store notice.  If you'd like to disable the store notice remove the checkmark from the  ENABLE STORE NOTICE  box.  (see screenshot below)    Click  PUBLISH    After updating the store notice it's best to  Flush the Siteground Cache", 
             "title": "Store Notice Message"
-        },
+        }, 
         {
-            "location": "/advanced/hide-elements-with-divi/",
-            "text": "Hide Elements on certain device types in Divi\n\u00b6",
+            "location": "/advanced/hide-elements-with-divi/", 
+            "text": "Hide Elements on certain device types in Divi", 
             "title": "Hiding Elements on Certain Device Types with Divi"
-        },
+        }, 
         {
-            "location": "/advanced/hide-elements-with-divi/#hide-elements-on-certain-device-types-in-divi",
-            "text": "",
+            "location": "/advanced/hide-elements-with-divi/#hide-elements-on-certain-device-types-in-divi", 
+            "text": "", 
             "title": "Hide Elements on certain device types in Divi"
-        },
+        }, 
         {
-            "location": "/advanced/ab-testing-with-divi/",
-            "text": "A/B Testing with Divi\n\u00b6\n\n\nDivi has a unique and valuable A/B Testing feature included in the theme framework. This is a great way to test out new changes to the site and analyze which copy, images, or video perform better. \n\n\nSetting up an A/B Test\n\u00b6\n\n\nFurther Reading/Resources\n\u00b6\n\n\n\n\nUsing A/B Testing in Bloom Mailchimp Subscription Forms\n\n\nUsing Divi Leads",
+            "location": "/advanced/ab-testing-with-divi/", 
+            "text": "A/B Testing with Divi\n\n\nDivi has a unique and valuable A/B Testing feature included in the theme framework. This is a great way to test out new changes to the site and analyze which copy, images, or video perform better. \n\n\nSetting up an A/B Test\n\n\nFurther Reading/Resources\n\n\n\n\nUsing A/B Testing in Bloom Mailchimp Subscription Forms\n\n\nUsing Divi Leads", 
             "title": "A/B Testing with Divi"
-        },
+        }, 
         {
-            "location": "/advanced/ab-testing-with-divi/#ab-testing-with-divi",
-            "text": "Divi has a unique and valuable A/B Testing feature included in the theme framework. This is a great way to test out new changes to the site and analyze which copy, images, or video perform better.",
+            "location": "/advanced/ab-testing-with-divi/#ab-testing-with-divi", 
+            "text": "Divi has a unique and valuable A/B Testing feature included in the theme framework. This is a great way to test out new changes to the site and analyze which copy, images, or video perform better.", 
             "title": "A/B Testing with Divi"
-        },
+        }, 
         {
-            "location": "/advanced/ab-testing-with-divi/#setting-up-an-ab-test",
-            "text": "",
+            "location": "/advanced/ab-testing-with-divi/#setting-up-an-ab-test", 
+            "text": "", 
             "title": "Setting up an A/B Test"
-        },
+        }, 
         {
-            "location": "/advanced/ab-testing-with-divi/#further-readingresources",
-            "text": "Using A/B Testing in Bloom Mailchimp Subscription Forms  Using Divi Leads",
+            "location": "/advanced/ab-testing-with-divi/#further-readingresources", 
+            "text": "Using A/B Testing in Bloom Mailchimp Subscription Forms  Using Divi Leads", 
             "title": "Further Reading/Resources"
-        },
+        }, 
         {
-            "location": "/advanced/managing-hex-json/",
-            "text": "Managing HEX & JSON files in WordPress\n\u00b6",
+            "location": "/advanced/managing-hex-json/", 
+            "text": "Managing HEX \n JSON files in WordPress", 
             "title": "Uploading HEX & JSON Files"
-        },
+        }, 
         {
-            "location": "/advanced/managing-hex-json/#managing-hex-json-files-in-wordpress",
-            "text": "",
+            "location": "/advanced/managing-hex-json/#managing-hex-json-files-in-wordpress", 
+            "text": "", 
             "title": "Managing HEX &amp; JSON files in WordPress"
         }
     ]
