@@ -1,7 +1,16 @@
 language: python
 python:
 - '2.7'
-install: pip install -q -r requirements.txt
+
+matrix:
+  include:
+    - env: TOXENV=flake8
+    - env: TOXENV=markdown-link
+      before_install: gem install mdl
+    - env: TOXENV=linkchecker
+install:
+  - pip install -q -r requirements.txt
+  - pip install tox
 script: mkdocs build
 
 
