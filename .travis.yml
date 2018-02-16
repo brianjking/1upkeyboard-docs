@@ -4,10 +4,8 @@ python:
 
 matrix:
   include:
-    - env: TOXENV=flake8
-    - env: TOXENV=markdown-link
+    - env: TOXENV=markdown-lint
       before_install: gem install mdl
-    - env: TOXENV=linkchecker
 install:
   - pip install -q -r requirements.txt
   - pip install tox
