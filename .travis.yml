@@ -11,9 +11,16 @@ matrix:
 install:
   - pip install -q -r requirements.txt
   - pip install tox
-script: mkdocs build
+script:
+  - tox
+  - mkdocs build
 
 
 # Deploy artifacts
 after_success:
-  - ./.travis.sh
+- git config user.name "{GH_USER}"
+- git config user.email "{GH_EMAIL}"
+- git remote add gh-token "https://${GH_TOKEN}@github.com/brianjking/1upkeyboard-docs.git";
+- git fetch gh-token && git fetch gh-token gh-pages:gh-pages;
+- pip install mkdocs -U;
+- mkdocs gh-deploy -v --remote-name gh-token;
