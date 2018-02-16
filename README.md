@@ -7,7 +7,7 @@ Documentation for managing the 1UP Keyboards website. Documentation built using 
 ![1upkeyboards logo 400px square](https://raw.githubusercontent.com/brianjking/1upkeyboard-docs/gh-pages/images/1up400.jpeg)
 
 
-#### License
+### License
 
 **MIT License**
 

@@ -24,6 +24,7 @@ pages:
 - Advanced:
     - Hiding Elements on Certain Device Types with Divi: advanced/hide-elements-with-divi.md
     - A/B Testing with Divi: advanced/ab-testing-with-divi.md
+    - Uploading HEX & JSON Files: advanced/managing-hex-json.md
 # Configuration
 theme:
   name: 'material'

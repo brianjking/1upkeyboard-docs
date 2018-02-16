@@ -6,10 +6,12 @@
 * Product Images - 510x999px (no hard crop)
 * Product Thumbnails - 157x157px (hard crop)
 
-## Adding Media to WordPress
+## Adding Media to the WordPress Library
 
 
 
-## Editing Media in WordPress
+## Editing Media in the WordPress Library
+
+
 
 
