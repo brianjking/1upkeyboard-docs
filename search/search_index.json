@@ -47,7 +47,7 @@
         },
         {
             "location": "/wordpress-basics/media/",
-            "text": "Managing Media in WordPress\n\u00b6\n\n\nMedia Sizes\n\u00b6\n\n\n\n\nCatalog Images - 400x400px (no hard crop)\n\n\nProduct Images - 510x999px (no hard crop)\n\n\nProduct Thumbnails - 157x157px (hard crop)\n\n\n\n\nAdding Media to WordPress\n\u00b6\n\n\nEditing Media in WordPress\n\u00b6",
+            "text": "Managing Media in WordPress\n\u00b6\n\n\nMedia Sizes\n\u00b6\n\n\n\n\nCatalog Images - 400x400px (no hard crop)\n\n\nProduct Images - 510x999px (no hard crop)\n\n\nProduct Thumbnails - 157x157px (hard crop)\n\n\n\n\nAdding Media to the WordPress Library\n\u00b6\n\n\nEditing Media in the WordPress Library\n\u00b6",
             "title": "Adding Media"
         },
         {
@@ -61,14 +61,14 @@
             "title": "Media Sizes"
         },
         {
-            "location": "/wordpress-basics/media/#adding-media-to-wordpress",
+            "location": "/wordpress-basics/media/#adding-media-to-the-wordpress-library",
             "text": "",
-            "title": "Adding Media to WordPress"
+            "title": "Adding Media to the WordPress Library"
         },
         {
-            "location": "/wordpress-basics/media/#editing-media-in-wordpress",
+            "location": "/wordpress-basics/media/#editing-media-in-the-wordpress-library",
             "text": "",
-            "title": "Editing Media in WordPress"
+            "title": "Editing Media in the WordPress Library"
         },
         {
             "location": "/wordpress-basics/flush-cache/",
@@ -264,6 +264,16 @@
             "location": "/advanced/ab-testing-with-divi/#further-readingresources",
             "text": "Using A/B Testing in Bloom Mailchimp Subscription Forms  Using Divi Leads",
             "title": "Further Reading/Resources"
+        },
+        {
+            "location": "/advanced/managing-hex-json/",
+            "text": "Managing HEX & JSON files in WordPress\n\u00b6",
+            "title": "Uploading HEX & JSON Files"
+        },
+        {
+            "location": "/advanced/managing-hex-json/#managing-hex-json-files-in-wordpress",
+            "text": "",
+            "title": "Managing HEX &amp; JSON files in WordPress"
         }
     ]
 }
