@@ -246,6 +246,21 @@
             "title": "Coupons Documentation"
         }, 
         {
+            "location": "/woocommerce/woo-categories/", 
+            "text": "WooCommerce Categories\n\n\nSubcategory Image Slices", 
+            "title": "Categories"
+        }, 
+        {
+            "location": "/woocommerce/woo-categories/#woocommerce-categories", 
+            "text": "", 
+            "title": "WooCommerce Categories"
+        }, 
+        {
+            "location": "/woocommerce/woo-categories/#subcategory-image-slices", 
+            "text": "", 
+            "title": "Subcategory Image Slices"
+        }, 
+        {
             "location": "/woocommerce/woo-shortcodes/", 
             "text": "WooCommerce Shortcodes\n\n\nhttps://docs.woocommerce.com/document/woocommerce-shortcodes/", 
             "title": "WooCommerce Shortcodes"

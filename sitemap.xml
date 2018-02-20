@@ -94,6 +94,12 @@
     </url>
         
     <url>
+     <loc>/woocommerce/woo-categories/</loc>
+     <lastmod>2018-02-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/woocommerce/woo-shortcodes/</loc>
      <lastmod>2018-02-20</lastmod>
      <changefreq>daily</changefreq>
