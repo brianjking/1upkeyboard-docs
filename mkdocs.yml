@@ -20,6 +20,7 @@ pages:
     - WooCommerce Reporting: woocommerce/woo-reporting.md
     - Upsells & Cross-sells: woocommerce/upsells-cross-sells.md
     - Coupons: woocommerce/woo-coupons.md
+    - Categories: woocommerce/woo-categories.md
     - WooCommerce Shortcodes: woocommerce/woo-shortcodes.md
     - Misc WooCommerce: woocommerce/misc-woocommerce.md
 - Advanced:
