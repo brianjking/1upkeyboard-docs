@@ -232,13 +232,28 @@
         }, 
         {
             "location": "/woocommerce/woo-coupons/", 
-            "text": "Using Coupons in WooCommerce", 
+            "text": "Using Coupons in WooCommerce\n\n\nCoupons Documentation\n\n\n\n\nManaging Coupons in WooCommerce", 
             "title": "Coupons"
         }, 
         {
             "location": "/woocommerce/woo-coupons/#using-coupons-in-woocommerce", 
             "text": "", 
             "title": "Using Coupons in WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/woo-coupons/#coupons-documentation", 
+            "text": "Managing Coupons in WooCommerce", 
+            "title": "Coupons Documentation"
+        }, 
+        {
+            "location": "/woocommerce/woo-shortcodes/", 
+            "text": "WooCommerce Shortcodes\n\n\nhttps://docs.woocommerce.com/document/woocommerce-shortcodes/", 
+            "title": "WooCommerce Shortcodes"
+        }, 
+        {
+            "location": "/woocommerce/woo-shortcodes/#woocommerce-shortcodes", 
+            "text": "https://docs.woocommerce.com/document/woocommerce-shortcodes/", 
+            "title": "WooCommerce Shortcodes"
         }, 
         {
             "location": "/woocommerce/misc-woocommerce/", 
