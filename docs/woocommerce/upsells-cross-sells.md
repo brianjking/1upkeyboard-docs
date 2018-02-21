@@ -22,6 +22,9 @@ Cross-sells are products that you promote in the cart, based on the current prod
 
 * Cross-sells are displayed on the **CART** page prior to a customer checking out.
 
+![WooCommerce  Packing List](../images/cross-sells-example.png)
+
+
 #### Other Resources
 
 * [WooCommerce Upsells & Cross-sells documentation](https://docs.woocommerce.com/document/related-products-up-sells-and-cross-sells/)
