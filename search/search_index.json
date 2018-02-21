@@ -162,7 +162,7 @@
         }, 
         {
             "location": "/woocommerce/add-products/", 
-            "text": "Adding New Products to WooCommerce\n\n\nTypes of Products\n\n\n\n\nSimple Product\n\n\nGrouped Product\n\n\nExternal/Affiliate Product\n\n\nVariable Product\n\n\nComposite Product\n\n\nProduct Bundles\n\n\n\n\nAdding a Product\n\n\nAdding a Composite Product", 
+            "text": "Adding New Products to WooCommerce\n\n\nTypes of Products\n\n\n\n\nSimple Product\n\n\nGrouped Product\n\n\nExternal/Affiliate Product\n\n\nVariable Product\n\n\nComposite Product\n\n\nProduct Bundles\n\n\n\n\nAdding a Product\n\n\nAdding a Composite Product\n\n\nOther Resources\n\n\n\n\n\n\nManaging Products Guide from WooCommerce\n\n\n\n\n\n\nBulk Editing Product Details", 
             "title": "Adding Products"
         }, 
         {
@@ -184,6 +184,11 @@
             "location": "/woocommerce/add-products/#adding-a-composite-product", 
             "text": "", 
             "title": "Adding a Composite Product"
+        }, 
+        {
+            "location": "/woocommerce/add-products/#other-resources", 
+            "text": "Managing Products Guide from WooCommerce    Bulk Editing Product Details", 
+            "title": "Other Resources"
         }, 
         {
             "location": "/woocommerce/edit-products/", 
