@@ -14,3 +14,12 @@
 
 ### Adding a Composite Product
 
+
+
+#### Other Resources
+
+* [Managing Products Guide from WooCommerce](https://docs.woocommerce.com/document/managing-products/)
+
+* [Bulk Editing Product Details](https://nicola.blog/2015/04/21/bulk-edit-products/)
+
+
