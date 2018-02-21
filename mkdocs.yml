@@ -9,6 +9,7 @@ pages:
     - Adding News Posts: wordpress-basics/adding-news-posts.md
     - Updating The Menu: wordpress-basics/menu.md
     - Adding Media: wordpress-basics/media.md
+    - Managing Pages: wordpress-basics/managing-pages.md
     - Manually Flush Siteground Caching: wordpress-basics/flush-cache.md
     - Keeping WordPress Core & Plugins Updated: wordpress-basics/update-plugins.md
     - Managing Homepage Slider: wordpress-basics/managing-homepage-slider.md
