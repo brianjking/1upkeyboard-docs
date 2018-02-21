@@ -72,13 +72,33 @@
         }, 
         {
             "location": "/wordpress-basics/managing-pages/", 
-            "text": "Managing Pages in WordPress", 
+            "text": "Managing Pages in WordPress\n\n\nAccessing WordPress Pages in the WordPress Admin\n\n\n\n\nLogin to \nWordPress Admin\n\n\nClick on \nPages\n \n \nAll Pages\n\n\n\n\n\n\nNormal WordPress Pages\n\n\nInstructions \n Downloads Pages\n\n\nWooCommerce Managed Pages\n\n\n\n\nNote\n\n\nWooCommerce\n has specific pages that are managed via separate templates that \ncannot/should not\n be modified via the \nWordPress Pages\n section of your WordPress Admin. \n\n\n\n\n\n\nPages managed by WooCommerce Templates\n\n\nMy Account\n\n\nCheckout\n\n\nCart", 
             "title": "Managing Pages"
         }, 
         {
             "location": "/wordpress-basics/managing-pages/#managing-pages-in-wordpress", 
             "text": "", 
             "title": "Managing Pages in WordPress"
+        }, 
+        {
+            "location": "/wordpress-basics/managing-pages/#accessing-wordpress-pages-in-the-wordpress-admin", 
+            "text": "Login to  WordPress Admin  Click on  Pages     All Pages", 
+            "title": "Accessing WordPress Pages in the WordPress Admin"
+        }, 
+        {
+            "location": "/wordpress-basics/managing-pages/#normal-wordpress-pages", 
+            "text": "", 
+            "title": "Normal WordPress Pages"
+        }, 
+        {
+            "location": "/wordpress-basics/managing-pages/#instructions-downloads-pages", 
+            "text": "", 
+            "title": "Instructions &amp; Downloads Pages"
+        }, 
+        {
+            "location": "/wordpress-basics/managing-pages/#woocommerce-managed-pages", 
+            "text": "Note  WooCommerce  has specific pages that are managed via separate templates that  cannot/should not  be modified via the  WordPress Pages  section of your WordPress Admin.     Pages managed by WooCommerce Templates  My Account  Checkout  Cart", 
+            "title": "WooCommerce Managed Pages"
         }, 
         {
             "location": "/wordpress-basics/flush-cache/", 
@@ -307,12 +327,12 @@
         }, 
         {
             "location": "/advanced/hide-elements-with-divi/", 
-            "text": "Hide Elements on certain device types in Divi", 
+            "text": "Hide Elements on certain device types in Divi\n\n\nThe Divi theme framework allows for you to easily design content", 
             "title": "Hiding Elements on Certain Device Types with Divi"
         }, 
         {
             "location": "/advanced/hide-elements-with-divi/#hide-elements-on-certain-device-types-in-divi", 
-            "text": "", 
+            "text": "The Divi theme framework allows for you to easily design content", 
             "title": "Hide Elements on certain device types in Divi"
         }, 
         {
