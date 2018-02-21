@@ -71,6 +71,16 @@
             "title": "Editing Media in the WordPress Library"
         }, 
         {
+            "location": "/wordpress-basics/managing-pages/", 
+            "text": "Managing Pages in WordPress", 
+            "title": "Managing Pages"
+        }, 
+        {
+            "location": "/wordpress-basics/managing-pages/#managing-pages-in-wordpress", 
+            "text": "", 
+            "title": "Managing Pages in WordPress"
+        }, 
+        {
             "location": "/wordpress-basics/flush-cache/", 
             "text": "Flush SiteGround Caching\n\n\nIt is important to flush the \nSiteground SuperCacher\n cache when updating any content on the site. \n\n\nHow to Flush the SiteGround Cache\n\n\n\n\nLogin to the WordPress Admin as an \nADMINISTRATOR\n \n\n\nFrom the WordPress Admin horizontal toolbar click on \nFLUSH SG CACHE\n to flush the SiteGround SuperCacher. \n\n\nWait for the page to reload (this might take a few seconds).", 
             "title": "Manually Flush Siteground Caching"
