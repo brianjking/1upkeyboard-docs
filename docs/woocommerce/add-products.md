@@ -22,4 +22,6 @@
 
 * [Bulk Editing Product Details](https://nicola.blog/2015/04/21/bulk-edit-products/)
 
+* [Bundled Products & Inventory](https://docs.woocommerce.com/document/bundles/bundles-configuration/#inventory)
+
 
