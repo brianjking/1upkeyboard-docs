@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/wordpress-basics/media/", 
-            "text": "Managing Media in WordPress\n\n\nMedia Sizes\n\n\n\n\nCatalog Images - 400x400px (no hard crop)\n\n\nProduct Images - 510x999px (no hard crop)\n\n\nProduct Thumbnails - 157x157px (hard crop)\n\n\n\n\nAdding Media to the WordPress Library\n\n\nEditing Media in the WordPress Library", 
+            "text": "Managing Media in WordPress\n\n\nMedia Sizes\n\n\n\n\nCatalog Images - 400x400px (no hard crop)\n\n\nProduct Images - 510x999px (no hard crop)\n\n\nProduct Thumbnails - 157x157px (hard crop)\n\n\n\n\nAdding Media to the WordPress Library\n\n\nEditing Media in the WordPress Library\n\n\nOther Resources\n\n\n\n\nImportance of ALT \n TITLE tags on images for SEO", 
             "title": "Adding Media"
         }, 
         {
@@ -69,6 +69,11 @@
             "location": "/wordpress-basics/media/#editing-media-in-the-wordpress-library", 
             "text": "", 
             "title": "Editing Media in the WordPress Library"
+        }, 
+        {
+            "location": "/wordpress-basics/media/#other-resources", 
+            "text": "Importance of ALT   TITLE tags on images for SEO", 
+            "title": "Other Resources"
         }, 
         {
             "location": "/wordpress-basics/managing-pages/", 
@@ -136,8 +141,13 @@
             "title": "Managing Homepage Slider Items"
         }, 
         {
+            "location": "/wordpress-basics/divi-visual-builder/", 
+            "text": "", 
+            "title": "Divi Visual Page Builder"
+        }, 
+        {
             "location": "/wordpress-basics/other-resources/", 
-            "text": "Other WordPress Resources\n\n\nWordPress Docs\n\n\nSecurity Related Resources\n\n\n\n\nWordPress Vulnerability Alerts\n\n\nI suggest signing up for the \nemail newsletter\n to ensure you're promptly upgrading plugins, themes, or WordPress core.\n\n\n\n\n\n\n\n\nWooCommerce Docs\n\n\n\n\nWooCommerce Docs", 
+            "text": "Other WordPress Resources\n\n\nWordPress Docs\n\n\nSecurity Related Resources\n\n\n\n\nWordPress Vulnerability Alerts\n\n\nI suggest signing up for the \nemail newsletter\n to ensure you're promptly upgrading plugins, themes, or WordPress core.\n\n\n\n\n\n\n\n\nWooCommerce Docs\n\n\n\n\nWooCommerce Docs\n\n\nWooCommerce Basic Troubleshooting Self Service Resources\n\n\nSpecific WooCommerce Basic Troubleshooting Self Service Resources\n\n\n\n\nKnown WooCommerce Conflicts \n Issues\n\n\n\n\n\n\nSiteground WordPress FAQs \n Tutorials", 
             "title": "Other Resources"
         }, 
         {
@@ -157,12 +167,12 @@
         }, 
         {
             "location": "/wordpress-basics/other-resources/#woocommerce-docs", 
-            "text": "WooCommerce Docs", 
+            "text": "WooCommerce Docs  WooCommerce Basic Troubleshooting Self Service Resources  Specific WooCommerce Basic Troubleshooting Self Service Resources   Known WooCommerce Conflicts   Issues    Siteground WordPress FAQs   Tutorials", 
             "title": "WooCommerce Docs"
         }, 
         {
             "location": "/woocommerce/add-products/", 
-            "text": "Adding New Products to WooCommerce\n\n\nTypes of Products\n\n\n\n\nSimple Product\n\n\nGrouped Product\n\n\nExternal/Affiliate Product\n\n\nVariable Product\n\n\nComposite Product\n\n\nProduct Bundles\n\n\n\n\nAdding a Product\n\n\nAdding a Composite Product\n\n\nOther Resources\n\n\n\n\n\n\nManaging Products Guide from WooCommerce\n\n\n\n\n\n\nBulk Editing Product Details", 
+            "text": "Adding New Products to WooCommerce\n\n\nTypes of Products\n\n\n\n\nSimple Product\n\n\nGrouped Product\n\n\nExternal/Affiliate Product\n\n\nVariable Product\n\n\nComposite Product\n\n\nProduct Bundles\n\n\n\n\nAdding a Product\n\n\nAdding a Composite Product\n\n\nOther Resources\n\n\n\n\n\n\nManaging Products Guide from WooCommerce\n\n\n\n\n\n\nBulk Editing Product Details\n\n\n\n\n\n\nBundled Products \n Inventory", 
             "title": "Adding Products"
         }, 
         {
@@ -187,7 +197,7 @@
         }, 
         {
             "location": "/woocommerce/add-products/#other-resources", 
-            "text": "Managing Products Guide from WooCommerce    Bulk Editing Product Details", 
+            "text": "Managing Products Guide from WooCommerce    Bulk Editing Product Details    Bundled Products   Inventory", 
             "title": "Other Resources"
         }, 
         {
