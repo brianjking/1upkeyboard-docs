@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/wordpress-basics/menu/", 
-            "text": "Managing the WordPress Menus\n\n\nThere are 2 menus used for the 1upkeyboards.com website. One if the \nPRIMARY MENU\n and then there is a \nFOOTER MENU\n which has links used in the footer of every page. \n\n\nManaging the Primary Menu\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \n \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT\n\n\n\n\n\n\nManaging the Footer Menu", 
+            "text": "Managing the WordPress Menus\n\n\nThere are 2 menus used for the 1upkeyboards.com website. One if the \nPRIMARY MENU\n and then there is a \nFOOTER MENU\n which has links used in the footer of every page. \n\n\nManaging the Primary Menu\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \n \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT\n\n\n\n\n\n\nManaging the Footer Menu\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \n \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT", 
             "title": "Updating The Menu"
         }, 
         {
@@ -42,7 +42,7 @@
         }, 
         {
             "location": "/wordpress-basics/menu/#managing-the-footer-menu", 
-            "text": "", 
+            "text": "Login to the WordPress Admin area with an administrator username and password.  From the menu on the left hand side of the WordPress Admin area navigate to  APPEARANCE     MENUS    Select  PRIMARY (PRIMARY MENU)  from the dropdown and click  SELECT", 
             "title": "Managing the Footer Menu"
         }, 
         {
@@ -307,7 +307,7 @@
         }, 
         {
             "location": "/woocommerce/misc-woocommerce/", 
-            "text": "Misc WooCommerce Details\n\n\nProducts Displayed Per Page\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.\n\n\n\n\n\n\n\n\nHiding Products from Search or Shop Catalog\n\n\nHiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nPRODUCTS\n \n \nALL PRODUCTS\n \n\n\nLocate the product you wish to edit\n\n\nClick \nEDIT PRODUCT\n\n\nIn the right hand column locate the \nPUBLISH\n box which has an option of \nCATALOG VISIBILITY\n and select \nEDIT\n.\n\n\nAvailable options for \nPRODUCT VISIBILITY\n  \n\n\nShop and search results\n\n\nShop only\n\n\nSearch results only\n\n\nHidden \n\n\n\n\n\n\n\n\n\n\n\n\nStore Notice Message\n\n\n\n\nWooCommerce can display a notice that appears on the bottom of all pages until hidden. This is a useful feature for displaying important messaging to visitors regardless of the page they're viewing.\n\n\n\n\nLogin to WordPress Admin\n\n\nFrom the WordPress Admin menu navigate to \nAPPEARANCE\n \n \nCUSTOMIZE\n\n\nSelect \nWooCommerce\n \n \nStore Notice\n\n\nAdd the text you'd like displayed in the store notice.\n\n\nIf you'd like to disable the store notice remove the checkmark from the \nENABLE STORE NOTICE\n box. \n(see screenshot below)\n\n\n\n\n\n\nClick \nPUBLISH\n \n\n\nAfter updating the store notice it's best to \nFlush the Siteground Cache", 
+            "text": "Misc WooCommerce Details\n\n\nProducts Displayed Per Page\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.\n\n\n\n\n\n\n\n\nHiding Products from Search or Shop Catalog\n\n\nHiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nPRODUCTS\n \n \nALL PRODUCTS\n \n\n\nLocate the product you wish to edit\n\n\nClick \nEDIT PRODUCT\n\n\nIn the right hand column locate the \nPUBLISH\n box which has an option of \nCATALOG VISIBILITY\n and select \nEDIT\n.\n\n\nAvailable options for \nPRODUCT VISIBILITY\n  \n\n\nShop and search results\n\n\nShop only\n\n\nSearch results only\n\n\nHidden \n\n\n\n\n\n\n\n\n\n\n\n\nEnable or Disable Product Reviews\n\n\nStore Notice Message\n\n\n\n\nWooCommerce can display a notice that appears on the bottom of all pages until hidden. This is a useful feature for displaying important messaging to visitors regardless of the page they're viewing.\n\n\n\n\nLogin to WordPress Admin\n\n\nFrom the WordPress Admin menu navigate to \nAPPEARANCE\n \n \nCUSTOMIZE\n\n\nSelect \nWooCommerce\n \n \nStore Notice\n\n\nAdd the text you'd like displayed in the store notice.\n\n\nIf you'd like to disable the store notice remove the checkmark from the \nENABLE STORE NOTICE\n box. \n(see screenshot below)\n\n\n\n\n\n\nClick \nPUBLISH\n \n\n\nAfter updating the store notice it's best to \nFlush the Siteground Cache", 
             "title": "Misc WooCommerce"
         }, 
         {
@@ -324,6 +324,11 @@
             "location": "/woocommerce/misc-woocommerce/#hiding-products-from-search-or-shop-catalog", 
             "text": "Hiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.   Login to WordPress Admin  Click on  PRODUCTS     ALL PRODUCTS    Locate the product you wish to edit  Click  EDIT PRODUCT  In the right hand column locate the  PUBLISH  box which has an option of  CATALOG VISIBILITY  and select  EDIT .  Available options for  PRODUCT VISIBILITY     Shop and search results  Shop only  Search results only  Hidden", 
             "title": "Hiding Products from Search or Shop Catalog"
+        }, 
+        {
+            "location": "/woocommerce/misc-woocommerce/#enable-or-disable-product-reviews", 
+            "text": "", 
+            "title": "Enable or Disable Product Reviews"
         }, 
         {
             "location": "/woocommerce/misc-woocommerce/#store-notice-message", 
