@@ -4,4 +4,5 @@
 * Click on **POSTS** --> **ADD NEW**
 * Add a **Post Title**
 * Add the **Post Content**
-* Publish the post 
+* Select relevant **POST CATEGORIES**
+* Publish the post by clicking **PUBLISH**
