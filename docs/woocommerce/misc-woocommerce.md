@@ -20,7 +20,11 @@ Hiding products from appearing in the shop search and/or catalog can be achieved
 		* Search results only
 		* Hidden 
 
-### Store Notice Message
+## Enable or Disable Product Reviews
+
+
+
+## Store Notice Message
 
 ![WooCommerce Store Notice](../images/woo-store-notice.png)
 
