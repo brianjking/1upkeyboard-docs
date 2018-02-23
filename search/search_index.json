@@ -2,18 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the 1upkeyboards.com docs\n\n\n\n\nThis is a guide for managing the \n1upkeyboards website\n.\n\n\nNavigating the guide\n\n\n\n\nYou can navigate through the sections using the menu on the left.", 
+            "text": "Welcome to the 1upkeyboards.com Docs\n\n\n\n\nPurpose\n\n\nThis is documentation for managing the \n1upkeyboards website\n prepared using \nMkDocs\n, tested, built/deployed via \nTravis-CI\n, hosted on GitHub Pages, documentation theme by \nsquidfunk\n \nmkdocs-material\n. Source material for this documentation can be found written in \nMarkdown\n on \n \nGitHub\n.\n\n\nNavigating The Guides Contents\n\n\nYou can navigate through this guide using the categories on the \nleft hand side navigation\n, using the \nfooter based navigation\n, or if you're looking for something specific you can \nsearch\n by using the search box in the header of the page or by pressing \nF\n or \nS\n) on your keyboard and entering your search query.", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-the-1upkeyboardscom-docs", 
-            "text": "This is a guide for managing the  1upkeyboards website .", 
-            "title": "Welcome to the 1upkeyboards.com docs"
+            "text": "", 
+            "title": "Welcome to the 1upkeyboards.com Docs"
         }, 
         {
-            "location": "/#navigating-the-guide", 
-            "text": "You can navigate through the sections using the menu on the left.", 
-            "title": "Navigating the guide"
+            "location": "/#purpose", 
+            "text": "This is documentation for managing the  1upkeyboards website  prepared using  MkDocs , tested, built/deployed via  Travis-CI , hosted on GitHub Pages, documentation theme by  squidfunk   mkdocs-material . Source material for this documentation can be found written in  Markdown  on    GitHub .", 
+            "title": "Purpose"
+        }, 
+        {
+            "location": "/#navigating-the-guides-contents", 
+            "text": "You can navigate through this guide using the categories on the  left hand side navigation , using the  footer based navigation , or if you're looking for something specific you can  search  by using the search box in the header of the page or by pressing  F  or  S ) on your keyboard and entering your search query.", 
+            "title": "Navigating The Guides Contents"
         }, 
         {
             "location": "/wordpress-basics/adding-news-posts/", 
