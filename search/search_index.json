@@ -142,8 +142,13 @@
         }, 
         {
             "location": "/wordpress-basics/divi-visual-builder/", 
-            "text": "", 
+            "text": "Divi Visual Builder\n\n\nhttps://www.elegantthemes.com/documentation/divi/visual-builder/", 
             "title": "Divi Visual Page Builder"
+        }, 
+        {
+            "location": "/wordpress-basics/divi-visual-builder/#divi-visual-builder", 
+            "text": "https://www.elegantthemes.com/documentation/divi/visual-builder/", 
+            "title": "Divi Visual Builder"
         }, 
         {
             "location": "/wordpress-basics/other-resources/", 
