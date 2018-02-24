@@ -227,18 +227,63 @@
         }, 
         {
             "location": "/woocommerce/packing-shipping/", 
-            "text": "Packing Lists, Invoices, \n Shipping Labels\n\n\nPacking Lists\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \n \nOrders\n\n\nLocate the \nOrder\n you wish to obtain a packing list for from the \nORDER LIST\n or use the \nSEARCH BOX\n to locate a specific order.\n\n\nSelect the \nPACKING LIST\n icon \n(FAR RIGHT ICON)\n to generate \n print the PDF.", 
+            "text": "Packing Slips, Invoices, \n Shipping Labels\n\n\nPacking Slips\n\n\nAccessing Packing Slips for a specific order\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \n \nOrders\n\n\nLocate the \nOrder\n you wish to obtain a packing list for from the \nORDER LIST\n or use the \nSEARCH BOX\n to locate a specific order.\n\n\nSelect the \nPACKING LIST\n icon \n(FAR RIGHT ICON)\n to generate \n print the PDF.\n\n\n\n\n\n\nConfiguring the Packing Slip PDF\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \n \nPDF Invoices\n\n\nConfiguration for both \nPacking Slips\n \n \nInvoice PDFs\n can be configured from the \nGENERAL\n tab.\n\n\nThere is also additional configuration available in the \nDocuments\n \n \nPacking Slip\n area.\n\n\n\n\n\n\n\n\nInvoices\n\n\nAccessing Invoices for a Specific Order\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \n \nOrders\n\n\nLocate the \nOrder\n you wish to obtain a PDF Invoice for from the \nORDER LIST\n or use the \nSEARCH BOX\n to locate a specific order.\n\n\nSelect the \nINVOICE\n icon \n(SECOND ICON)\n to generate \n print the PDF.\n\n\n\n\n\n\nConfiguring the Invoice PDF\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \n \nPDF Invoices\n\n\nConfiguration for both \nPacking Slips\n \n \nInvoice PDFs\n can be configured from the \nGENERAL\n tab.\n\n\nThere is also additional configuration available in the \nDocuments\n \n \nInvoice\n section.\n\n\n\n\n\n\n\n\n\n\nTip\n\n\nInvoices are currently generated and attached/sent via email to all \ncompleted orders\n. This can be configured for additional order statuses using the configuration instructions above.\n\n\n\n\nShipping\n\n\nConfiguring Shipping Details\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \n \nSettings\n\n\nLocate the \nSHIPPING\n tab from the horizontal menu.\n\n\n\n\nGenerating a Shipping Label for an Order\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \n \nOrders\n\n\nLocate the \nOrder\n you wish to generate a \nSHIPPING LABEL\n for from the \nORDER LIST\n or use the \nSEARCH BOX\n to locate a specific order.\n\n\nSelect the \nORDER\n\n\n\n\n\n\nAdditional Shipping Resources\n\n\n\n\nWooCommerce Shipping Setup Documentation\n\n\nWooCommerce Setting up Shipping Zones Documentation", 
             "title": "Packing & Shipping"
         }, 
         {
-            "location": "/woocommerce/packing-shipping/#packing-lists-invoices-shipping-labels", 
+            "location": "/woocommerce/packing-shipping/#packing-slips-invoices-shipping-labels", 
             "text": "", 
-            "title": "Packing Lists, Invoices, &amp; Shipping Labels"
+            "title": "Packing Slips, Invoices, &amp; Shipping Labels"
         }, 
         {
-            "location": "/woocommerce/packing-shipping/#packing-lists", 
+            "location": "/woocommerce/packing-shipping/#packing-slips", 
+            "text": "", 
+            "title": "Packing Slips"
+        }, 
+        {
+            "location": "/woocommerce/packing-shipping/#accessing-packing-slips-for-a-specific-order", 
             "text": "Login to  WordPress Admin  Navigate to  WooCommerce     Orders  Locate the  Order  you wish to obtain a packing list for from the  ORDER LIST  or use the  SEARCH BOX  to locate a specific order.  Select the  PACKING LIST  icon  (FAR RIGHT ICON)  to generate   print the PDF.", 
-            "title": "Packing Lists"
+            "title": "Accessing Packing Slips for a specific order"
+        }, 
+        {
+            "location": "/woocommerce/packing-shipping/#configuring-the-packing-slip-pdf", 
+            "text": "Login to  WordPress Admin  Navigate to  WooCommerce     PDF Invoices  Configuration for both  Packing Slips     Invoice PDFs  can be configured from the  GENERAL  tab.  There is also additional configuration available in the  Documents     Packing Slip  area.", 
+            "title": "Configuring the Packing Slip PDF"
+        }, 
+        {
+            "location": "/woocommerce/packing-shipping/#invoices", 
+            "text": "", 
+            "title": "Invoices"
+        }, 
+        {
+            "location": "/woocommerce/packing-shipping/#accessing-invoices-for-a-specific-order", 
+            "text": "Login to  WordPress Admin  Navigate to  WooCommerce     Orders  Locate the  Order  you wish to obtain a PDF Invoice for from the  ORDER LIST  or use the  SEARCH BOX  to locate a specific order.  Select the  INVOICE  icon  (SECOND ICON)  to generate   print the PDF.", 
+            "title": "Accessing Invoices for a Specific Order"
+        }, 
+        {
+            "location": "/woocommerce/packing-shipping/#configuring-the-invoice-pdf", 
+            "text": "Login to  WordPress Admin  Navigate to  WooCommerce     PDF Invoices  Configuration for both  Packing Slips     Invoice PDFs  can be configured from the  GENERAL  tab.  There is also additional configuration available in the  Documents     Invoice  section.      Tip  Invoices are currently generated and attached/sent via email to all  completed orders . This can be configured for additional order statuses using the configuration instructions above.", 
+            "title": "Configuring the Invoice PDF"
+        }, 
+        {
+            "location": "/woocommerce/packing-shipping/#shipping", 
+            "text": "", 
+            "title": "Shipping"
+        }, 
+        {
+            "location": "/woocommerce/packing-shipping/#configuring-shipping-details", 
+            "text": "Login to  WordPress Admin  Navigate to  WooCommerce     Settings  Locate the  SHIPPING  tab from the horizontal menu.", 
+            "title": "Configuring Shipping Details"
+        }, 
+        {
+            "location": "/woocommerce/packing-shipping/#generating-a-shipping-label-for-an-order", 
+            "text": "Login to  WordPress Admin  Navigate to  WooCommerce     Orders  Locate the  Order  you wish to generate a  SHIPPING LABEL  for from the  ORDER LIST  or use the  SEARCH BOX  to locate a specific order.  Select the  ORDER", 
+            "title": "Generating a Shipping Label for an Order"
+        }, 
+        {
+            "location": "/woocommerce/packing-shipping/#additional-shipping-resources", 
+            "text": "WooCommerce Shipping Setup Documentation  WooCommerce Setting up Shipping Zones Documentation", 
+            "title": "Additional Shipping Resources"
         }, 
         {
             "location": "/woocommerce/woo-reporting/", 
