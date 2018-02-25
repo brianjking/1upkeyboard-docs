@@ -366,6 +366,11 @@
             "title": "Subcategory Image Slices"
         }, 
         {
+            "location": "/woocommerce/woo-taxes/", 
+            "text": "", 
+            "title": "Taxes"
+        }, 
+        {
             "location": "/woocommerce/woo-shortcodes/", 
             "text": "WooCommerce Shortcodes\n\n\nhttps://docs.woocommerce.com/document/woocommerce-shortcodes/", 
             "title": "WooCommerce Shortcodes"
