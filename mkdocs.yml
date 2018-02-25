@@ -23,6 +23,7 @@ pages:
     - Upsells & Cross-sells: woocommerce/upsells-cross-sells.md
     - Coupons: woocommerce/woo-coupons.md
     - Categories: woocommerce/woo-categories.md
+    - Taxes: woocommerce/woo-taxes.md
     - WooCommerce Shortcodes: woocommerce/woo-shortcodes.md
     - Misc WooCommerce: woocommerce/misc-woocommerce.md
 - Advanced:
