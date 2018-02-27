@@ -2,7 +2,10 @@
 
 # 1UP Keyboards Docs
 
-Documentation for managing the 1UP Keyboards website. Documentation built using [MkDocs](https://github.com/mkdocs/mkdocs) and [MkDocs Material](https://github.com/squidfunk/mkdocs-material). Site hosted with [GitHub Pages](https://brianjking.github.io/1upkeyboard-docs/).
+## Purpose 
+
+This is documentation for managing the [1upkeyboards website](https://www.1upkeyboards.com) prepared using [MkDocs](https://github.com/mkdocs/mkdocs), tested, built/deployed via [Travis-CI](https://travis-ci.org/brianjking/1upkeyboard-docs), hosted on GitHub Pages, documentation theme by [squidfunk](https://github.com/squidfunk/) [mkdocs-material](https://github.com/squidfunk/mkdocs-material). Source material for this documentation can be found written in `Markdown` on :fa-github-square: [GitHub](https://github.com/brianjking/1upkeyboard-docs).
+
 
 ![1upkeyboards logo 400px square](https://raw.githubusercontent.com/brianjking/1upkeyboard-docs/gh-pages/images/1up400.jpeg)
 
