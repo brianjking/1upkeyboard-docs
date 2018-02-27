@@ -318,7 +318,7 @@
         {
             "location": "/woocommerce/upsells-cross-sells/", 
             "text": "Upsells \n Cross-sells in WooCommerce\n\n\nWooCommerce includes the configuration of Upsells \n Cross-sells inside of each product regardless of product type. Products can be related to each other in three ways: \nUp-Sells, Cross-Sells or by having the same tags or categories\n.\n\n\n\n\n\n\nAdding an Upsell or Cross-Sell to a Product\n\n\n\n\nGo to \nWooCommerce\n \n \nProducts\n and select the product on which you\u2019d like to show an up-sell or cross-sell.\n\n\nScroll down to the Product Data panel. \n(see screenshot above)\n\n\nSelect the \nLinked Products\n tab in the left menu.\n\n\nAdd the product(s) you wish to link to by typing the product(s) names into the relevant Upsell or Cross-sell box.\n\n\nAdd \nTAGS\n to link products as being related via tag \n(see screenshot above)\n \n\n\nClick Update to save the product.\n\n\n\n\nUpsells\n\n\n\n\nUpsells are displayed on the \nPRODUCT PAGE\n for the currently displayed product. \n\n\n\n\nCross-sells\n\n\nCross-sells are products that you promote in the cart, based on the current product.\n\n\n\n\nCross-sells are displayed on the \nCART\n page prior to a customer checking out.\n\n\n\n\n\n\nOther Resources\n\n\n\n\nWooCommerce Upsells \n Cross-sells documentation", 
-            "title": "Upsells & Cross-sells"
+            "title": "Upsells, Cross-sells, & Related Products in WooCommerce"
         }, 
         {
             "location": "/woocommerce/upsells-cross-sells/#upsells-cross-sells-in-woocommerce", 
