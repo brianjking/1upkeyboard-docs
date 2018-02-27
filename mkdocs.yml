@@ -15,13 +15,15 @@ pages:
     - Managing Homepage Slider: wordpress-basics/managing-homepage-slider.md
     - Managing Backups: wordpress-basics/backups.md
     - Divi Visual Page Builder: wordpress-basics/divi-visual-builder.md
+    - Managing Homepage & Shop Page Categories Menu: wordpress-basics/updating-shop-categories-menu.md
     - Other Resources: wordpress-basics/other-resources.md
 - WooCommerce:
     - Adding Products: woocommerce/add-products.md
     - Editing Products: woocommerce/edit-products.md
+    - Managing Product Data (Inventory, Cost of Goods, Visibility, Reviews & More): woocommerce/manage-product-data.md
+    - Upsells, Cross-sells, & Related Products in WooCommerce: woocommerce/upsells-cross-sells.md
     - Packing & Shipping: woocommerce/packing-shipping.md
     - WooCommerce Reporting: woocommerce/woo-reporting.md
-    - Upsells, Cross-sells, & Related Products in WooCommerce: woocommerce/upsells-cross-sells.md
     - Coupons: woocommerce/woo-coupons.md
     - Categories: woocommerce/woo-categories.md
     - Taxes: woocommerce/woo-taxes.md
