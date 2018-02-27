@@ -46,10 +46,10 @@
 * Login to **WordPress Admin**
 * Navigate to **WooCommerce** --> **Settings**
 * Locate the **SHIPPING** tab from the horizontal menu.
-* Shipping configuration is split into 5 components:
+* Shipping configuration is split into **5 components**:
 	* Shipping zones
 	* Shipping options
-	* Shipping classes
+	* [Shipping classes](https://docs.woocommerce.com/document/product-shipping-classes/)
 	* Packages
 	* Shipping labels
 
