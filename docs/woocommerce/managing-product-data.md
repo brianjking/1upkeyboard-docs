@@ -29,7 +29,9 @@
 ## Inventory
 
 !!! note
- 	Due to how WooCommerce builds products in comparison to the Magento platform this might be slightly complex initially. Some products are have their inventory managed at the **PRODUCT VARIATION** level *(Example: Crosshatch Standoffs)*, some products inventories are managed via the product level, and some are managed via a product not displayed on the public facing site as the site makes use of Product Bundles, etc. **I'm still thinking about a way to show this to you to make it easier, however, at this point I think you might figure it out via navigating around various products. 
+ 	Due to how WooCommerce builds products in comparison to the Magento platform this might be slightly complex initially. Some products are have their inventory managed at the **PRODUCT VARIATION** level *(Example: Crosshatch Standoffs)*, some products inventories are managed via the product level, and some are managed via a product not displayed on the public facing site as the site makes use of Product Bundles, etc. 
+
+ 	**I'm still thinking about a way to show this to you to make it easier, however, at this point I think you might figure it out via navigating around various products.** 
 
 * Login to **WordPress Admin**
 * Navigate to **Products** --> **All Products**
