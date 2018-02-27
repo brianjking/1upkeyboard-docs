@@ -171,6 +171,21 @@
             "title": "Introducing the Divi Visual Builder"
         }, 
         {
+            "location": "/wordpress-basics/updating-shop-categories-menu/", 
+            "text": "Updating the Homepage \n Shop Page Category Menu\n\n\n\n\n\n\nLogin to the \nWordPress Admin\n\n\nFrom the horizontal menu click on \nDivi\n \n \nDivi Library\n\n\nSelect \nShop Global Categories\n from the list of \nDivi Library Items\n \n \nSelect Edit\n \n\n\n\n\n\n\n\n\nThis will load the \nGlobal Divi Library\n which is characterized by the \nLIME GREEN\n seen in the below image.\n\n\n*Any edits to \nGLOBAL\n items will be visible anywhere the global layout is utilized. In the case of the \nSHOP GLOBAL CATEGORIES\n that is currently the \nHOMEPAGE\n \n \nSHOP PAGE\n *\n\n\n\n\n\n\n\n\n\n\nAdding New Categories to the Shop Global Categories Menu\n\n\n\n\nClick the \nClone\n icon to clone one of the categories \n(Example: DIY Artisan Supplies)\n\n\n\n\nClick the :fas fa-bars: icon to edit the newly cloned item.\n\n\n\n\n\n\n\n\nSelect the original image (black text) for the \nImage URL\n section, enter relevant Alternative Text \n Title Text\n\n\nSelect the mouseover image (white text) for the \nOverlay Image URL\n section\n\n\nEnter the \nLink URL\n using a \nrelative URL (example: /product-category/artisan-kits)\n into the \nLINK URL\n box\n\n\nClick \nSave \n Exit\n\n\nWhen you are finished making the edits to the \nShop \n Homepage Global Categories Menus\n click \nUpdate\n under the \nPublish\n menu in the left hand side of the page.\n\n\nFlush Siteground Cache\n\n\nConfirm your updates look the way you want them to by visiting the \nHOME\n \n \nSHOP\n pages.", 
+            "title": "Managing Homepage & Shop Page Categories Menu"
+        }, 
+        {
+            "location": "/wordpress-basics/updating-shop-categories-menu/#updating-the-homepage-shop-page-category-menu", 
+            "text": "Login to the  WordPress Admin  From the horizontal menu click on  Divi     Divi Library  Select  Shop Global Categories  from the list of  Divi Library Items     Select Edit       This will load the  Global Divi Library  which is characterized by the  LIME GREEN  seen in the below image.  *Any edits to  GLOBAL  items will be visible anywhere the global layout is utilized. In the case of the  SHOP GLOBAL CATEGORIES  that is currently the  HOMEPAGE     SHOP PAGE  *", 
+            "title": "Updating the Homepage &amp; Shop Page Category Menu"
+        }, 
+        {
+            "location": "/wordpress-basics/updating-shop-categories-menu/#adding-new-categories-to-the-shop-global-categories-menu", 
+            "text": "Click the  Clone  icon to clone one of the categories  (Example: DIY Artisan Supplies)   Click the :fas fa-bars: icon to edit the newly cloned item.     Select the original image (black text) for the  Image URL  section, enter relevant Alternative Text   Title Text  Select the mouseover image (white text) for the  Overlay Image URL  section  Enter the  Link URL  using a  relative URL (example: /product-category/artisan-kits)  into the  LINK URL  box  Click  Save   Exit  When you are finished making the edits to the  Shop   Homepage Global Categories Menus  click  Update  under the  Publish  menu in the left hand side of the page.  Flush Siteground Cache  Confirm your updates look the way you want them to by visiting the  HOME     SHOP  pages.", 
+            "title": "Adding New Categories to the Shop Global Categories Menu"
+        }, 
+        {
             "location": "/wordpress-basics/other-resources/", 
             "text": "Other WordPress Resources\n\n\nWordPress Docs\n\n\nSecurity Related Resources\n\n\n\n\nWordPress Vulnerability Alerts\n\n\nI suggest signing up for the \nemail newsletter\n to ensure you're promptly upgrading plugins, themes, or WordPress core.\n\n\n\n\n\n\n\n\nWooCommerce Docs\n\n\n\n\nWooCommerce Docs\n\n\nWooCommerce Basic Troubleshooting Self Service Resources\n\n\nSpecific WooCommerce Basic Troubleshooting Self Service Resources\n\n\n\n\nKnown WooCommerce Conflicts \n Issues\n\n\n\n\n\n\nSiteground WordPress FAQs \n Tutorials", 
             "title": "Other Resources"
@@ -234,6 +249,71 @@
             "location": "/woocommerce/edit-products/#editing-existing-products-in-woocommerce", 
             "text": "", 
             "title": "Editing Existing Products in WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/managing-product-data/", 
+            "text": "Managing Product Data in WooCommerce\n\n\nCost of Goods\n\n\nWeight \n Dimensions\n\n\nInventory\n\n\nReviews\n\n\nProduct Visibility", 
+            "title": "Managing Product Data (Inventory, Cost of Goods, Visibility, Reviews & More)"
+        }, 
+        {
+            "location": "/woocommerce/managing-product-data/#managing-product-data-in-woocommerce", 
+            "text": "", 
+            "title": "Managing Product Data in WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/managing-product-data/#cost-of-goods", 
+            "text": "", 
+            "title": "Cost of Goods"
+        }, 
+        {
+            "location": "/woocommerce/managing-product-data/#weight-dimensions", 
+            "text": "", 
+            "title": "Weight &amp; Dimensions"
+        }, 
+        {
+            "location": "/woocommerce/managing-product-data/#inventory", 
+            "text": "", 
+            "title": "Inventory"
+        }, 
+        {
+            "location": "/woocommerce/managing-product-data/#reviews", 
+            "text": "", 
+            "title": "Reviews"
+        }, 
+        {
+            "location": "/woocommerce/managing-product-data/#product-visibility", 
+            "text": "", 
+            "title": "Product Visibility"
+        }, 
+        {
+            "location": "/woocommerce/upsells-cross-sells/", 
+            "text": "Upsells \n Cross-sells in WooCommerce\n\n\nWooCommerce includes the configuration of Upsells \n Cross-sells inside of each product regardless of product type. Products can be related to each other in three ways: \nUp-Sells, Cross-Sells or by having the same tags or categories\n.\n\n\n\n\n\n\nAdding an Upsell or Cross-Sell to a Product\n\n\n\n\nGo to \nWooCommerce\n \n \nProducts\n and select the product on which you\u2019d like to show an up-sell or cross-sell.\n\n\nScroll down to the Product Data panel. \n(see screenshot above)\n\n\nSelect the \nLinked Products\n tab in the left menu.\n\n\nAdd the product(s) you wish to link to by typing the product(s) names into the relevant Upsell or Cross-sell box.\n\n\nAdd \nTAGS\n to link products as being related via tag \n(see screenshot above)\n \n\n\nClick Update to save the product.\n\n\n\n\nUpsells\n\n\n\n\nUpsells are displayed on the \nPRODUCT PAGE\n for the currently displayed product. \n\n\n\n\nCross-sells\n\n\nCross-sells are products that you promote in the cart, based on the current product.\n\n\n\n\nCross-sells are displayed on the \nCART\n page prior to a customer checking out.\n\n\n\n\n\n\nOther Resources\n\n\n\n\nWooCommerce Upsells \n Cross-sells documentation", 
+            "title": "Upsells, Cross-sells, & Related Products in WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/upsells-cross-sells/#upsells-cross-sells-in-woocommerce", 
+            "text": "WooCommerce includes the configuration of Upsells   Cross-sells inside of each product regardless of product type. Products can be related to each other in three ways:  Up-Sells, Cross-Sells or by having the same tags or categories .", 
+            "title": "Upsells &amp; Cross-sells in WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/upsells-cross-sells/#adding-an-upsell-or-cross-sell-to-a-product", 
+            "text": "Go to  WooCommerce     Products  and select the product on which you\u2019d like to show an up-sell or cross-sell.  Scroll down to the Product Data panel.  (see screenshot above)  Select the  Linked Products  tab in the left menu.  Add the product(s) you wish to link to by typing the product(s) names into the relevant Upsell or Cross-sell box.  Add  TAGS  to link products as being related via tag  (see screenshot above)    Click Update to save the product.", 
+            "title": "Adding an Upsell or Cross-Sell to a Product"
+        }, 
+        {
+            "location": "/woocommerce/upsells-cross-sells/#upsells", 
+            "text": "Upsells are displayed on the  PRODUCT PAGE  for the currently displayed product.", 
+            "title": "Upsells"
+        }, 
+        {
+            "location": "/woocommerce/upsells-cross-sells/#cross-sells", 
+            "text": "Cross-sells are products that you promote in the cart, based on the current product.   Cross-sells are displayed on the  CART  page prior to a customer checking out.", 
+            "title": "Cross-sells"
+        }, 
+        {
+            "location": "/woocommerce/upsells-cross-sells/#other-resources", 
+            "text": "WooCommerce Upsells   Cross-sells documentation", 
+            "title": "Other Resources"
         }, 
         {
             "location": "/woocommerce/packing-shipping/", 
@@ -316,36 +396,6 @@
             "title": "Accessing WooCommerce Reporting"
         }, 
         {
-            "location": "/woocommerce/upsells-cross-sells/", 
-            "text": "Upsells \n Cross-sells in WooCommerce\n\n\nWooCommerce includes the configuration of Upsells \n Cross-sells inside of each product regardless of product type. Products can be related to each other in three ways: \nUp-Sells, Cross-Sells or by having the same tags or categories\n.\n\n\n\n\n\n\nAdding an Upsell or Cross-Sell to a Product\n\n\n\n\nGo to \nWooCommerce\n \n \nProducts\n and select the product on which you\u2019d like to show an up-sell or cross-sell.\n\n\nScroll down to the Product Data panel. \n(see screenshot above)\n\n\nSelect the \nLinked Products\n tab in the left menu.\n\n\nAdd the product(s) you wish to link to by typing the product(s) names into the relevant Upsell or Cross-sell box.\n\n\nAdd \nTAGS\n to link products as being related via tag \n(see screenshot above)\n \n\n\nClick Update to save the product.\n\n\n\n\nUpsells\n\n\n\n\nUpsells are displayed on the \nPRODUCT PAGE\n for the currently displayed product. \n\n\n\n\nCross-sells\n\n\nCross-sells are products that you promote in the cart, based on the current product.\n\n\n\n\nCross-sells are displayed on the \nCART\n page prior to a customer checking out.\n\n\n\n\n\n\nOther Resources\n\n\n\n\nWooCommerce Upsells \n Cross-sells documentation", 
-            "title": "Upsells, Cross-sells, & Related Products in WooCommerce"
-        }, 
-        {
-            "location": "/woocommerce/upsells-cross-sells/#upsells-cross-sells-in-woocommerce", 
-            "text": "WooCommerce includes the configuration of Upsells   Cross-sells inside of each product regardless of product type. Products can be related to each other in three ways:  Up-Sells, Cross-Sells or by having the same tags or categories .", 
-            "title": "Upsells &amp; Cross-sells in WooCommerce"
-        }, 
-        {
-            "location": "/woocommerce/upsells-cross-sells/#adding-an-upsell-or-cross-sell-to-a-product", 
-            "text": "Go to  WooCommerce     Products  and select the product on which you\u2019d like to show an up-sell or cross-sell.  Scroll down to the Product Data panel.  (see screenshot above)  Select the  Linked Products  tab in the left menu.  Add the product(s) you wish to link to by typing the product(s) names into the relevant Upsell or Cross-sell box.  Add  TAGS  to link products as being related via tag  (see screenshot above)    Click Update to save the product.", 
-            "title": "Adding an Upsell or Cross-Sell to a Product"
-        }, 
-        {
-            "location": "/woocommerce/upsells-cross-sells/#upsells", 
-            "text": "Upsells are displayed on the  PRODUCT PAGE  for the currently displayed product.", 
-            "title": "Upsells"
-        }, 
-        {
-            "location": "/woocommerce/upsells-cross-sells/#cross-sells", 
-            "text": "Cross-sells are products that you promote in the cart, based on the current product.   Cross-sells are displayed on the  CART  page prior to a customer checking out.", 
-            "title": "Cross-sells"
-        }, 
-        {
-            "location": "/woocommerce/upsells-cross-sells/#other-resources", 
-            "text": "WooCommerce Upsells   Cross-sells documentation", 
-            "title": "Other Resources"
-        }, 
-        {
             "location": "/woocommerce/woo-coupons/", 
             "text": "Using Coupons in WooCommerce\n\n\nCoupons Documentation\n\n\n\n\nManaging Coupons in WooCommerce", 
             "title": "Coupons"
@@ -363,7 +413,7 @@
         {
             "location": "/woocommerce/woo-categories/", 
             "text": "WooCommerce Categories\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nProducts\n \n \nCategories\n\n\n\n\nSubcategory Image Slices\n\n\nIf you would like to add image slices for navigating to a sub-category of a product visit the \nCategories\n area \n(as per the instructions above)\n.\n\n\n\n\nEdit the \nParent Category\n you'd like to have image slices displayed for. \n\n\nExample:\n Keyboard Kits\n\n\n\n\n\n\nSelect \nBOTH\n in the \nDISPLAY TYPE\n dropdown. _(This will display both child categories of the parent and products in the parent/child categories below).\n\n\n\n\n\n\n\n\nSave the record.\n\n\nEdit each of the \nCHILD CATEGORIES\n \n(Example: TKL Kits, LJD61UP Kits, etc)\n\n\nUpload the image slice to each of these that corresponds with each of the categories.\n\n\nSave each record.", 
-            "title": "Categories"
+            "title": "Product Categories"
         }, 
         {
             "location": "/woocommerce/woo-categories/#woocommerce-categories", 
@@ -377,8 +427,28 @@
         }, 
         {
             "location": "/woocommerce/woo-taxes/", 
-            "text": "", 
+            "text": "Taxes in WooCommerce\n\n\nTax Configuration in WooCommerce\n\n\nSetting up Taxes in WooCommerce is split into 4 sections \n(all available via the instructions below)\n.\n    * Tax options\n    * Standard Rates\n    * Reduced Rate Rates\n    * Zero Tax Rates\n\n\nAcessing the Tax Setup in WooCommerce\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \n \nSettings\n\n\nSelect \nTAX\n from inside the \nWooCommerce Settings Menu\n \n\n\n\n\nAdditional Resources\n\n\n\n\nWooCommerce Tax Settings Video\n\n\nSetting up Taxes in WooCommerce Documentation\n\n\nHow Taxes work in WooCommerce GitHub Wiki Page\n\n\nTax Settings in WooCommerce via CodeTuts.com", 
             "title": "Taxes"
+        }, 
+        {
+            "location": "/woocommerce/woo-taxes/#taxes-in-woocommerce", 
+            "text": "", 
+            "title": "Taxes in WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/woo-taxes/#tax-configuration-in-woocommerce", 
+            "text": "Setting up Taxes in WooCommerce is split into 4 sections  (all available via the instructions below) .\n    * Tax options\n    * Standard Rates\n    * Reduced Rate Rates\n    * Zero Tax Rates", 
+            "title": "Tax Configuration in WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/woo-taxes/#acessing-the-tax-setup-in-woocommerce", 
+            "text": "Login to  WordPress Admin  Navigate to  WooCommerce     Settings  Select  TAX  from inside the  WooCommerce Settings Menu", 
+            "title": "Acessing the Tax Setup in WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/woo-taxes/#additional-resources", 
+            "text": "WooCommerce Tax Settings Video  Setting up Taxes in WooCommerce Documentation  How Taxes work in WooCommerce GitHub Wiki Page  Tax Settings in WooCommerce via CodeTuts.com", 
+            "title": "Additional Resources"
         }, 
         {
             "location": "/woocommerce/update-url-woo/", 

@@ -66,6 +66,12 @@
     </url>
         
     <url>
+     <loc>/wordpress-basics/updating-shop-categories-menu/</loc>
+     <lastmod>2018-02-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/wordpress-basics/other-resources/</loc>
      <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
@@ -88,6 +94,18 @@
     </url>
         
     <url>
+     <loc>/woocommerce/managing-product-data/</loc>
+     <lastmod>2018-02-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/woocommerce/upsells-cross-sells/</loc>
+     <lastmod>2018-02-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/woocommerce/packing-shipping/</loc>
      <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
@@ -95,12 +113,6 @@
         
     <url>
      <loc>/woocommerce/woo-reporting/</loc>
-     <lastmod>2018-02-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/woocommerce/upsells-cross-sells/</loc>
      <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
