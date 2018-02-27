@@ -146,6 +146,16 @@
             "title": "Managing Homepage Slider Items"
         }, 
         {
+            "location": "/wordpress-basics/backups/", 
+            "text": "Managing Backups", 
+            "title": "Managing Backups"
+        }, 
+        {
+            "location": "/wordpress-basics/backups/#managing-backups", 
+            "text": "", 
+            "title": "Managing Backups"
+        }, 
+        {
             "location": "/wordpress-basics/divi-visual-builder/", 
             "text": "Divi Visual Builder\n\n\n\n\nNote\n\n\nDivi has two ways of building unique, visually stunning, and easily customizable page and post layouts using the \nDivi Builder\n. The \nDivi Builder\n can be utilized when building out \nPages\n and \nPosts\n throughout the website. You can utilize the editor while logged into the WordPress Admin area \nAND/OR\n utiilize the \nDIVI VISUAL BUILDER\n to build/edit a page live in real time. \n\n\n\n\n\n\nTip\n\n\nFor the sake of brevity I suggest viewing the video below as well as reading through \nthis document\n to familarize yourself with the functionality and power that is built into the Divi engine.\n\n\n\n\nIntroducing the Divi Visual Builder", 
             "title": "Divi Visual Page Builder"
