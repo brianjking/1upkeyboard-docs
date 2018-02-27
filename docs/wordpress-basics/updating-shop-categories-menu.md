@@ -17,7 +17,7 @@
 
 * Click the **Clone** icon to clone one of the categories *(Example: DIY Artisan Supplies)*
 ![divi clone button](../images/divi-clone-button.png)
-* Click the :fas fa-bars: icon to edit the newly cloned item.
+* Click the :fa-bars: icon to edit the newly cloned item.
 
 ![shop categories divi](../images/divi-edit-image-overlay.png)
 

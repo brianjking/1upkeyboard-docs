@@ -11,12 +11,12 @@ If you would like to add image slices for navigating to a sub-category of a prod
 
 * Edit the **Parent Category** you'd like to have image slices displayed for. 
 	* _Example:_ Keyboard Kits
-* Select **BOTH** in the **DISPLAY TYPE** dropdown. _(This will display both child categories of the parent and products in the parent/child categories below).
+* Select **BOTH** in the **DISPLAY TYPE** dropdown. *(This will display both child categories of the parent and products in the parent/child categories below).*
 
 ![WooCommerce Subcategory Image Slices](../images/category-display-type-both.png)
 
 * Save the record.
-* Edit each of the **CHILD CATEGORIES** _(Example: TKL Kits, LJD61UP Kits, etc)_
+* Edit each of the **CHILD CATEGORIES** *(Example: TKL Kits, LJD61UP Kits, etc)*
 * Upload the image slice to each of these that corresponds with each of the categories.
 * Save each record.
 
