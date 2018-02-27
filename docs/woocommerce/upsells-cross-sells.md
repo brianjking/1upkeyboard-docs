@@ -10,9 +10,10 @@ WooCommerce includes the configuration of Upsells & Cross-sells inside of each p
 
 1. Go to **WooCommerce** > **Products** and select the product on which you’d like to show an up-sell or cross-sell.
 2. Scroll down to the Product Data panel. _(see screenshot above)_
-3. Select the Linked Products tab in the left menu.
-4. Add the product you wish to link to by searching for it.
-5. Click Update to save the product.
+3. Select the **Linked Products** tab in the left menu.
+4. Add the product(s) you wish to link to by typing the product(s) names into the relevant Upsell or Cross-sell box.
+5. Add **TAGS** to link products as being related via tag _(see screenshot above)_ 
+6. Click Update to save the product.
 
 ### Upsells
 
