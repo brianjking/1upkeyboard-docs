@@ -20,12 +20,12 @@ pages:
 - WooCommerce:
     - Adding Products: woocommerce/add-products.md
     - Editing Products: woocommerce/edit-products.md
-    - Managing Product Data (Inventory, Cost of Goods, Visibility, Reviews & More): woocommerce/manage-product-data.md
+    - Managing Product Data (Inventory, Cost of Goods, Visibility, Reviews & More): woocommerce/managing-product-data.md
     - Upsells, Cross-sells, & Related Products in WooCommerce: woocommerce/upsells-cross-sells.md
     - Packing & Shipping: woocommerce/packing-shipping.md
     - WooCommerce Reporting: woocommerce/woo-reporting.md
     - Coupons: woocommerce/woo-coupons.md
-    - Categories: woocommerce/woo-categories.md
+    - Product Categories: woocommerce/woo-categories.md
     - Taxes: woocommerce/woo-taxes.md
     - Updating Product URLs & Creating Redirects: woocommerce/update-url-woo.md
     - WooCommerce Shortcodes: woocommerce/woo-shortcodes.md
