@@ -21,7 +21,7 @@ pages:
     - Editing Products: woocommerce/edit-products.md
     - Packing & Shipping: woocommerce/packing-shipping.md
     - WooCommerce Reporting: woocommerce/woo-reporting.md
-    - Upsells & Cross-sells: woocommerce/upsells-cross-sells.md
+    - Upsells, Cross-sells, & Related Products in WooCommerce: woocommerce/upsells-cross-sells.md
     - Coupons: woocommerce/woo-coupons.md
     - Categories: woocommerce/woo-categories.md
     - Taxes: woocommerce/woo-taxes.md
