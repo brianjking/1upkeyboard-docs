@@ -252,7 +252,7 @@
         }, 
         {
             "location": "/woocommerce/managing-product-data/", 
-            "text": "Managing Product Data in WooCommerce\n\n\nCost of Goods\n\n\nWeight \n Dimensions\n\n\nInventory\n\n\nReviews\n\n\nProduct Visibility", 
+            "text": "Managing Product Data in WooCommerce\n\n\nCost of Goods\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nProducts\n \n \nAll Products\n\n\nSelect a Product \n click \nEDIT\n\n\nScroll to the \nPRODUCT DATA\n card \n \nGeneral Tab\n\n\nEnter the cost of the product in the \nCOST OF GOODS\n box in USD.\n\n\nSave the record by clicking on \nUPDATE\n in the \nPUBLISH\n panel.\n\n\n\n\n\n\nWeight \n Dimensions\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nProducts\n \n \nAll Products\n\n\nSelect a Product \n click \nEDIT\n\n\nScroll to the \nPRODUCT DATA\n card select the \nSHIPPING\n tab.\n\n\nEnter the \nWEIGHT\n \n(in lbs)\n\n\nEnter the \nPRODUCT DIMENSIONS\n \n(in inches)\n\n\nSave the record by clicking on \nUPDATE\n in the \nPUBLISH\n panel.\n\n\n\n\n\n\nInventory\n\n\n\n\nNote\n\n\nDue to how WooCommerce builds products in comparison to the Magento platform this might be slightly complex initially. Some products are have their inventory managed at the \nPRODUCT VARIATION\n level \n(Example: Crosshatch Standoffs)\n, some products inventories are managed via the product level, and some are managed via a product not displayed on the public facing site as the site makes use of Product Bundles, etc. **I'm still thinking about a way to show this to you to make it easier, however, at this point I think you might figure it out via navigating around various products. \n\n\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nProducts\n \n \nAll Products\n\n\nSelect a Product \n click \nEDIT\n\n\nView the \nInventory\n tab.\n\n\nSave the record by clicking on \nUPDATE\n in the \nPUBLISH PANEL\n \n\n\n\n\n\n\nTip\n\n\nThere are inventory reports available inside of WooCommerce that will be helpful for a quick birds eye view of product stock. Visit the \nWooCommerce Reporting\n docs for more info.\n\n\n\n\nReviews\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nProducts\n \n \nAll Products\n\n\nSelect a Product \n click \nEDIT\n\n\nScroll to the \nPRODUCT DATA\n card select the \nADVANCED\n tab.\n\n\nSelect \nENABLE REVIEWS\n to either enable/disable product reviews of a given product.\n\n\nSave the record by clicking on \nUPDATE\n in the \nPUBLISH PANEL\n.\n\n\n\n\n\n\nProduct Visibility\n\n\nHiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nPRODUCTS\n \n \nALL PRODUCTS\n \n\n\nLocate the product you wish to edit\n\n\nClick \nEDIT PRODUCT\n\n\nIn the right hand column locate the \nPUBLISH\n box which has an option of \nCATALOG VISIBILITY\n and select \nEDIT\n.\n\n\nAvailable options for \nPRODUCT VISIBILITY\n  \n\n\nShop and search results\n\n\nShop only\n\n\nSearch results only\n\n\nHidden", 
             "title": "Managing Product Data (Inventory, Cost of Goods, Visibility, Reviews & More)"
         }, 
         {
@@ -262,27 +262,27 @@
         }, 
         {
             "location": "/woocommerce/managing-product-data/#cost-of-goods", 
-            "text": "", 
+            "text": "Login to  WordPress Admin  Navigate to  Products     All Products  Select a Product   click  EDIT  Scroll to the  PRODUCT DATA  card    General Tab  Enter the cost of the product in the  COST OF GOODS  box in USD.  Save the record by clicking on  UPDATE  in the  PUBLISH  panel.", 
             "title": "Cost of Goods"
         }, 
         {
             "location": "/woocommerce/managing-product-data/#weight-dimensions", 
-            "text": "", 
+            "text": "Login to  WordPress Admin  Navigate to  Products     All Products  Select a Product   click  EDIT  Scroll to the  PRODUCT DATA  card select the  SHIPPING  tab.  Enter the  WEIGHT   (in lbs)  Enter the  PRODUCT DIMENSIONS   (in inches)  Save the record by clicking on  UPDATE  in the  PUBLISH  panel.", 
             "title": "Weight &amp; Dimensions"
         }, 
         {
             "location": "/woocommerce/managing-product-data/#inventory", 
-            "text": "", 
+            "text": "Note  Due to how WooCommerce builds products in comparison to the Magento platform this might be slightly complex initially. Some products are have their inventory managed at the  PRODUCT VARIATION  level  (Example: Crosshatch Standoffs) , some products inventories are managed via the product level, and some are managed via a product not displayed on the public facing site as the site makes use of Product Bundles, etc. **I'm still thinking about a way to show this to you to make it easier, however, at this point I think you might figure it out via navigating around various products.     Login to  WordPress Admin  Navigate to  Products     All Products  Select a Product   click  EDIT  View the  Inventory  tab.  Save the record by clicking on  UPDATE  in the  PUBLISH PANEL      Tip  There are inventory reports available inside of WooCommerce that will be helpful for a quick birds eye view of product stock. Visit the  WooCommerce Reporting  docs for more info.", 
             "title": "Inventory"
         }, 
         {
             "location": "/woocommerce/managing-product-data/#reviews", 
-            "text": "", 
+            "text": "Login to  WordPress Admin  Navigate to  Products     All Products  Select a Product   click  EDIT  Scroll to the  PRODUCT DATA  card select the  ADVANCED  tab.  Select  ENABLE REVIEWS  to either enable/disable product reviews of a given product.  Save the record by clicking on  UPDATE  in the  PUBLISH PANEL .", 
             "title": "Reviews"
         }, 
         {
             "location": "/woocommerce/managing-product-data/#product-visibility", 
-            "text": "", 
+            "text": "Hiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.   Login to WordPress Admin  Click on  PRODUCTS     ALL PRODUCTS    Locate the product you wish to edit  Click  EDIT PRODUCT  In the right hand column locate the  PUBLISH  box which has an option of  CATALOG VISIBILITY  and select  EDIT .  Available options for  PRODUCT VISIBILITY     Shop and search results  Shop only  Search results only  Hidden", 
             "title": "Product Visibility"
         }, 
         {
@@ -472,7 +472,7 @@
         }, 
         {
             "location": "/woocommerce/misc-woocommerce/", 
-            "text": "Misc WooCommerce Details\n\n\nProducts Displayed Per Page\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.\n\n\n\n\n\n\n\n\nHiding Products from Search or Shop Catalog\n\n\nHiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nPRODUCTS\n \n \nALL PRODUCTS\n \n\n\nLocate the product you wish to edit\n\n\nClick \nEDIT PRODUCT\n\n\nIn the right hand column locate the \nPUBLISH\n box which has an option of \nCATALOG VISIBILITY\n and select \nEDIT\n.\n\n\nAvailable options for \nPRODUCT VISIBILITY\n  \n\n\nShop and search results\n\n\nShop only\n\n\nSearch results only\n\n\nHidden \n\n\n\n\n\n\n\n\n\n\n\n\nEnable or Disable Product Reviews\n\n\nStore Notice Message\n\n\n\n\nWooCommerce can display a notice that appears on the bottom of all pages until hidden. This is a useful feature for displaying important messaging to visitors regardless of the page they're viewing.\n\n\n\n\nLogin to WordPress Admin\n\n\nFrom the WordPress Admin menu navigate to \nAPPEARANCE\n \n \nCUSTOMIZE\n\n\nSelect \nWooCommerce\n \n \nStore Notice\n\n\nAdd the text you'd like displayed in the store notice.\n\n\nIf you'd like to disable the store notice remove the checkmark from the \nENABLE STORE NOTICE\n box. \n(see screenshot below)\n\n\n\n\n\n\nClick \nPUBLISH\n \n\n\nAfter updating the store notice it's best to \nFlush the Siteground Cache", 
+            "text": "Misc WooCommerce Details\n\n\nProducts Displayed Per Page\n\n\n\n\nUp to \n40\n products can be displayed on a product category page prior to pagination.\n\n\nThis is set in the Divi settings.\n\n\n\n\n\n\n\n\nStore Notice Message\n\n\n\n\nWooCommerce can display a notice that appears on the bottom of all pages until hidden. This is a useful feature for displaying important messaging to visitors regardless of the page they're viewing.\n\n\n\n\nLogin to WordPress Admin\n\n\nFrom the WordPress Admin menu navigate to \nAPPEARANCE\n \n \nCUSTOMIZE\n\n\nSelect \nWooCommerce\n \n \nStore Notice\n\n\nAdd the text you'd like displayed in the store notice.\n\n\nIf you'd like to disable the store notice remove the checkmark from the \nENABLE STORE NOTICE\n box. \n(see screenshot below)\n\n\n\n\n\n\nClick \nPUBLISH\n \n\n\nAfter updating the store notice it's best to \nFlush the Siteground Cache", 
             "title": "Misc WooCommerce"
         }, 
         {
@@ -484,16 +484,6 @@
             "location": "/woocommerce/misc-woocommerce/#products-displayed-per-page", 
             "text": "Up to  40  products can be displayed on a product category page prior to pagination.  This is set in the Divi settings.", 
             "title": "Products Displayed Per Page"
-        }, 
-        {
-            "location": "/woocommerce/misc-woocommerce/#hiding-products-from-search-or-shop-catalog", 
-            "text": "Hiding products from appearing in the shop search and/or catalog can be achieved by following the instructions below.   Login to WordPress Admin  Click on  PRODUCTS     ALL PRODUCTS    Locate the product you wish to edit  Click  EDIT PRODUCT  In the right hand column locate the  PUBLISH  box which has an option of  CATALOG VISIBILITY  and select  EDIT .  Available options for  PRODUCT VISIBILITY     Shop and search results  Shop only  Search results only  Hidden", 
-            "title": "Hiding Products from Search or Shop Catalog"
-        }, 
-        {
-            "location": "/woocommerce/misc-woocommerce/#enable-or-disable-product-reviews", 
-            "text": "", 
-            "title": "Enable or Disable Product Reviews"
         }, 
         {
             "location": "/woocommerce/misc-woocommerce/#store-notice-message", 
