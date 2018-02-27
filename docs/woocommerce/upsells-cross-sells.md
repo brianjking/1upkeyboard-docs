@@ -4,6 +4,8 @@ WooCommerce includes the configuration of Upsells & Cross-sells inside of each p
 
 ![Upsells & Cross-sells](../images/upsells.png)
 
+![Product Tags & Categories](../images/product-category-and-tags.png)
+
 ## Adding an Upsell or Cross-Sell to a Product
 
 1. Go to **WooCommerce** > **Products** and select the product on which you’d like to show an up-sell or cross-sell.
