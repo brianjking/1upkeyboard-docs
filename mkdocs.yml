@@ -13,6 +13,7 @@ pages:
     - Manually Flush Siteground Caching: wordpress-basics/flush-cache.md
     - Keeping WordPress Core & Plugins Updated: wordpress-basics/update-plugins.md
     - Managing Homepage Slider: wordpress-basics/managing-homepage-slider.md
+    - Managing Backups: wordpress-basics/backups.md
     - Divi Visual Page Builder: wordpress-basics/divi-visual-builder.md
     - Other Resources: wordpress-basics/other-resources.md
 - WooCommerce:
