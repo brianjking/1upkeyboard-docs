@@ -377,7 +377,7 @@
         }, 
         {
             "location": "/woocommerce/woo-reporting/", 
-            "text": "WooCommerce Reporting\n\n\nTypes of Reports\n\n\n\n\nOrders\n\n\nSales by date\n\n\nSales by Product\n\n\nSales by category\n\n\nCoupons by date\n\n\n\n\n\n\nProfit\n\n\nProfit by date\n\n\nProfit by product\n\n\nProfit by category\n\n\n\n\n\n\nCustomers\n\n\nCustomers vs. Guests\n\n\nCustomer list\n\n\n\n\n\n\nStock\n\n\nLow in stock items\n\n\nOut of stock items\n\n\nMost stocked items\n\n\nInsufficient Stock \n\n\nProduct Valuation\n\n\nTotal Valuation \n\n\n\n\n\n\nTaxes\n\n\nTaxes by code\n\n\nTaxes by date\n\n\n\n\n\n\n\n\nAccessing WooCommerce Reporting\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \n \nReports", 
+            "text": "WooCommerce Reporting\n\n\nTypes of Reports\n\n\n\n\nOrders\n\n\nSales by date\n\n\nSales by Product\n\n\nSales by category\n\n\nCoupons by date\n\n\n\n\n\n\nProfit\n\n\nProfit by date\n\n\nProfit by product\n\n\nProfit by category\n\n\n\n\n\n\nCustomers\n\n\nCustomers vs. Guests\n\n\nCustomer list\n\n\n\n\n\n\nStock\n\n\nLow in stock items\n\n\nOut of stock items\n\n\nMost stocked items\n\n\nInsufficient Stock \n\n\nProduct Valuation\n\n\nTotal Valuation \n\n\n\n\n\n\nTaxes\n\n\nTaxes by code\n\n\nTaxes by date\n\n\n\n\n\n\n\n\nAccessing WooCommerce Reporting\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \n \nReports\n\n\nSelect the reporting type from the horizontal menu.\n\n\n\nMany report types can be exported as a \nCSV\n for \n for analyzing in Microsoft Excel, Google Sheets, etc. by clicking on the \nEXPORT CSV\n link.", 
             "title": "WooCommerce Reporting"
         }, 
         {
@@ -392,7 +392,7 @@
         }, 
         {
             "location": "/woocommerce/woo-reporting/#accessing-woocommerce-reporting", 
-            "text": "Login to  WordPress Admin  Navigate to  WooCommerce     Reports", 
+            "text": "Login to  WordPress Admin  Navigate to  WooCommerce     Reports  Select the reporting type from the horizontal menu.  Many report types can be exported as a  CSV  for   for analyzing in Microsoft Excel, Google Sheets, etc. by clicking on the  EXPORT CSV  link.", 
             "title": "Accessing WooCommerce Reporting"
         }, 
         {
