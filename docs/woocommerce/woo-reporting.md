@@ -30,4 +30,9 @@
 
 * Login to **WordPress Admin**
 * Navigate to **WooCommerce** --> **Reports**
-* 
+* Select the reporting type from the horizontal menu.
+![WooCommerce Reporting](../images/woo-reporting.png)
+* Many report types can be exported as a **CSV** for :fa-download: for analyzing in :fa-file-excel: by clicking on the **EXPORT CSV** link.
+![Export CSV](../images/export-csv.png)
+
+
