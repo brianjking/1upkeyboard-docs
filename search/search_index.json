@@ -82,7 +82,7 @@
         }, 
         {
             "location": "/wordpress-basics/managing-pages/", 
-            "text": "Managing Pages in WordPress\n\n\nAccessing WordPress Pages in the WordPress Admin\n\n\n\n\nLogin to \nWordPress Admin\n\n\nClick on \nPages\n \n \nAll Pages\n\n\n\n\n\n\nNormal WordPress Pages\n\n\nInstructions \n Downloads Pages\n\n\nWooCommerce Managed Pages\n\n\n\n\nNote\n\n\nWooCommerce\n has specific pages that are managed via separate templates that \ncannot/should not\n be modified via the \nWordPress Pages\n section of your WordPress Admin. \n\n\n\n\n\n\nPages managed by WooCommerce Templates\n\n\nMy Account\n\n\nCheckout\n\n\nCart", 
+            "text": "Managing Pages in WordPress\n\n\nAccessing WordPress Pages in the WordPress Admin\n\n\n\n\nLogin to \nWordPress Admin\n\n\nClick on \nPages\n \n \nAll Pages\n\n\n\n\nNormal WordPress Pages\n\n\nInstructions \n Downloads Pages\n\n\nWooCommerce Managed Pages\n\n\n\n\nNote\n\n\nWooCommerce\n has specific pages that are managed via separate templates that \ncannot/should not\n be modified via the \nWordPress Pages\n section of your WordPress Admin. \n\n\n\n\n\n\nPages managed by WooCommerce Templates\n\n\nMy Account\n\n\nCheckout\n\n\nCart", 
             "title": "Managing Pages"
         }, 
         {
@@ -212,7 +212,7 @@
         }, 
         {
             "location": "/woocommerce/add-products/", 
-            "text": "Adding New Products to WooCommerce\n\n\nTypes of Products\n\n\n\n\nSimple Product\n\n\nGrouped Product\n\n\nExternal/Affiliate Product\n\n\nVariable Product\n\n\nComposite Product\n\n\nProduct Bundles\n\n\n\n\nAdding a Product\n\n\nAdding a Composite Product\n\n\nOther Resources\n\n\n\n\n\n\nManaging Products Guide from WooCommerce\n\n\n\n\n\n\nBulk Editing Product Details\n\n\n\n\n\n\nBundled Products \n Inventory", 
+            "text": "Adding New Products to WooCommerce\n\n\nTypes of Products\n\n\n\n\nSimple Product\n\n\nGrouped Product\n\n\nExternal/Affiliate Product\n\n\nVariable Product\n\n\nComposite Product\n\n\nProduct Bundles\n\n\n\n\nAdding a Product\n\n\nAdding a Composite Product\n\n\n\n\nComposite products require tweaking the template utilized.\n\n\n\n\nOther Resources\n\n\n\n\n\n\nManaging Products Guide from WooCommerce\n\n\n\n\n\n\nBulk Editing Product Details\n\n\n\n\n\n\nBundled Products \n Inventory", 
             "title": "Adding Products"
         }, 
         {
@@ -232,7 +232,7 @@
         }, 
         {
             "location": "/woocommerce/add-products/#adding-a-composite-product", 
-            "text": "", 
+            "text": "Composite products require tweaking the template utilized.", 
             "title": "Adding a Composite Product"
         }, 
         {
