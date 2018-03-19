@@ -14,6 +14,7 @@
 
 ### Adding a Composite Product
 
+* Composite products require tweaking the template utilized.
 
 
 #### Other Resources
