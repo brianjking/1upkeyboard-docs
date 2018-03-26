@@ -3,7 +3,7 @@
 
 ## Hiding On Sale Badge For Specific Products
 
-![WooCommerce Shop Page Sale Badge](../images/shop-sale-badge.png)
+![WooCommerce Shop Page Sale Badge](../images/shop-badge-shop.png)
 
 ![WooCommerce Individual Product Sale Badge](../images/single-product-sale-badge.png)
 
