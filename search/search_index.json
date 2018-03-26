@@ -491,6 +491,21 @@
             "title": "Store Notice Message"
         }, 
         {
+            "location": "/woocommerce/woo-advanced/", 
+            "text": "Advanced WooCommerce\n\n\nHiding On Sale Badge For Specific Products\n\n\n.\npost-207513\n \n.\nonsale\n \n{\n\n    \ndisplay\n:\n \nnone\n \n!important\n;\n\n\n}", 
+            "title": "Advanced WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/woo-advanced/#advanced-woocommerce", 
+            "text": "", 
+            "title": "Advanced WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/woo-advanced/#hiding-on-sale-badge-for-specific-products", 
+            "text": ". post-207513   . onsale   { \n     display :   none   !important ;  }", 
+            "title": "Hiding On Sale Badge For Specific Products"
+        }, 
+        {
             "location": "/advanced/hide-elements-with-divi/", 
             "text": "Hide Elements on certain device types in Divi\n\n\nThe Divi theme framework allows for you to easily design content", 
             "title": "Hiding Elements on Certain Device Types with Divi"
