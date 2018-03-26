@@ -492,7 +492,7 @@
         }, 
         {
             "location": "/woocommerce/woo-advanced/", 
-            "text": "Advanced WooCommerce\n\n\nHiding On Sale Badge For Specific Products\n\n\n.\npost-207513\n \n.\nonsale\n \n{\n\n    \ndisplay\n:\n \nnone\n \n!important\n;\n\n\n}", 
+            "text": "Advanced WooCommerce\n\n\nHiding On Sale Badge For Specific Products\n\n\n\n\n\n\n\n\nNote\n\n\nHiding a \nSALE\n badge from displaying on a product is handled via custom \nCSS\n on a product by product basis. Below is an example of the CSS for the \nCrosshatch Standoffs - 10 Pack\n product.\n\n\n\n\n.\npost-207513\n \n.\nonsale\n \n{\n\n    \ndisplay\n:\n \nnone\n \n!important\n;\n\n\n}\n\n\n\n\n\n\n\nVisit the product you want to remove the \nSALE\n badge from while logged in as a WordPress Administrator.\n\n\nEdit the product.\n\n\nObtain the \nPOST ID\n from the URL \n\n\nExample: /wp-admin/post.php?post=207513\naction=edit\n\n\npost=207513\n is the important portion of this that is used in the CSS override above.\n\n\n\n\n\n\nAdd the \nCSS\n to WordPress.\n\n\nFlush the siteground cacher.\n\n\nView the shop/product page to confirm this works.", 
             "title": "Advanced WooCommerce"
         }, 
         {
@@ -502,7 +502,7 @@
         }, 
         {
             "location": "/woocommerce/woo-advanced/#hiding-on-sale-badge-for-specific-products", 
-            "text": ". post-207513   . onsale   { \n     display :   none   !important ;  }", 
+            "text": "Note  Hiding a  SALE  badge from displaying on a product is handled via custom  CSS  on a product by product basis. Below is an example of the CSS for the  Crosshatch Standoffs - 10 Pack  product.   . post-207513   . onsale   { \n     display :   none   !important ;  }    Visit the product you want to remove the  SALE  badge from while logged in as a WordPress Administrator.  Edit the product.  Obtain the  POST ID  from the URL   Example: /wp-admin/post.php?post=207513 action=edit  post=207513  is the important portion of this that is used in the CSS override above.    Add the  CSS  to WordPress.  Flush the siteground cacher.  View the shop/product page to confirm this works.", 
             "title": "Hiding On Sale Badge For Specific Products"
         }, 
         {
