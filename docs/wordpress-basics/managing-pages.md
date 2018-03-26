@@ -6,7 +6,7 @@
 
 * Login to **WordPress Admin**
 * Click on **Pages** --> **All Pages**
-*  
+
 
 
 ## Normal WordPress Pages
