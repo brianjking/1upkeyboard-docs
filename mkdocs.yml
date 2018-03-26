@@ -30,6 +30,7 @@ pages:
     - Updating Product URLs & Creating Redirects: woocommerce/update-url-woo.md
     - WooCommerce Shortcodes: woocommerce/woo-shortcodes.md
     - Misc WooCommerce: woocommerce/misc-woocommerce.md
+    - Advanced WooCommerce: woocommerce/woo-advanced.md
 - Advanced:
     - Hiding Elements on Certain Device Types with Divi: advanced/hide-elements-with-divi.md
     - A/B Testing with Divi: advanced/ab-testing-with-divi.md
