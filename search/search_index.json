@@ -317,13 +317,28 @@
         }, 
         {
             "location": "/woocommerce/woo-payment-processing/", 
-            "text": "WooCommerce \n Payment Processing", 
+            "text": "WooCommerce \n Payment Processing\n\n\n\n\nNote\n\n\nOnce the site is launched you likely will not need to access this page at all.\n\n\n\n\nAccessing WooCommerce Payment Processing Settings\n\n\n\n\nLogin to \nWordPress Admin\n as an administrator.\n\n\nNavigate to \nWooCommerce\n \n \nSettings\n\n\nSelect \nCheckout\n from the horizontal navigation along the top.\n\n\nBasic settings can be found on the \nCheckout\n \n \nCheckout Settings\n screen.\n\n\n\n\nPayPal Express Checkout\n\n\nThe 1upkeyboards.com website is going to be utilizing \n \nPayPal Express Checkout\n \n\n\nConfiguring PayPal Express Checkout\n\n\n\n\nFollow the instructions above for \nAcessing WooCommerce Payment Processing Settings\n\n\nSelect \n \nPayPal Express Checkout\n from the sub-menu.\n\n\nFrom this page you can configure various settings:\n\n\nInvoice Prefix\n\n\n PayPal account utilized for processing payments\n\n\nEnable debug logging for PayPal\n\n\nEnable sandbox or live mode for processing payments.", 
             "title": "Payment Processing"
         }, 
         {
             "location": "/woocommerce/woo-payment-processing/#woocommerce-payment-processing", 
-            "text": "", 
+            "text": "Note  Once the site is launched you likely will not need to access this page at all.", 
             "title": "WooCommerce &amp; Payment Processing"
+        }, 
+        {
+            "location": "/woocommerce/woo-payment-processing/#accessing-woocommerce-payment-processing-settings", 
+            "text": "Login to  WordPress Admin  as an administrator.  Navigate to  WooCommerce     Settings  Select  Checkout  from the horizontal navigation along the top.  Basic settings can be found on the  Checkout     Checkout Settings  screen.", 
+            "title": "Accessing WooCommerce Payment Processing Settings"
+        }, 
+        {
+            "location": "/woocommerce/woo-payment-processing/#paypal-express-checkout", 
+            "text": "The 1upkeyboards.com website is going to be utilizing    PayPal Express Checkout", 
+            "title": "PayPal Express Checkout"
+        }, 
+        {
+            "location": "/woocommerce/woo-payment-processing/#configuring-paypal-express-checkout", 
+            "text": "Follow the instructions above for  Acessing WooCommerce Payment Processing Settings  Select    PayPal Express Checkout  from the sub-menu.  From this page you can configure various settings:  Invoice Prefix   PayPal account utilized for processing payments  Enable debug logging for PayPal  Enable sandbox or live mode for processing payments.", 
+            "title": "Configuring PayPal Express Checkout"
         }, 
         {
             "location": "/woocommerce/packing-shipping/", 
