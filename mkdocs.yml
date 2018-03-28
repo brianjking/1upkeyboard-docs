@@ -22,6 +22,7 @@ pages:
     - Editing Products: woocommerce/edit-products.md
     - Managing Product Data (Inventory, Cost of Goods, Visibility, Reviews & More): woocommerce/managing-product-data.md
     - Upsells, Cross-sells, & Related Products in WooCommerce: woocommerce/upsells-cross-sells.md
+    - Payment Processing: woocommerce/woo-payment-processing.md
     - Packing & Shipping: woocommerce/packing-shipping.md
     - WooCommerce Reporting: woocommerce/woo-reporting.md
     - Coupons: woocommerce/woo-coupons.md
