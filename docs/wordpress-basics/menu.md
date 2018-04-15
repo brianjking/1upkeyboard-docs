@@ -8,7 +8,7 @@ There are 2 menus used for the 1upkeyboards.com website. One if the **PRIMARY ME
 * Login to the WordPress Admin area with an administrator username and password.
 * From the menu on the left hand side of the WordPress Admin area navigate to **APPEARANCE** --> **MENUS** 
 * Select **PRIMARY (PRIMARY MENU)** from the dropdown and click **SELECT**
-* 
+
 
 ## Managing the Footer Menu
 

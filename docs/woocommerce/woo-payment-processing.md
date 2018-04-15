@@ -13,7 +13,7 @@
 
 ### PayPal Express Checkout
 
-The 1upkeyboards.com website is going to be utilizing :fa-paypal: **PayPal Express Checkout** gateway. Additional documentation for the **[WooCommerce PayPal Express Checkout](https://docs.woocommerce.com/document/paypal-express-checkout/?_ga=2.13624949.374438184.1522263886-1335862692.1510863264) can be found [here](https://docs.woocommerce.com/document/paypal-express-checkout/?_ga=2.13624949.374438184.1522263886-1335862692.1510863264) 
+The 1upkeyboards.com website is going to be utilizing :fa-paypal: **PayPal Express Checkout** gateway. Additional documentation for the **[WooCommerce PayPal Express Checkout](https://docs.woocommerce.com/document/paypal-express-checkout/?_ga=2.13624949.374438184.1522263886-1335862692.1510863264)** can be found [here](https://docs.woocommerce.com/document/paypal-express-checkout/?_ga=2.13624949.374438184.1522263886-1335862692.1510863264). 
 
 #### Configuring PayPal Express Checkout
 
