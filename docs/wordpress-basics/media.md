@@ -19,6 +19,11 @@
 
 ### Editing Media in the WordPress Library
 
+* Login to **WordPress Admin Area**
+* Navigate to **MEDIA** --> **Library**
+* Search for the file you wish to edit 
+* Select the file
+
 
 
 
