@@ -32,7 +32,7 @@
         }, 
         {
             "location": "/wordpress-basics/menu/", 
-            "text": "Managing the WordPress Menus\n\n\nThere are 2 menus used for the 1upkeyboards.com website. One if the \nPRIMARY MENU\n and then there is a \nFOOTER MENU\n which has links used in the footer of every page. \n\n\nManaging the Primary Menu\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \n \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT\n\n\n\n\n\n\nManaging the Footer Menu\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \n \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT", 
+            "text": "Managing the WordPress Menus\n\n\nThere are 2 menus used for the 1upkeyboards.com website. One if the \nPRIMARY MENU\n and then there is a \nFOOTER MENU\n which has links used in the footer of every page. \n\n\nManaging the Primary Menu\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \n \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT\n\n\n\n\nManaging the Footer Menu\n\n\n\n\nLogin to the WordPress Admin area with an administrator username and password.\n\n\nFrom the menu on the left hand side of the WordPress Admin area navigate to \nAPPEARANCE\n \n \nMENUS\n \n\n\nSelect \nPRIMARY (PRIMARY MENU)\n from the dropdown and click \nSELECT", 
             "title": "Updating The Menu"
         }, 
         {
@@ -52,7 +52,7 @@
         }, 
         {
             "location": "/wordpress-basics/media/", 
-            "text": "Managing Media in WordPress\n\n\nMedia Sizes\n\n\n\n\nCatalog Images - 400x400px (no hard crop)\n\n\nProduct Images - 510x999px (no hard crop)\n\n\nProduct Thumbnails - 157x157px (hard crop)\n\n\n\n\nAdding Media to the WordPress Library\n\n\nEditing Media in the WordPress Library\n\n\nOther Resources\n\n\n\n\nImportance of ALT \n TITLE tags on images for SEO", 
+            "text": "Managing Media in WordPress\n\n\nMedia Sizes\n\n\n\n\nCatalog Images - 400x400px (no hard crop)\n\n\nProduct Images - 510x999px (no hard crop)\n\n\nProduct Thumbnails - 157x157px (hard crop)\n\n\n\n\nAdding Media to the WordPress Library\n\n\n\n\nLogin to \nWordPress Admin area\n.\n\n\nNavigate to \nMEDIA\n \n \nAdd New\n\n\nSelect the media you want to upload from your computer by clicking \nSelect Files\n or \ndrag them from your computer to the selected area.\n\n\n\n\n\n\nNote\n\n\nIt is best to compress impress on your computer prior to uploading to WordPress. On Windows you can use \nFileOptimizer\n or on Mac \n Linux I suggest using \nImageOptim\n. \n\n\n\n\nEditing Media in the WordPress Library\n\n\nOther Resources\n\n\n\n\nImportance of ALT \n TITLE tags on images for SEO", 
             "title": "Adding Media"
         }, 
         {
@@ -67,7 +67,7 @@
         }, 
         {
             "location": "/wordpress-basics/media/#adding-media-to-the-wordpress-library", 
-            "text": "", 
+            "text": "Login to  WordPress Admin area .  Navigate to  MEDIA     Add New  Select the media you want to upload from your computer by clicking  Select Files  or  drag them from your computer to the selected area.    Note  It is best to compress impress on your computer prior to uploading to WordPress. On Windows you can use  FileOptimizer  or on Mac   Linux I suggest using  ImageOptim .", 
             "title": "Adding Media to the WordPress Library"
         }, 
         {
@@ -317,7 +317,7 @@
         }, 
         {
             "location": "/woocommerce/woo-payment-processing/", 
-            "text": "WooCommerce \n Payment Processing\n\n\n\n\nNote\n\n\nOnce the site is launched you likely will not need to access this page at all.\n\n\n\n\nAccessing WooCommerce Payment Processing Settings\n\n\n\n\nLogin to \nWordPress Admin\n as an administrator.\n\n\nNavigate to \nWooCommerce\n \n \nSettings\n\n\nSelect \nCheckout\n from the horizontal navigation along the top.\n\n\nBasic settings can be found on the \nCheckout\n \n \nCheckout Settings\n screen.\n\n\n\n\nPayPal Express Checkout\n\n\nThe 1upkeyboards.com website is going to be utilizing \n \nPayPal Express Checkout\n gateway. Additional documentation for the **\nWooCommerce PayPal Express Checkout\n can be found \nhere\n \n\n\nConfiguring PayPal Express Checkout\n\n\n\n\nFollow the instructions above for \nAcessing WooCommerce Payment Processing Settings\n\n\nSelect \n \nPayPal Express Checkout\n from the sub-menu.\n\n\nFrom this page you can configure various settings:\n\n\nInvoice Prefix\n\n\n PayPal account utilized for processing payments\n\n\nEnable debug logging for PayPal\n\n\nEnable sandbox or live mode for processing payments.", 
+            "text": "WooCommerce \n Payment Processing\n\n\n\n\nNote\n\n\nOnce the site is launched you likely will not need to access this page at all.\n\n\n\n\nAccessing WooCommerce Payment Processing Settings\n\n\n\n\nLogin to \nWordPress Admin\n as an administrator.\n\n\nNavigate to \nWooCommerce\n \n \nSettings\n\n\nSelect \nCheckout\n from the horizontal navigation along the top.\n\n\nBasic settings can be found on the \nCheckout\n \n \nCheckout Settings\n screen.\n\n\n\n\nPayPal Express Checkout\n\n\nThe 1upkeyboards.com website is going to be utilizing \n \nPayPal Express Checkout\n gateway. Additional documentation for the \nWooCommerce PayPal Express Checkout\n can be found \nhere\n. \n\n\nConfiguring PayPal Express Checkout\n\n\n\n\nFollow the instructions above for \nAcessing WooCommerce Payment Processing Settings\n\n\nSelect \n \nPayPal Express Checkout\n from the sub-menu.\n\n\nFrom this page you can configure various settings:\n\n\nInvoice Prefix\n\n\n PayPal account utilized for processing payments\n\n\nEnable debug logging for PayPal\n\n\nEnable sandbox or live mode for processing payments.", 
             "title": "Payment Processing"
         }, 
         {
@@ -332,7 +332,7 @@
         }, 
         {
             "location": "/woocommerce/woo-payment-processing/#paypal-express-checkout", 
-            "text": "The 1upkeyboards.com website is going to be utilizing    PayPal Express Checkout  gateway. Additional documentation for the ** WooCommerce PayPal Express Checkout  can be found  here", 
+            "text": "The 1upkeyboards.com website is going to be utilizing    PayPal Express Checkout  gateway. Additional documentation for the  WooCommerce PayPal Express Checkout  can be found  here .", 
             "title": "PayPal Express Checkout"
         }, 
         {
