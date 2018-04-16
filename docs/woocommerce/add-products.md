@@ -14,7 +14,10 @@
 
 ### Adding a Composite Product
 
-* Composite products require tweaking the template utilized.
+* Composite products require tweaking the WordPress/WooCommerce template utilized from default products.
+
+![Export CSV](../images/composite-products-setting.png)
+
 
 
 #### Other Resources
