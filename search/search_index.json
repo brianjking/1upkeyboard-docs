@@ -492,12 +492,12 @@
         }, 
         {
             "location": "/woocommerce/update-url-woo/", 
-            "text": "Updating a Product URL \n Creating Redirects\n\n\nhttps://yoast.com/which-redirect/#utm_source=post-editor\nutm_medium=textlink\nutm_campaign=redirect-old-slug\nutm_content=6.3.1\n\n\nhttps://blog.templatetoaster.com/best-wordpress-redirect-plugins/", 
+            "text": "Updating a Product URL \n Creating Redirects\n\n\nIf you update a product URL it is advisable to setup a redirect to ensure visitors and search engines know where to find the updated content. You can read more about \nredirects here\n.", 
             "title": "Updating Product URLs & Creating Redirects"
         }, 
         {
             "location": "/woocommerce/update-url-woo/#updating-a-product-url-creating-redirects", 
-            "text": "https://yoast.com/which-redirect/#utm_source=post-editor utm_medium=textlink utm_campaign=redirect-old-slug utm_content=6.3.1  https://blog.templatetoaster.com/best-wordpress-redirect-plugins/", 
+            "text": "If you update a product URL it is advisable to setup a redirect to ensure visitors and search engines know where to find the updated content. You can read more about  redirects here .", 
             "title": "Updating a Product URL &amp; Creating Redirects"
         }, 
         {
