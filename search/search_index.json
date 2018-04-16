@@ -142,13 +142,23 @@
         }, 
         {
             "location": "/wordpress-basics/managing-homepage-slider/", 
-            "text": "Managing Homepage Slider Items", 
+            "text": "Managing Homepage Slider\n\n\n\n\nEditing Homepage Fullwidth Slider Items\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nPages\n \n ** \nAll Pages\n\n\nClick \nEdit\n on the page labeled \nHome\n\n\nFollow instructions seen in recording below.\n\n\n\n\n\n\nAdding New Slides to Homepage Fullwidth Slider", 
             "title": "Managing Homepage Slider"
         }, 
         {
-            "location": "/wordpress-basics/managing-homepage-slider/#managing-homepage-slider-items", 
+            "location": "/wordpress-basics/managing-homepage-slider/#managing-homepage-slider", 
             "text": "", 
-            "title": "Managing Homepage Slider Items"
+            "title": "Managing Homepage Slider"
+        }, 
+        {
+            "location": "/wordpress-basics/managing-homepage-slider/#editing-homepage-fullwidth-slider-items", 
+            "text": "Login to  WordPress Admin  Navigate to  Pages    **  All Pages  Click  Edit  on the page labeled  Home  Follow instructions seen in recording below.", 
+            "title": "Editing Homepage Fullwidth Slider Items"
+        }, 
+        {
+            "location": "/wordpress-basics/managing-homepage-slider/#adding-new-slides-to-homepage-fullwidth-slider", 
+            "text": "", 
+            "title": "Adding New Slides to Homepage Fullwidth Slider"
         }, 
         {
             "location": "/wordpress-basics/backups/", 
