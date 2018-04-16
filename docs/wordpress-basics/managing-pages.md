@@ -23,7 +23,7 @@
 
 #### Creating New Instructions & Downloads Content (Pages)
 
-!!! note
+!!! tip
  	If you need to create a new **Instructions & Downloads** content it is best to use the **CLONE** function from one of the existing instructions & downloads pages. From the clone you can update the **PAGE TITLE**, **page URL**, & **page content**. 
 
  	Once complete be sure to add the link following the [instructions above](https://brianjking.github.io/1upkeyboard-docs/wordpress-basics/managing-pages/#instructions-downloads-pages).
