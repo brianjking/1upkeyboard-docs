@@ -19,7 +19,6 @@ pages:
     - Other Resources: wordpress-basics/other-resources.md
 - WooCommerce:
     - Adding Products: woocommerce/add-products.md
-    - Editing Products: woocommerce/edit-products.md
     - Managing Product Data (Inventory, Cost of Goods, Visibility, Reviews & More): woocommerce/managing-product-data.md
     - Upsells, Cross-sells, & Related Products in WooCommerce: woocommerce/upsells-cross-sells.md
     - Payment Processing: woocommerce/woo-payment-processing.md
