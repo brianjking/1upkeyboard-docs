@@ -16,9 +16,18 @@
 * Login to **WordPress Admin**
 * Click on **Pages** --> **All Pages**
 * Select the **Instructions & Downloads Page**
-![Upsells & Cross-sells](../images/select-page-edit.png)
+![Select Page to Edit](../images/select-page-edit.png)
 * Add or update links using the Divi Editor as seen below.
-![Upsells & Cross-sells](../images/page-editing.png)
+![Editing Page](../images/page-editing.png)
+* Click **SAVE & EXIT**
+
+#### Creating New Instructions & Downloads Content (Pages)
+
+!!! note
+ 	If you need to create a new **Instructions & Downloads** content it is best to use the **CLONE** function from one of the existing instructions & downloads pages. From the clone you can update the **PAGE TITLE**, **page URL**, & **page content**. 
+
+ 	Once complete be sure to add the link following the [instructions above](https://brianjking.github.io/1upkeyboard-docs/wordpress-basics/managing-pages/#instructions-downloads-pages).
+
 
 ## WooCommerce Managed Pages
 
