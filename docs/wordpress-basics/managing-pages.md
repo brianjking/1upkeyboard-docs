@@ -15,7 +15,11 @@
 
 * Login to **WordPress Admin**
 * Click on **Pages** --> **All Pages**
-* Select the 
+* Select the **Instructions & Downloads Page**
+![Upsells & Cross-sells](../images/select-page-edit.png)
+* Add or update links using the Divi Editor as seen below.
+![Upsells & Cross-sells](../images/page-editing.png)
+
 
 ## WooCommerce Managed Pages
 
