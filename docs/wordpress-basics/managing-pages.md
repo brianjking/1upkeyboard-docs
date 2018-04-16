@@ -20,7 +20,6 @@
 * Add or update links using the Divi Editor as seen below.
 ![Upsells & Cross-sells](../images/page-editing.png)
 
-
 ## WooCommerce Managed Pages
 
 !!! note
