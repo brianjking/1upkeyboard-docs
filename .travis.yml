@@ -7,7 +7,7 @@ script:
   - mkdocs build
 
 
-# Deploy artifacts
+# Deploy artifacts (MkDocs HTML to GitHub Pages)
 after_success:
 - git config user.name "{GH_USER}"
 - git config user.email "{GH_EMAIL}"

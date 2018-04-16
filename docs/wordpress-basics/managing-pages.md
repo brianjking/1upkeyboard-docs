@@ -13,12 +13,16 @@
 
 ### Instructions & Downloads Pages
 
+* Login to **WordPress Admin**
+* Click on **Pages** --> **All Pages**
+* Select the 
+
 ## WooCommerce Managed Pages
 
 !!! note
  	**WooCommerce** has specific pages that are managed via separate templates that _**cannot/should not**_ be modified via the **WordPress Pages** section of your WordPress Admin. 
 
-* Pages managed by WooCommerce Templates
+* Pages managed by **WooCommerce Templates**
 	* My Account
 	* Checkout
 	* Cart 
