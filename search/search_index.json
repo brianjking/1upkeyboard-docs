@@ -162,12 +162,12 @@
         }, 
         {
             "location": "/wordpress-basics/backups/", 
-            "text": "Managing Backups", 
+            "text": "Managing Backups\n\n\nThe WordPress/WooCommerce site is backed up via \nManageWP\n on a daily basis. \nThis is included in your agreement with me for several months. After this period ends we can work out extended backup protection.", 
             "title": "Managing Backups"
         }, 
         {
             "location": "/wordpress-basics/backups/#managing-backups", 
-            "text": "", 
+            "text": "The WordPress/WooCommerce site is backed up via  ManageWP  on a daily basis.  This is included in your agreement with me for several months. After this period ends we can work out extended backup protection.", 
             "title": "Managing Backups"
         }, 
         {
