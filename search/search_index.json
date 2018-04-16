@@ -52,7 +52,7 @@
         }, 
         {
             "location": "/wordpress-basics/media/", 
-            "text": "Managing Media in WordPress\n\n\nMedia Sizes\n\n\n\n\nCatalog Images - 400x400px (no hard crop)\n\n\nProduct Images - 510x999px (no hard crop)\n\n\nProduct Thumbnails - 157x157px (hard crop)\n\n\n\n\nAdding Media to the WordPress Library\n\n\n\n\nLogin to \nWordPress Admin area\n.\n\n\nNavigate to \nMEDIA\n \n \nAdd New\n\n\nSelect the media you want to upload from your computer by clicking \nSelect Files\n or \ndrag them from your computer to the selected area.\n\n\n\n\n\n\nNote\n\n\nIt is best to compress impress on your computer prior to uploading to WordPress. On Windows you can use \nFileOptimizer\n or on Mac \n Linux I suggest using \nImageOptim\n. \n\n\n\n\nEditing Media in the WordPress Library\n\n\nOther Resources\n\n\n\n\nImportance of ALT \n TITLE tags on images for SEO", 
+            "text": "Managing Media in WordPress\n\n\nMedia Sizes\n\n\n\n\nCatalog Images - 400x400px (no hard crop)\n\n\nProduct Images - 510x999px (no hard crop)\n\n\nProduct Thumbnails - 157x157px (hard crop)\n\n\n\n\nAdding Media to the WordPress Library\n\n\n\n\nLogin to \nWordPress Admin area\n.\n\n\nNavigate to \nMEDIA\n \n \nAdd New\n\n\nSelect the media you want to upload from your computer by clicking \nSelect Files\n or \ndrag them from your computer to the selected area.\n\n\n\n\n\n\nNote\n\n\nIt is best to compress impress on your computer prior to uploading to WordPress. On Windows you can use \nFileOptimizer\n or on Mac \n Linux I suggest using \nImageOptim\n. \n\n\n\n\nEditing Media in the WordPress Library\n\n\n\n\nLogin to \nWordPress Admin Area\n\n\nNavigate to \nMEDIA\n \n \nLibrary\n\n\nSearch for the file you wish to edit \n\n\nSelect the file\n\n\n\n\nOther Resources\n\n\n\n\nImportance of ALT \n TITLE tags on images for SEO", 
             "title": "Adding Media"
         }, 
         {
@@ -72,7 +72,7 @@
         }, 
         {
             "location": "/wordpress-basics/media/#editing-media-in-the-wordpress-library", 
-            "text": "", 
+            "text": "Login to  WordPress Admin Area  Navigate to  MEDIA     Library  Search for the file you wish to edit   Select the file", 
             "title": "Editing Media in the WordPress Library"
         }, 
         {
@@ -82,7 +82,7 @@
         }, 
         {
             "location": "/wordpress-basics/managing-pages/", 
-            "text": "Managing Pages in WordPress\n\n\nAccessing WordPress Pages in the WordPress Admin\n\n\n\n\nLogin to \nWordPress Admin\n\n\nClick on \nPages\n \n \nAll Pages\n\n\n\n\nNormal WordPress Pages\n\n\nInstructions \n Downloads Pages\n\n\nWooCommerce Managed Pages\n\n\n\n\nNote\n\n\nWooCommerce\n has specific pages that are managed via separate templates that \ncannot/should not\n be modified via the \nWordPress Pages\n section of your WordPress Admin. \n\n\n\n\n\n\nPages managed by WooCommerce Templates\n\n\nMy Account\n\n\nCheckout\n\n\nCart", 
+            "text": "Managing Pages in WordPress\n\n\nAccessing WordPress Pages in the WordPress Admin\n\n\n\n\nLogin to \nWordPress Admin\n\n\nClick on \nPages\n \n \nAll Pages\n\n\n\n\nNormal WordPress Pages\n\n\nInstructions \n Downloads Pages\n\n\n\n\nLogin to \nWordPress Admin\n\n\nClick on \nPages\n \n \nAll Pages\n\n\nSelect the \n\n\n\n\nWooCommerce Managed Pages\n\n\n\n\nNote\n\n\nWooCommerce\n has specific pages that are managed via separate templates that \ncannot/should not\n be modified via the \nWordPress Pages\n section of your WordPress Admin. \n\n\n\n\n\n\nPages managed by \nWooCommerce Templates\n\n\nMy Account\n\n\nCheckout\n\n\nCart", 
             "title": "Managing Pages"
         }, 
         {
@@ -102,12 +102,12 @@
         }, 
         {
             "location": "/wordpress-basics/managing-pages/#instructions-downloads-pages", 
-            "text": "", 
+            "text": "Login to  WordPress Admin  Click on  Pages     All Pages  Select the", 
             "title": "Instructions &amp; Downloads Pages"
         }, 
         {
             "location": "/wordpress-basics/managing-pages/#woocommerce-managed-pages", 
-            "text": "Note  WooCommerce  has specific pages that are managed via separate templates that  cannot/should not  be modified via the  WordPress Pages  section of your WordPress Admin.     Pages managed by WooCommerce Templates  My Account  Checkout  Cart", 
+            "text": "Note  WooCommerce  has specific pages that are managed via separate templates that  cannot/should not  be modified via the  WordPress Pages  section of your WordPress Admin.     Pages managed by  WooCommerce Templates  My Account  Checkout  Cart", 
             "title": "WooCommerce Managed Pages"
         }, 
         {
