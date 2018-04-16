@@ -227,7 +227,7 @@
         }, 
         {
             "location": "/woocommerce/add-products/", 
-            "text": "Adding New Products to WooCommerce\n\n\nTypes of Products\n\n\n\n\nSimple Product\n\n\nGrouped Product\n\n\nExternal/Affiliate Product\n\n\nVariable Product\n\n\nComposite Product\n\n\nProduct Bundles\n\n\n\n\nAdding a Product\n\n\nAdding a Composite Product\n\n\n\n\nComposite products require tweaking the WordPress/WooCommerce template utilized from default products.\n\n\n\n\n\n\nOther Resources\n\n\n\n\n\n\nManaging Products Guide from WooCommerce\n\n\n\n\n\n\nBulk Editing Product Details\n\n\n\n\n\n\nBundled Products \n Inventory", 
+            "text": "Adding New Products to WooCommerce\n\n\nTypes of Products\n\n\n\n\nSimple Product\n\n\nGrouped Product\n\n\nExternal/Affiliate Product\n\n\nVariable Product\n\n\nComposite Product\n\n\nProduct Bundles\n\n\n\n\n\n\n\n\nTip\n\n\nYou can identify the type of product using the column circled above. If you mouseover each product it will show one of the types of products from the list above.\n\n\n\n\nAdding a Product\n\n\n\n\nLogin to WordPress Admin\n\n\nNavigate to \nProducts\n \n \nAdd New\n\n\n\n\n\n\nTip\n\n\nFor products that are \nvariable, composite, or product bundles\n it is generally easiest to use the \nDuplicate\n function to clone an existing product of the same type. From the duplicated product you can edit the product details, URL, photos, price, etc.\n\n\n\n\nAdding a Composite Product\n\n\n\n\nComposite products require tweaking the WordPress/WooCommerce template utilized from default products.\n\n\n\n\n\n\nOther Resources\n\n\n\n\n\n\nManaging Products Guide from WooCommerce\n\n\n\n\n\n\nBulk Editing Product Details\n\n\n\n\n\n\nBundled Products \n Inventory", 
             "title": "Adding Products"
         }, 
         {
@@ -237,12 +237,12 @@
         }, 
         {
             "location": "/woocommerce/add-products/#types-of-products", 
-            "text": "Simple Product  Grouped Product  External/Affiliate Product  Variable Product  Composite Product  Product Bundles", 
+            "text": "Simple Product  Grouped Product  External/Affiliate Product  Variable Product  Composite Product  Product Bundles     Tip  You can identify the type of product using the column circled above. If you mouseover each product it will show one of the types of products from the list above.", 
             "title": "Types of Products"
         }, 
         {
             "location": "/woocommerce/add-products/#adding-a-product", 
-            "text": "", 
+            "text": "Login to WordPress Admin  Navigate to  Products     Add New    Tip  For products that are  variable, composite, or product bundles  it is generally easiest to use the  Duplicate  function to clone an existing product of the same type. From the duplicated product you can edit the product details, URL, photos, price, etc.", 
             "title": "Adding a Product"
         }, 
         {
@@ -254,16 +254,6 @@
             "location": "/woocommerce/add-products/#other-resources", 
             "text": "Managing Products Guide from WooCommerce    Bulk Editing Product Details    Bundled Products   Inventory", 
             "title": "Other Resources"
-        }, 
-        {
-            "location": "/woocommerce/edit-products/", 
-            "text": "Editing Existing Products in WooCommerce", 
-            "title": "Editing Products"
-        }, 
-        {
-            "location": "/woocommerce/edit-products/#editing-existing-products-in-woocommerce", 
-            "text": "", 
-            "title": "Editing Existing Products in WooCommerce"
         }, 
         {
             "location": "/woocommerce/managing-product-data/", 
