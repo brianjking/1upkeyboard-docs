@@ -9,7 +9,7 @@
 * Click **Edit** on the page labeled **Home**
 * Follow instructions seen in recording below.
 
-![Homepage Slider](../images/edit-slider.gif)
+![Homepage Slider](../images/edit-slider.gif.gif)
 
 
 ## Adding New Slides to Homepage Fullwidth Slider
