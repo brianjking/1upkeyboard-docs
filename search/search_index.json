@@ -427,12 +427,12 @@
         }, 
         {
             "location": "/woocommerce/woo-coupons/", 
-            "text": "Using Coupons in WooCommerce\n\n\nCoupons Documentation\n\n\n\n\nManaging Coupons in WooCommerce", 
+            "text": "Using Coupons in WooCommerce\n\n\nYou can enable/disable the use of coupons in WooCommerce in the WooCommerce Admin settings.\n\n\n\n\nLogin to \nWordPress Admin\n\n\nNavigate to \nWooCommerce\n \n \nSettings\n \n \nCheckout\n \n \nCheckout Options\n \n\n\n\n\n\n\nNote\n\n\nCoupon use is currently \ndisabled\n. Additional documentation for coupons in WooCommerce can be found below. \n\n\n\n\nCoupons Documentation\n\n\n\n\nManaging Coupons in WooCommerce", 
             "title": "Coupons"
         }, 
         {
             "location": "/woocommerce/woo-coupons/#using-coupons-in-woocommerce", 
-            "text": "", 
+            "text": "You can enable/disable the use of coupons in WooCommerce in the WooCommerce Admin settings.   Login to  WordPress Admin  Navigate to  WooCommerce     Settings     Checkout     Checkout Options      Note  Coupon use is currently  disabled . Additional documentation for coupons in WooCommerce can be found below.", 
             "title": "Using Coupons in WooCommerce"
         }, 
         {
