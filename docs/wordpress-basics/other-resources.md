@@ -16,3 +16,7 @@
 * [Known WooCommerce Conflicts & Issues](https://docs.woocommerce.com/document/known-conflicts/)
 
 * [Siteground WordPress FAQs & Tutorials](https://www.siteground.com/kb/category/wordpress-faq/)
+
+## Divi Docs & Resources
+
+* [10 Hidden Divi Features You Should Know About](https://www.elegantthemes.com/blog/divi-resources/10-hidden-divi-features-you-need-to-know-about)
