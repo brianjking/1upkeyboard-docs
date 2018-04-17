@@ -537,12 +537,12 @@
         }, 
         {
             "location": "/advanced/hide-elements-with-divi/", 
-            "text": "Hide Elements on certain device types in Divi\n\n\nThe Divi theme framework allows for you to easily design content", 
+            "text": "Hide Elements on certain device types in Divi\n\n\nThe Divi theme framework allows for you to easily design powerful layouts that display different information or in a different manner on desktop/laptop, tablet, and mobile via the \nright click controls\n inside of the theme framework.\n\n\n\n\nThis functionality can allow you to enable/disable certain elements from displaying on pages for users viewing the site on mobile, or display certain information for mobile users only, etc. \n\n\nFrom a page that uses the \nDivi Page Builder\n you can right click on any element and scroll to \nDisable\n and select which devices you'd like to disable a content block on.", 
             "title": "Hiding Elements on Certain Device Types with Divi"
         }, 
         {
             "location": "/advanced/hide-elements-with-divi/#hide-elements-on-certain-device-types-in-divi", 
-            "text": "The Divi theme framework allows for you to easily design content", 
+            "text": "The Divi theme framework allows for you to easily design powerful layouts that display different information or in a different manner on desktop/laptop, tablet, and mobile via the  right click controls  inside of the theme framework.   This functionality can allow you to enable/disable certain elements from displaying on pages for users viewing the site on mobile, or display certain information for mobile users only, etc.   From a page that uses the  Divi Page Builder  you can right click on any element and scroll to  Disable  and select which devices you'd like to disable a content block on.", 
             "title": "Hide Elements on certain device types in Divi"
         }, 
         {
@@ -567,12 +567,12 @@
         }, 
         {
             "location": "/advanced/managing-hex-json/", 
-            "text": "Managing HEX \n JSON files in WordPress", 
+            "text": "Managing HEX \n JSON files in WordPress\n\n\n\n\nTBD.", 
             "title": "Uploading HEX & JSON Files"
         }, 
         {
             "location": "/advanced/managing-hex-json/#managing-hex-json-files-in-wordpress", 
-            "text": "", 
+            "text": "TBD.", 
             "title": "Managing HEX &amp; JSON files in WordPress"
         }
     ]
