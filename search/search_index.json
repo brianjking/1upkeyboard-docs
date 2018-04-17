@@ -202,7 +202,7 @@
         }, 
         {
             "location": "/wordpress-basics/other-resources/", 
-            "text": "Other WordPress Resources\n\n\nWordPress Docs\n\n\nSecurity Related Resources\n\n\n\n\nWordPress Vulnerability Alerts\n\n\nI suggest signing up for the \nemail newsletter\n to ensure you're promptly upgrading plugins, themes, or WordPress core.\n\n\n\n\n\n\n\n\nWooCommerce Docs\n\n\n\n\nWooCommerce Docs\n\n\nWooCommerce Basic Troubleshooting Self Service Resources\n\n\nSpecific WooCommerce Basic Troubleshooting Self Service Resources\n\n\n\n\nKnown WooCommerce Conflicts \n Issues\n\n\n\n\n\n\nSiteground WordPress FAQs \n Tutorials", 
+            "text": "Other WordPress Resources\n\n\nWordPress Docs\n\n\nSecurity Related Resources\n\n\n\n\nWordPress Vulnerability Alerts\n\n\nI suggest signing up for the \nemail newsletter\n to ensure you're promptly upgrading plugins, themes, or WordPress core.\n\n\n\n\n\n\n\n\nWooCommerce Docs\n\n\n\n\nWooCommerce Docs\n\n\nWooCommerce Basic Troubleshooting Self Service Resources\n\n\nSpecific WooCommerce Basic Troubleshooting Self Service Resources\n\n\n\n\nKnown WooCommerce Conflicts \n Issues\n\n\n\n\n\n\nSiteground WordPress FAQs \n Tutorials\n\n\n\n\n\n\nDivi Docs \n Resources\n\n\n\n\n10 Hidden Divi Features You Should Know About", 
             "title": "Other Resources"
         }, 
         {
@@ -224,6 +224,11 @@
             "location": "/wordpress-basics/other-resources/#woocommerce-docs", 
             "text": "WooCommerce Docs  WooCommerce Basic Troubleshooting Self Service Resources  Specific WooCommerce Basic Troubleshooting Self Service Resources   Known WooCommerce Conflicts   Issues    Siteground WordPress FAQs   Tutorials", 
             "title": "WooCommerce Docs"
+        }, 
+        {
+            "location": "/wordpress-basics/other-resources/#divi-docs-resources", 
+            "text": "10 Hidden Divi Features You Should Know About", 
+            "title": "Divi Docs &amp; Resources"
         }, 
         {
             "location": "/woocommerce/add-products/", 
