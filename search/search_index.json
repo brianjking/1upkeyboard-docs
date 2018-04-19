@@ -202,7 +202,7 @@
         }, 
         {
             "location": "/wordpress-basics/other-resources/", 
-            "text": "Other WordPress Resources\n\n\nWordPress Docs\n\n\nSecurity Related Resources\n\n\n\n\nWordPress Vulnerability Alerts\n\n\nI suggest signing up for the \nemail newsletter\n to ensure you're promptly upgrading plugins, themes, or WordPress core.\n\n\n\n\n\n\n\n\nWooCommerce Docs\n\n\n\n\nWooCommerce Docs\n\n\nWooCommerce Basic Troubleshooting Self Service Resources\n\n\nSpecific WooCommerce Basic Troubleshooting Self Service Resources\n\n\n\n\nKnown WooCommerce Conflicts \n Issues\n\n\n\n\n\n\nSiteground WordPress FAQs \n Tutorials\n\n\n\n\n\n\nDivi Docs \n Resources\n\n\n\n\n10 Hidden Divi Features You Should Know About", 
+            "text": "Other WordPress Resources\n\n\nWordPress Docs\n\n\nSecurity Related Resources\n\n\n\n\nWordPress Vulnerability Alerts\n\n\nI suggest signing up for the \nemail newsletter\n to ensure you're promptly upgrading plugins, themes, or WordPress core.\n\n\n\n\n\n\n\n\nMisc Resources\n\n\n\n\nOmniCalculator - Percentage Off Calculator\n\n\n\n\nWooCommerce Docs\n\n\n\n\nWooCommerce Docs\n\n\nWooCommerce Basic Troubleshooting Self Service Resources\n\n\nSpecific WooCommerce Basic Troubleshooting Self Service Resources\n\n\n\n\nKnown WooCommerce Conflicts \n Issues\n\n\n\n\n\n\nSiteground WordPress FAQs \n Tutorials\n\n\n\n\n\n\nDivi Docs \n Resources\n\n\n\n\n10 Hidden Divi Features You Should Know About", 
             "title": "Other Resources"
         }, 
         {
@@ -219,6 +219,11 @@
             "location": "/wordpress-basics/other-resources/#security-related-resources", 
             "text": "WordPress Vulnerability Alerts  I suggest signing up for the  email newsletter  to ensure you're promptly upgrading plugins, themes, or WordPress core.", 
             "title": "Security Related Resources"
+        }, 
+        {
+            "location": "/wordpress-basics/other-resources/#misc-resources", 
+            "text": "OmniCalculator - Percentage Off Calculator", 
+            "title": "Misc Resources"
         }, 
         {
             "location": "/wordpress-basics/other-resources/#woocommerce-docs", 
