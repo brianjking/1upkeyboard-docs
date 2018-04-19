@@ -7,6 +7,9 @@
 * [WordPress Vulnerability Alerts](https://wpvulndb.com/)
 	* I suggest signing up for the [email newsletter](https://wpvulndb.com/subscribers/new) to ensure you're promptly upgrading plugins, themes, or WordPress core.
 
+## Misc Resources
+
+* [OmniCalculator - Percentage Off Calculator](https://www.omnicalculator.com/business/percent-off)
 
 ## WooCommerce Docs
 
