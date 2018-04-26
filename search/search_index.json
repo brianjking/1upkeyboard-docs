@@ -546,6 +546,21 @@
             "title": "Hiding On Sale Badge For Specific Products"
         }, 
         {
+            "location": "/woocommerce/troubleshooting-woo/", 
+            "text": "Troubleshooting WooCommerce\n\n\nNo Shipping Rate Available\n\n\n\n\nTip\n\n\nIf a customer receives a \"No shipping rates available\" error message when attempting to checkout check the \nWooCommerce Services Shipping Error Log\n. This error generally indicates that a product without a weight and/or dimensions is in the customers WooCommerce shopping cart. This restricts \nWooCommerce Services\n from obtaining a real-time rate from the \nUSPS shipping services pricing API\n.\n\n\n\n\n04-26-2018 @ 10:54:23 - Error. Unable to get shipping rate(s) for wc_services_usps instance id 4. (calculate_shipping)\n04-26-2018 @ 10:54:23 - product_missing_weight Product ( ID: 210373 ) did not include a weight. Shipping rates cannot be calculated. (calculate_shipping)\n04-26-2018 @ 11:26:26 - Error. Unable to get shipping rate(s) for wc_services_usps instance id 4. (calculate_shipping)\n04-26-2018 @ 11:26:26 - product_missing_weight Product ( ID: 207034 ) did not include a weight. Shipping rates cannot be calculated. (calculate_shipping)\n04-26-2018 @ 11:26:27 - Error. Unable to get shipping rate(s) for wc_services_usps instance id 4. (calculate_shipping)\n04-26-2018 @ 11:26:27 - product_missing_weight Product ( ID: 207034 ) did not include a weight. Shipping rates cannot be calculated. (calculate_shipping)", 
+            "title": "Troubleshooting WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/troubleshooting-woo/#troubleshooting-woocommerce", 
+            "text": "", 
+            "title": "Troubleshooting WooCommerce"
+        }, 
+        {
+            "location": "/woocommerce/troubleshooting-woo/#no-shipping-rate-available", 
+            "text": "Tip  If a customer receives a \"No shipping rates available\" error message when attempting to checkout check the  WooCommerce Services Shipping Error Log . This error generally indicates that a product without a weight and/or dimensions is in the customers WooCommerce shopping cart. This restricts  WooCommerce Services  from obtaining a real-time rate from the  USPS shipping services pricing API .   04-26-2018 @ 10:54:23 - Error. Unable to get shipping rate(s) for wc_services_usps instance id 4. (calculate_shipping)\n04-26-2018 @ 10:54:23 - product_missing_weight Product ( ID: 210373 ) did not include a weight. Shipping rates cannot be calculated. (calculate_shipping)\n04-26-2018 @ 11:26:26 - Error. Unable to get shipping rate(s) for wc_services_usps instance id 4. (calculate_shipping)\n04-26-2018 @ 11:26:26 - product_missing_weight Product ( ID: 207034 ) did not include a weight. Shipping rates cannot be calculated. (calculate_shipping)\n04-26-2018 @ 11:26:27 - Error. Unable to get shipping rate(s) for wc_services_usps instance id 4. (calculate_shipping)\n04-26-2018 @ 11:26:27 - product_missing_weight Product ( ID: 207034 ) did not include a weight. Shipping rates cannot be calculated. (calculate_shipping)", 
+            "title": "No Shipping Rate Available"
+        }, 
+        {
             "location": "/advanced/hide-elements-with-divi/", 
             "text": "Hide Elements on certain device types in Divi\n\n\nThe Divi theme framework allows for you to easily design powerful layouts that display different information or in a different manner on desktop/laptop, tablet, and mobile via the \nright click controls\n inside of the theme framework.\n\n\n\n\nThis functionality can allow you to enable/disable certain elements from displaying on pages for users viewing the site on mobile, or display certain information for mobile users only, etc. \n\n\nFrom a page that uses the \nDivi Page Builder\n you can right click on any element and scroll to \nDisable\n and select which devices you'd like to disable a content block on.", 
             "title": "Hiding Elements on Certain Device Types with Divi"
