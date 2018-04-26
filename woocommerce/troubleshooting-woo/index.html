@@ -616,6 +616,26 @@
     No Shipping Rate Available
   </a>
   
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#example-error-from-the-woocommerce-services-shipping-error-log" title="Example Error from the WooCommerce Services Shipping Error Log" class="md-nav__link">
+    Example Error from the WooCommerce Services Shipping Error Log
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-the-example-error-displayed-above" title="Understanding the Example Error Displayed Above" class="md-nav__link">
+    Understanding the Example Error Displayed Above
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
       
@@ -719,6 +739,26 @@
     No Shipping Rate Available
   </a>
   
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#example-error-from-the-woocommerce-services-shipping-error-log" title="Example Error from the WooCommerce Services Shipping Error Log" class="md-nav__link">
+    Example Error from the WooCommerce Services Shipping Error Log
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-the-example-error-displayed-above" title="Understanding the Example Error Displayed Above" class="md-nav__link">
+    Understanding the Example Error Displayed Above
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
       
@@ -746,6 +786,7 @@
 <p class="admonition-title">Tip</p>
 <p>If a customer receives a "No shipping rates available" error message when attempting to checkout check the <strong><a href="https://www.1upkeyboards.com/wp-admin/admin.php?page=wc-status&amp;tab=logs">WooCommerce Services Shipping Error Log</a></strong>. This error generally indicates that a product without a weight and/or dimensions is in the customers WooCommerce shopping cart. This restricts <code>WooCommerce Services</code> from obtaining a real-time rate from the <code>USPS shipping services pricing API</code>.</p>
 </div>
+<h3 id="example-error-from-the-woocommerce-services-shipping-error-log">Example Error from the WooCommerce Services Shipping Error Log<a class="headerlink" href="#example-error-from-the-woocommerce-services-shipping-error-log" title="Permanent link">&para;</a></h3>
 <div class="codehilite"><pre><span></span>04-26-2018 @ 10:54:23 - Error. Unable to get shipping rate(s) for wc_services_usps instance id 4. (calculate_shipping)
 04-26-2018 @ 10:54:23 - product_missing_weight Product ( ID: 210373 ) did not include a weight. Shipping rates cannot be calculated. (calculate_shipping)
 04-26-2018 @ 11:26:26 - Error. Unable to get shipping rate(s) for wc_services_usps instance id 4. (calculate_shipping)
@@ -753,6 +794,18 @@
 04-26-2018 @ 11:26:27 - Error. Unable to get shipping rate(s) for wc_services_usps instance id 4. (calculate_shipping)
 04-26-2018 @ 11:26:27 - product_missing_weight Product ( ID: 207034 ) did not include a weight. Shipping rates cannot be calculated. (calculate_shipping)
 </pre></div>
+
+<h3 id="understanding-the-example-error-displayed-above">Understanding the Example Error Displayed Above<a class="headerlink" href="#understanding-the-example-error-displayed-above" title="Permanent link">&para;</a></h3>
+<ul>
+<li><code>wc_services_usps instance id 4</code> is the <strong>USPS First Class Mail International</strong> shipping zone. You can see this <a href="https://www.1upkeyboards.com/wp-admin/admin.php?page=wc-settings&amp;tab=shipping&amp;instance_id=4">here</a>.</li>
+<li><code>product_missing_weight Product ( ID: 207034 )</code> is indicating that the product with the ID of <code>207034</code> is causing an issue as it does not have a weight assigned to it. </li>
+<li>If you copy <code>207034</code> to your clipboard and go to the <strong>WooCommerce Products</strong> section of the <strong>WordPress Admin</strong> you can use the <strong>Search Products</strong> box to locate the product by entering <code>207034</code> into the box and clicking <strong>Search Products.</strong> <ul>
+<li>In this example you'll find that the product with the ID of <code>207034</code> is the <strong><a href="https://www.1upkeyboards.com/shop/keyboard-kits/sweet16-macro-pad-white/">Sweet 16 Macro Pad - White</a></strong>. To fix the error you will ned to <strong><a href="https://www.1upkeyboards.com/wp-admin/post.php?post=207034&amp;action=edit">Edit the product</a></strong> and enter a weight and product dimensions. </li>
+<li>The weight &amp; dimensions can be entered by scrolling down to the <strong>Product Data</strong> section then clicking on the <strong>Shipping</strong> menu item. </li>
+<li>Once you've entered this data be sure to click <strong>Update</strong> from the <strong>Publish</strong> panel on the right hand side to save the record in the database.</li>
+</ul>
+</li>
+</ul>
                 
                   
                 
