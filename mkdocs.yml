@@ -3,7 +3,7 @@ copyright: 2017-2018 &copy; Brian J King unless otherwise noted.
 site_description: 1upkeyboards.com website documentation
 site_author: Brian J King
 repo_url: https://github.com/brianjking/1upkeyboard-docs
-pages:
+nav:
 - Home: index.md
 - WordPress Basics:
     - Adding News Posts: wordpress-basics/adding-news-posts.md
