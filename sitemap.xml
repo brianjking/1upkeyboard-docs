@@ -1,192 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
-     <loc>/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
     <url>
-     <loc>/wordpress-basics/adding-news-posts/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/wordpress-basics/menu/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/wordpress-basics/media/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/wordpress-basics/managing-pages/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/wordpress-basics/flush-cache/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/wordpress-basics/update-plugins/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/wordpress-basics/managing-homepage-slider/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/wordpress-basics/backups/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/wordpress-basics/divi-visual-builder/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/wordpress-basics/updating-shop-categories-menu/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/wordpress-basics/other-resources/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
-     <loc>/woocommerce/add-products/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/woocommerce/managing-product-data/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/woocommerce/upsells-cross-sells/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/woocommerce/woo-payment-processing/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/woocommerce/packing-shipping/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/woocommerce/woo-reporting/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/woocommerce/woo-coupons/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/woocommerce/woo-categories/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/woocommerce/woo-taxes/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/woocommerce/update-url-woo/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/woocommerce/woo-shortcodes/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/woocommerce/misc-woocommerce/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/woocommerce/woo-advanced/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/woocommerce/troubleshooting-woo/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
-     <loc>/advanced/hide-elements-with-divi/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/advanced/ab-testing-with-divi/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/advanced/managing-hex-json/</loc>
-     <lastmod>2018-04-26</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
 </urlset>
